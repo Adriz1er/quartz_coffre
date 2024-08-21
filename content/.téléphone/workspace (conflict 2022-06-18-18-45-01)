@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "644a3f54ce81e687",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commun/etude lineaire droits de la femme.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42b497295dddd4f2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1c567299d60f078d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "27d1ea3a3c04bdca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "file: etude",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "f598581cca583358",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "af94fffbb5a8da6c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Commun/etude lineaire droits de la femme.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "644a3f54ce81e687",
+  "lastOpenFiles": [
+    "Commun/etude lineaire droits de la femme.md",
+    "bac_français.md",
+    "Commun/oral bac français.md",
+    "Commun/2. Projet/Bac de français/Fiche français Le brasier.md",
+    "Commun/2. Projet/Bac de français/Fiche français Automne malade.md",
+    "Commun/2. Projet/Bac de français/Fiche français 6.md",
+    "Commun/2. Projet/Bac de français/Fiche français 4.md",
+    "Commun/2. Projet/Bac de français/Fiche français 3.md",
+    "Commun/2. Projet/Bac de français/Fiche français 2.md",
+    "Commun/2. Projet/Bac de français/fiche français 1.md"
+  ]
+}

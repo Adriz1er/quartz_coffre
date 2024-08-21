@@ -1,0 +1,26 @@
+{
+  "queries": [
+    {
+      "id": "query:8c5c804a-dc6f-4a30-932c-6193965682ba",
+      "name": "projet",
+      "query": "list\nfrom #projet",
+      "type": "Dataview",
+      "createCommand": true,
+      "useDisabledFolders": false,
+      "openType": "Active Leaf"
+    },
+    {
+      "id": "query:740dd7f7-a3be-46fe-8e77-3408b516404d",
+      "name": "pour boite de réception",
+      "query": "list\nfrom \"pour boîte de réception\"",
+      "type": "Dataview",
+      "createCommand": true,
+      "useDisabledFolders": false,
+      "openType": "Default"
+    }
+  ],
+  "disabledFolders": "",
+  "debug": false,
+  "openType": "New Leaf",
+  "setActive": true
+}

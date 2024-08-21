@@ -1,0 +1,24 @@
+{
+  "todoPageName": "ordinateur\nordi",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "mes notes/pris dans la boite de réception/mettre couleurs sur vue graphique.md",
+    "mes notes/pris dans la boite de réception/savoir si il faut utiliser le plugin reference map.md",
+    "mes notes/Utiliser plugin projects pour voir différemment les projets.md",
+    "mes notes/Mettre tous les intrants de notion dans un dossier obsidian.md",
+    "mes notes/mettre en place le calendrier avec plugin google calendar.md",
+    "mes notes/pris dans la boite de réception/Mettre paramètres statut pour liste projet.md"
+  ],
+  "_hiddenTags": [
+    "t"
+  ]
+}

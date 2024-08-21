@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Application PYTHON Application python qui permet un certain nombre de choses à propos du projet thalès semestre 2.md","type":"file","file":"dropbox/Dropbox/pour projet thalès/Application PYTHON vers PDF EXCEL projet thalès S2.md","x":1240,"y":950,"width":500,"height":500},
+		{"id":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Application Web Application web qui permet un certain nombre de choses à propos du projet thalès semestre 2.md","type":"file","file":"dropbox/Dropbox/pour projet thalès/Application Web à propos du projet thalès semestre 2.md","x":1240,"y":1680,"width":500,"height":500},
+		{"id":"3925d984a4394687","type":"file","file":"dropbox/Dropbox/pour projet thalès/faire la BdD pour python et application web.md","x":650,"y":1320,"width":400,"height":400},
+		{"id":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Accès à propos du projet thalès semestre 2.md","type":"file","file":"dropbox/Dropbox/pour projet thalès/Accès à propos du projet thalès semestre 2.md","x":2040,"y":820,"width":500,"height":500},
+		{"id":"f0ebd24999c78c35","type":"file","file":"dropbox/Dropbox/pour projet thalès/faire le rapport pour S2 thalès.md","x":450,"y":550,"width":400,"height":400},
+		{"id":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/gestion à propos du projet thalès semestre 2.md","type":"file","file":"dropbox/Dropbox/pour projet thalès/gestion à propos du projet thalès semestre 2.md","x":1320,"y":300,"width":500,"height":500},
+		{"id":"c523169ffb788d32","type":"file","file":"dropbox/Dropbox/pour projet thalès/boîte à idées pour thalès S2.md","x":50,"y":1200,"width":400,"height":400},
+		{"id":"2e4d33f07fe1be05","type":"file","file":"dropbox/Dropbox/pour projet thalès/mettre tag git thalès S2.md","x":250,"y":1840,"width":400,"height":400},
+		- [!] {"id":"137e814a3fd9e77f","type":"file","file":"dropbox/Dropbox/pour projet thalès/reverifier la doc à la fin du S2.md","x":715,"y":1840,"width":270,"height":270},
+		{"id":"3fb5783f518d9b82","x":2140,"y":2040,"width":400,"height":400,"type":"file","file":"dropbox/Dropbox/pour projet thalès/faire la meilleure soutenance possible Thales S2.md"}
+	],
+	"edges":[
+		{"id":"36ba3f201c4a2343","fromNode":"3925d984a4394687","fromSide":"right","toNode":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Application PYTHON Application python qui permet un certain nombre de choses à propos du projet thalès semestre 2.md","toSide":"left"},
+		{"id":"cb66fde5c0205e66","fromNode":"3925d984a4394687","fromSide":"right","toNode":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Application Web Application web qui permet un certain nombre de choses à propos du projet thalès semestre 2.md","toSide":"left"}
+	]
+}

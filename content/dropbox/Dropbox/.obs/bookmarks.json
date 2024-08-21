@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1695920459540,
+      "path": "inclus/mes horizons.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1697002688579,
+      "path": "boîte de réception.md",
+      "title": ""
+    },
+    {
+      "type": "file",
+      "ctime": 1697750784304,
+      "path": "habitudes/_liste des notes dans le dossier_.md",
+      "title": "habitudes"
+    },
+    {
+      "type": "group",
+      "ctime": 1701525549432,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1701525558754,
+          "items": [],
+          "title": "objectifs de vie"
+        },
+        {
+          "type": "group",
+          "ctime": 1701525583175,
+          "items": [],
+          "title": "objectifs à long terme"
+        },
+        {
+          "type": "group",
+          "ctime": 1701525610101,
+          "items": [],
+          "title": "objectifs d'ici 1, 2 et 3 ans"
+        },
+        {
+          "type": "group",
+          "ctime": 1701525647386,
+          "items": [],
+          "title": "intérêts et responsabilités"
+        }
+      ],
+      "title": "Horizon"
+    },
+    {
+      "type": "group",
+      "ctime": 1701525292486,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1698603923322,
+          "path": "Modèles (inclus)/boîte de réception.md",
+          "title": "boîte de réception"
+        },
+        {
+          "type": "file",
+          "ctime": 1695920831689,
+          "path": "inclus/liste des éléments à vérifier.md",
+          "title": "vérifications"
+        },
+        {
+          "type": "file",
+          "ctime": 1695920740427,
+          "path": "inclus/éléments en attente.md",
+          "title": "en attente"
+        },
+        {
+          "type": "file",
+          "ctime": 1695920642220,
+          "path": "inclus/éléments non concretisables.md",
+          "title": "non-concrétisable"
+        },
+        {
+          "type": "file",
+          "ctime": 1695920492503,
+          "path": "inclus/liste d'actions suivantes.md",
+          "title": "actions suivantes"
+        },
+        {
+          "type": "file",
+          "ctime": 1698569324259,
+          "path": "inclus/habitudes.md",
+          "title": "mes habitudes"
+        },
+        {
+          "type": "file",
+          "ctime": 1695920400791,
+          "path": "inclus/mes projets.md",
+          "title": ""
+        },
+        {
+          "type": "file",
+          "ctime": 1703422868711,
+          "path": "projets/mes projets mobile.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704463854033,
+          "path": "inclus/éléments en attente sur soi.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704744233271,
+          "path": "inclus/mes projets (mobile).md"
+        }
+      ],
+      "title": "Productivité"
+    },
+    {
+      "type": "file",
+      "ctime": 1699387809156,
+      "path": "inclus/idée aléatoire.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695929311422,
+      "path": "inclus/liste des conflits de synchronisation.md",
+      "title": "conflits de synchronisation"
+    }
+  ]
+}

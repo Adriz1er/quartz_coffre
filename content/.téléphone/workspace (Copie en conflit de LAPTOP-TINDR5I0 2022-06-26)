@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b45464ea221250",
+        "type": "leaf",
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "Commun/annotations textes oral bac.md"
+          }
+        }
+      },
+      {
+        "id": "a9bc8b95769966d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commun/Reste où il faut encore mettre des choses/Cours/10 Je suis en route blaise Cendrars.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1001d96c155f02a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "64404031bcff2a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092cf6d19ea8cac2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58d06f9ec87987d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a79fa48a932e5e8",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "83420055d70cbdfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2637066f330e8b38",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Commun/annotations textes oral bac.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0d7c8abce00aa41e",
+    "type": "split",
+    "children": [
+      {
+        "id": "89230e605448a562",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34694b347447c27d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Commun/annotations textes oral bac.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad9a69a4468a6814",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-youtube-music",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5,
+    "collapsed": true
+  },
+  "active": "30b45464ea221250",
+  "lastOpenFiles": [
+    "Commun/annotations textes oral bac.md",
+    "Commun/Reste où il faut encore mettre des choses/Cours/10 Je suis en route blaise Cendrars.md",
+    "Commun/étude linéaire.md",
+    "Commun/etude lineaire droits de la femme.md",
+    "Commun/annotations textes oral bac (conflict 2022-06-24-15-13-13).md",
+    "Commun/2. Projet/Bac de français/1 fiche français.md",
+    "étude linéaire.md",
+    "Commun/11 étude linéaire molière.md",
+    "annotations textes oral bac.md",
+    "Commun/Reste où il faut encore mettre des choses/Cours/12 étude linéaire_théâtre.md"
+  ]
+}

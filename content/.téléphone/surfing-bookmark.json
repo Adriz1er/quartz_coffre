@@ -1,0 +1,24 @@
+{
+  "bookmarks": [
+    {
+      "id": "-1365902020",
+      "name": "clarificateur",
+      "url": "https://goblin.tools/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1698565500000,
+      "modified": 1698565740000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

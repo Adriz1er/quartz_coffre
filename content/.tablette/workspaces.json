@@ -1,0 +1,694 @@
+{
+  "workspaces": {
+    "GTD": {
+      "main": {
+        "id": "77fac629626a84e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "90746f3c7c24c218",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "42c9d11219ba3db7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mes notes/Productivité/choisir ses actions avec GTD grâce à Notion.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "067f1f69b7b94ed7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mes notes/Productivité/gestion de l'action suivante doit se faire par la clarté.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "31df3d160f4a584c",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "04adda520b88f707",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mes notes/Productivité/highlights of S'organiser pour réussir.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cad662bff4e8adc3",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ae40bf3eaeec625f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "e8fd4c05f09cd828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "contexte",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d5f9db89fad7e01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf2cc7378960da1e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "right": {
+        "id": "aa696526606877b5",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "167b7f925b99b99d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mes notes/Productivité/highlights of S'organiser pour réussir.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ccf662327a6b4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "switcher:Ouvrir le sélecteur rapide": false,
+          "graph:Ouvrir la vue graphique": false,
+          "canvas:Créer une nouvelle toile": false,
+          "daily-notes:Ouvrir la note quotidienne": false,
+          "templates:Insérer le modèle": false,
+          "command-palette:Ouvrir la palette de commandes": false,
+          "zk-prefixer:Créer une nouvelle note unique": false,
+          "random-note:Ouvre une note au hasard": false,
+          "workspaces:Gérer les espaces de travail": false
+        }
+      },
+      "active": "04adda520b88f707"
+    },
+    "vidéo Jean Baudrillard": {
+      "main": {
+        "id": "77fac629626a84e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "238bd875600161b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0eb9bb9394faf4e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "cours lycée/philosophie/écologie et démocratie/l'auto-gouvernement appliqué à soi-même.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8bf7281a3655249f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "cours lycée/dans le monde capitaliste le signe dépasse le réel.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cad662bff4e8adc3",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ae40bf3eaeec625f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "e8fd4c05f09cd828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "contexte",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d5f9db89fad7e01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00a8a3dcd9ce632f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "right": {
+        "id": "aa696526606877b5",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "167b7f925b99b99d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cours lycée/dans le monde capitaliste le signe dépasse le réel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ccf662327a6b4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Ouvrir le sélecteur rapide": false,
+          "graph:Ouvrir la vue graphique": false,
+          "canvas:Créer une nouvelle toile": false,
+          "daily-notes:Ouvrir la note quotidienne": false,
+          "templates:Insérer le modèle": false,
+          "command-palette:Ouvrir la palette de commandes": false,
+          "zk-prefixer:Créer une nouvelle note unique": false,
+          "random-note:Ouvre une note au hasard": false,
+          "workspaces:Gérer les espaces de travail": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "digitalgarden:Digital Garden Publication Center": false
+        }
+      },
+      "active": "8bf7281a3655249f"
+    },
+    "conflict mettre en place gtd": {
+      "main": {
+        "id": "77fac629626a84e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "2410497a0f871dc9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b33b5e833eee90d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mettre en place GTD sur obsidian (conflict 2023-05-16-07-18-38).md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b024a3ecaae01963",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a3f698ad02362e6e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mettre en place GTD sur obsidian (conflict 2023-05-15-08-37-21).md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d39f3b7cbb15a893",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa1d7f3c346bc092",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mettre en place GTD sur obsidian.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cad662bff4e8adc3",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ae40bf3eaeec625f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "e8fd4c05f09cd828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d5f9db89fad7e01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00a8a3dcd9ce632f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3ab5757d94f4d01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "right": {
+        "id": "aa696526606877b5",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "167b7f925b99b99d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mettre en place GTD sur obsidian (conflict 2023-05-16-07-18-38).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ccf662327a6b4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1771598ddb9ad0c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Ouvrir le sélecteur rapide": false,
+          "graph:Ouvrir la vue graphique": false,
+          "canvas:Créer une nouvelle toile": false,
+          "daily-notes:Ouvrir la note quotidienne": false,
+          "templates:Insérer le modèle": false,
+          "command-palette:Ouvrir la palette de commandes": false,
+          "zk-prefixer:Créer une nouvelle note unique": false,
+          "random-note:Ouvre une note au hasard": false,
+          "workspaces:Gérer les espaces de travail": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false
+        }
+      },
+      "active": "b33b5e833eee90d5"
+    },
+    "tri": {
+      "main": {
+        "id": "77fac629626a84e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "fbffdf106e99f3d1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "601fc6a36e89e65d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mes notes/pris dans la boite de réception/remplacement des dates d'échéance.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "386b3eeb222f16e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mes notes/pris dans la boite de réception/Jouer avec Thomas dans le week-end.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4fc8abc4a4bc7e81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mes notes/pris dans la boite de réception/faire le ménage dans mes appartements.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9179a82cfd0b64d3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cad662bff4e8adc3",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ae40bf3eaeec625f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "e8fd4c05f09cd828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d5f9db89fad7e01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3ab5757d94f4d01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c89abeb260faf7e0",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "right": {
+        "id": "aa696526606877b5",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "167b7f925b99b99d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ccf662327a6b4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6886d5117bc47130",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "6374340d13fd10ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e265d92ff8bc82ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd8e9a67a238100a",
+            "type": "leaf",
+            "state": {
+              "type": "googleTaskView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Ouvrir le sélecteur rapide": false,
+          "graph:Ouvrir la vue graphique": false,
+          "canvas:Créer une nouvelle toile": false,
+          "daily-notes:Ouvrir la note quotidienne": false,
+          "templates:Insérer le modèle": false,
+          "command-palette:Ouvrir la palette de commandes": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-google-tasks:Google Tasks": false,
+          "workspaces:Gérer les espaces de travail": false
+        }
+      },
+      "active": "9179a82cfd0b64d3"
+    }
+  },
+  "active": "tri"
+}

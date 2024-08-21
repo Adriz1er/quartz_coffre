@@ -1,0 +1,12 @@
+---
+tag: ""
+---
+- [ ] si on a fait moins de 1h de sport sinon prendre une douche et changer vêtement du haut et bas du corps 🔁 every hour
+	- [ ] prendre une douche 🔁 every hour 
+	- [ ] changer de t-shirt 🔁 every hour 
+	- [?] date d'échéance pour prendre une douche soit dans deux jours 🔁 every day 
+		- [ ] la changer pour que ce soit le cas 🔁 every day 
+- [ ] besoin de prendre une douche et changer de vêtement du haut du corps tout les 2 jours 📅 2023-09-01
+- [ ] changer vêtement du bas du corps tout les trois jours 📅 2023-09-02
+- [ ] changer de pyjama toute les 3 semaines 📅 2023-09-19
+- [ ] changer de chaussettes et slip tout les jours 🔁 every day 📅 2023-09-02

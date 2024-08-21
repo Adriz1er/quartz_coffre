@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "403401c07fc6ad46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "le titre des evergreen notes doit être guidé.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d922263e8bf76262",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "09cbe718c3f49d7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commun 2/autisme.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ff54ad44ab667a5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "151d2e7e145d4c5c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4ea5c23abfec6bc5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ea9293a50b9775ee",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "968d47ae0f82bdf3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d89fa8ccbaeeac4b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "le titre des evergreen notes doit être guidé.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "07789c1319974861",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "07789c1319974861",
+  "lastOpenFiles": [
+    "Les evergreen notes doivent être axée pour un concept.md",
+    "Les evergreen notes doivent être atomique.md",
+    "Commun 2/evergreen note.md",
+    "le titre des evergreen notes doit être guidé.md",
+    "Les evergreen notes accumulent des informations.md",
+    "_Index_of_second_cerveau.md",
+    "Commun 2/autisme.md",
+    "Commun/utilitarisme.md",
+    "Commun/autisme.md",
+    "Commun/6p.268.md"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"73589b268000357f","type":"group","x":-640,"y":380,"width":1540,"height":2000,"label":"taches"},
+		{"id":"27491e809c0aeb26","type":"text","text":"# liste des risques\n- Les administrateurs peuvent abuser de leurs pouvoirs.\n\n","x":880,"y":-160,"width":480,"height":380},
+		{"id":"3335bb25226746e1","type":"file","file":"faire en sorte que le site soit sécurisé.md","x":40,"y":400,"width":840,"height":720},
+		{"id":"5ae335ae65cb383c","type":"text","text":"![[base de données]]","x":1600,"y":760,"width":620,"height":840},
+		{"id":"82f243b1c70645c4","type":"text","text":"# maquette","x":1040,"y":760,"width":420,"height":100},
+		{"id":"6b2cf2cce465f6b6","type":"file","file":"faire en sorte que le site soit pratique.md","x":420,"y":1360,"width":460,"height":600},
+		{"id":"9d6bd2674df2a33a","type":"file","file":"faire les différentes pages du site.md","x":-40,"y":1360,"width":400,"height":400},
+		{"id":"aa5c6b5b69716e50","type":"file","file":"faire une base de donnée que l'on gère en fonction des autorisations du site et que l'on peut exporter.md","x":-580,"y":960,"width":400,"height":400},
+		{"id":"5b4e6ee6eacf82b8","type":"file","file":"faire en sorte que le site saé 15 soit écologique.md","x":-40,"y":1960,"width":400,"height":400},
+		{"id":"e0678a69514718c1","x":-200,"y":-200,"width":200,"height":200,"type":"text","text":"Slide:\n- 27491e809c0aeb26\n- 27491e809c0aeb26\n- 82f243b1c70645c4\n"}
+	],
+	"edges":[]
+}

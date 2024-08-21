@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "644a3f54ce81e687",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63cd2e63877c3393",
+    "type": "split",
+    "children": [
+      {
+        "id": "442f7790d349e350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "accee912fee921a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b01ecdd06c9e68c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f639b8562e5f93e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b884194a8350df2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d25224267db2be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "644a3f54ce81e687",
+  "lastOpenFiles": [
+    "bac_français.md",
+    "Commun/oral bac français.md",
+    "Commun/2. Projet/Bac de français/Fiche français Le brasier.md",
+    "Commun/2. Projet/Bac de français/Fiche français Automne malade.md",
+    "Commun/2. Projet/Bac de français/Fiche français 6.md",
+    "Commun/2. Projet/Bac de français/Fiche français 4.md",
+    "Commun/2. Projet/Bac de français/Fiche français 3.md",
+    "Commun/2. Projet/Bac de français/Fiche français 2.md",
+    "Commun/2. Projet/Bac de français/fiche français 1.md",
+    "Commun/etude lineaire droits de la femme.md"
+  ]
+}

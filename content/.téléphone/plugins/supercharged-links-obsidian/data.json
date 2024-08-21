@@ -1,0 +1,77 @@
+{
+  "targetAttributes": [
+    "tag",
+    "horizon"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": false,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "tag",
+      "value": "📥",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "587e-c737",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "horizon",
+      "value": "objectif d'ici 1, 2, ou 3 ans",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "6b8c-c587",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "horizon",
+      "value": "objectif à long terme",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f46d-97b1",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "horizon",
+      "value": "objectif de vie",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d5af-4a3a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "horizon",
+      "value": "intérêt et responsabilité",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "9759-28fb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

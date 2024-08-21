@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1791b0ca80002e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d450a0306161b60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3484839917fbddf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34e27445042d978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9c38aeb72709991",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc470737835defdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fb35f93ce8236a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e34cd338125e490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0c3df8ce0ffd8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a74fd00c437afe3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6815bbce64822522",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7f51032464f9754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8660087d81942bf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Créer une nouvelle table de données": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-google-tasks:Google Tasks": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "workspaces:Gérer les espaces de travail": false
+    }
+  },
+  "active": "cc470737835defdc",
+  "lastOpenFiles": [
+    "Sans titre.md",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/travailler/desktop.ini",
+    "Sans titre 3.md",
+    "~syncthing~Sans titre 3.md.tmp",
+    "Sans titre 1.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/aller au stade avec Laurent vraiment occasionnellement.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Maintenir la connexion à Google task.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/mes projets.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/ajuster horaires le jour du changement d'heure d'une demi-heure et d'une demi-heure.md",
+    "test.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/mes horizons.md",
+    "iCloudDrive/desktop.ini",
+    "iCloudDrive",
+    "Éléments de trigonométrie.md",
+    "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md",
+    "mathématiques des transmissions.md",
+    "la critique de la raison.md",
+    "résumé de la philosophie de Nieztsche d'après lui dans Ainsi parlait Zarathoustra.md",
+    "@Nietzsche.md",
+    "Cours_Philosophie.md",
+    "abstrait s'opposant à concret.md",
+    "north of la critique de la raison 1.md",
+    "north of la critique de la raison.md",
+    "sagesse.md",
+    "éternel.md",
+    "règle comparatif superlatif.md"
+  ]
+}

@@ -1,0 +1,1 @@
+- [X] voir si les développeurs ont publié la version windows ⏰2023-07-04 📅 2023-07-04  [completion:: 2024-03-02]

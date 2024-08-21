@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf4fcb665bff688",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "049b1b6cbe0f9533",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b02f4cd1f5dd900",
+        "type": "tabs",
+        "dimension": 54.192546583850934,
+        "children": [
+          {
+            "id": "1f16252b17c6f140",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a37313f2884ec132",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a6123c5f3d0f9a96",
+        "type": "tabs",
+        "dimension": 45.807453416149066,
+        "children": [
+          {
+            "id": "77074e72a4185272",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cc587b0fd75364f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e659b77f59784dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc9d9d65988bd1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bc1f0dc19ce5888",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f687de155aa9e10",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-youtube-music",
+              "state": {}
+            }
+          },
+          {
+            "id": "53ac8c3f925e0812",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5,
+    "collapsed": true
+  },
+  "active": "aaf4fcb665bff688",
+  "lastOpenFiles": [
+    "Commun/evergreen note.md",
+    "Commun/liste d'engagements.md",
+    "Basson.md",
+    "GTD/Basson.md",
+    "GTD/blog.md",
+    "Commun/Mon système d'organisation.md",
+    "Commun/Mon système d'organisation (Copie en conflit de LAPTOP-TINDR5I0 2022-06-16).md",
+    "Commun/Reste où il faut encore mettre des choses/Organisation.md",
+    "GTD/Organisation.md",
+    "Commun/_Index_of_Commun (Copie en conflit de LAPTOP-TINDR5I0 2022-06-26).md"
+  ]
+}

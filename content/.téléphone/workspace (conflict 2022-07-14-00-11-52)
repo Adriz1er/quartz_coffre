@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f922d28574a4c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commun/Les erreurs de l'éducation nationale.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61a4a0866d788639",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aacea05d13d9c62f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4e5c9ded8c67375f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "file:erreur",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "75108f7d615a595a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "0f830ee6990160e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "75dac0dd67e4ee66",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Commun/Les erreurs de l'éducation nationale.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c77e081206c0622c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c0f922d28574a4c3",
+  "lastOpenFiles": [
+    "Commun/evergreen notes.md",
+    "Commun/utilitarisme.md",
+    "Commun/autisme.md",
+    "Commun/6p.268.md",
+    "Commun/11 p.269_1°ph-ch.md",
+    "Commun/18p.270_1°ph-ch.md",
+    "Commun/19p.270_1°ph-ch.md",
+    "Commun/20p.271_1°ph-ch.md",
+    "Commun/32p.274 1°ph-ch.md",
+    "Commun/34p.275 1°ph-ch.md"
+  ]
+}

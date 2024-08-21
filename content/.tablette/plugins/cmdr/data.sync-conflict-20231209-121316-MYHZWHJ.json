@@ -1,0 +1,73 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "quickadd:choice:4b481a8a-1dc6-456d-8333-cc913639b894"
+        }
+      ],
+      "name": "habitude",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "editor:toggle-checklist-status"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-task-collector:task-collector-mark"
+        }
+      ],
+      "name": "changer statut",
+      "icon": "check-circle",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [
+      {
+        "commandID": "cmdr:macro-1",
+        "iconID": "check-circle"
+      },
+      {
+        "commandID": "obsidian-google-tasks:create-google-task-with-insert",
+        "iconID": "timer-reset"
+      },
+      {
+        "commandID": "quickadd:choice:ffa120b8-0f96-4dcd-9596-c37f9e0ebc44",
+        "iconID": "inbox"
+      },
+      {
+        "commandID": "quickadd:choice:4b481a8a-1dc6-456d-8333-cc913639b894",
+        "iconID": "repeat"
+      }
+    ],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
