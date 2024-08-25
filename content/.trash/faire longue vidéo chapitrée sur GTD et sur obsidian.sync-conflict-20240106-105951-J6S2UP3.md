@@ -1,0 +1,48 @@
+---
+tags: []
+priorité: 
+échéance: 
+---
+![[régler problème dates d'échéances]]
+- [!] Présenter la règle des deux minutes et dire que ça marche car après deux minutes si ça prend plus de deux minutes on peut s'arrêter et noter et faire autre chose ; en profiter pour dire qu'il faut arrêter les vidéos de motivation car elles sont inutiles à long terme
+- [!] Parler d'avoir un carnet que si on peut pas noter sur numerique en mentionnant que j'en ai parfois beaucoup besoin quand les cours paraissent long
+- [!] dire que ça n'empêche absolument pas d'écrire des concepts sur du papier, et que ça permet d'avoir un lieu avec nos pensées
+- [!] mettre le lien du modèle en commentaire épinglé
+- [!] faire une vidéo super longue sur obsidian et GTD et de super qualité
+	- [!] dire que gtd sert à intérioriser les taches
+		- [!] dire que le fait de choisir la meilleure décision est au pire remis à la fin du week-end
+	- [!] montrer comment utiliser les favoris
+	- [!] parler du fait qu'il faut ouvrir son google agenda au matin et que je le fais au petit déjeuner au lieu de regarder la télévision
+	- [!] dire comment exporter les données sur obsidian
+	- [!] parler des commandes de base du modèle et des raccourcis clavier sur obsidian avant ça, les raccourcis du modèle sont :
+		- CTRL+Maj+i : saisir un intrant
+			- [!] dire qu'il faut bien tout mettre à la suite du bloc car sinon ça n'apparaitra pas en entier dans la boite de réception
+			- [!] Dire qu'il ne faut pas ouvrir deux fois la boîte de réception sur mobile 
+			- [!] Dire qu'on peut reprogrammer les intrants en les laissant dans la boîte de réception (📥)
+			- [!] Dire qu'il ne faut pas remettre des intrants dans la boîte de réception 
+		- CTRL+Maj+h : saisir une habitude
+		- CTRL+n / créer un nouveau fichier : crée un projet
+			- [!] dire qu'il faut bien écrire tag (et pas appuyer sur entrée) si il n'y a pas la métadonnée tag car sinon ça écrit systématiquement tags ; ce qu'on peut voir avec la couleur du titre dans la barre d'onglet qui devient bleue
+		- CTRL+Maj+c : saisir un concept
+			- [!] expliquer c'est quoi les rétroliens et donc occurences liées et non liées (titre de note est dans une autre, mais pas de lien dans ce dernier)
+			- [!] dire que pour écrire une source c'est source::, mais qi on veut on peut faire clique droit pour insérer un callout
+		- Si vous êtes sur mobile il suffit de glisser vers le bas pour faire apparaître en haut la palette de commande, et taper votre commande 
+	- [!] dire comment faire en sorte de mettre des taches et projet hors de fonctionnement mais qu'ils soient toujours noté (notamment avec le tag projet ou non et noté ou non)
+	- [!] parler de liste en attente et en attente sur soi et de les configurer avec son prénom en editant le code ^[[[les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/choisir ses actions avec GTD grâce à obsidian#^8c070b|choisir ses actions avec GTD grâce à obsidian]]] ; parler du type de tag pour une personne
+	- [!] dire que la barre latérale s'ouvre avec le bouton en bas à droite sur téléphone
+	- [!] parler du fait qu'on peut mettre des rappels avec google message et que ça permet de les avoir en notifications si ils sont urgents
+	- [!] dire comment mettre la synchro google task ^[[[les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/clarifier ses intrants pour passer à la réalité|clarifier ses intrants pour passer à la réalité]]] et comment l'utiliser avec [[assumer efficacement ses engagements internes avec GTD#intégration à google task|ça]] 
+		- [!] dire que pour mettre une tache récurrente il faut la mettre sur google task car sinon ça bug et mettre le statut planifié 
+		- [!] dire que ça sert seulement à indiquer l'heure
+		- [!] Dire c'est quoi la différence entre programmer un nombre de jours et programmer pour pour des jours dans la semaine
+		- [!] dire qu'*URI advanced* permet de faire le lien de mobile à pc d'une note sans avoir à ouvrir obsidian dire qu'il faut avoir mozilla pour ouvrir une note sur mobile (parce que le moteur chromium qui est utilisé sur la plupart ne le permet pas)
+			- [!] trouver une commande en essayant avec R
+		- [!] Dire que refresh token sert à mettre le token pour mobile
+	- [!] parler de la synchronisation Syncthing et de comment synchroniser certains paramètres ^[[[améliorer modèle et coffre obsidian pour pratiquer gtd et propager ça pratique.canvas|améliorer modèle et coffre obsidian pour pratiquer gtd et propager ça pratique]]]
+		- [!] dire que si il y a conflit on peut toujours modifier le coffre avec win merge
+		- [!] parler du raccourci avec app android shortcut maker pour synchro auto dans utilisateur et comptes
+		- [!] dire comment faire des partages sur syncthing avec plusieurs utilisateurs en créant un doissier
+	- [!] parler des habitudes, qu'on peut les grouper, et de leurs impacts non-négligeable sur les projets (prendre l'exemple des habitudes de révisions)  [priority:: low]
+		- [x] voir vidéo de feraste à ce sujet  [completion:: 2023-11-09]
+		- [!] mentionner vidéo de Feraste sur le sujet
+		- [!] expliquer le [[modèle pour habitude]] avec habitudes

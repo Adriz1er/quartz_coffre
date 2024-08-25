@@ -1,0 +1,4 @@
+{
+  "todoPattern": "(^|\\s)I(\\s|$)",
+  "showStatusBar": false
+}

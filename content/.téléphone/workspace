@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b037389bf5c8b48e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cad662bff4e8adc3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ae40bf3eaeec625f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e8fd4c05f09cd828",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "file:.jpg",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3d5f9db89fad7e01",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "aa696526606877b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "167b7f925b99b99d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "77f28cc4decf2e24",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "038b3ddb8a4871c2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a3474b9d79bb5a4a",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "301b3fa25df28b53",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "b037389bf5c8b48e",
+  "lastOpenFiles": [
+    "la critique de la raison.md",
+    "résumé de la philosophie de Nieztsche d'après lui dans Ainsi parlait Zarathoustra.md",
+    "@Nietzsche.md",
+    "Cours_Philosophie.md",
+    "abstrait s'opposant à concret.md",
+    "north of la critique de la raison 1.md",
+    "north of la critique de la raison.md",
+    "sagesse.md",
+    "éternel.md",
+    "règle comparatif superlatif.md"
+  ]
+}

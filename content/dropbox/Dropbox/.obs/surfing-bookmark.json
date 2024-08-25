@@ -1,0 +1,60 @@
+{
+  "bookmarks": [
+    {
+      "id": "1130870021",
+      "name": "Surfing",
+      "url": "https://www.numworks.com/fr/simulateur/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707292248102,
+      "modified": 1707292248102
+    },
+    {
+      "id": "-263079005",
+      "name": "Google Messages pour le Web",
+      "url": "https://messages.google.com/web/authentication",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707225153855,
+      "modified": 1707225153855
+    },
+    {
+      "id": "-1036721581",
+      "name": "Portail captif",
+      "url": "https://t136.wifi.unice.fr:8003/index.php?zone=cpzone&redirurl=http%3A%2F%2Fdetectportal.firefox.com%2Fcanonical.html",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707225063415,
+      "modified": 1707225063417
+    },
+    {
+      "id": "-1365902020",
+      "name": "clarificateur",
+      "url": "https://goblin.tools/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1698565500000,
+      "modified": 1698565740000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+---
+tag: projet
+échéance: 2300-01-01T00:00:00.000+01:00
+---
+- [ ] lire [[l'échange symbolique et la mort]] 

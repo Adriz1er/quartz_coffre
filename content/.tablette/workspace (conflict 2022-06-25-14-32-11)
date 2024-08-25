@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0850bde315d20e27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commun/Reste où il faut encore mettre des choses/Cours/10 Je suis en route blaise Cendrars.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3bf5ca23f5bca5a9",
+        "type": "leaf",
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "annotations textes oral bac.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7faa0f0f4457b5f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e395d8189f31a37a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3eb96528143d2db5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "file: annotat",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b11e1e69fa5b77a5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a447ca4aef651f2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "annotations textes oral bac.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3bf5ca23f5bca5a9",
+  "lastOpenFiles": [
+    "annotations textes oral bac.md",
+    "Commun/Reste où il faut encore mettre des choses/Cours/10 Je suis en route blaise Cendrars.md",
+    "étude linéaire.md",
+    "etude lineaire droits de la femme.md",
+    "utilitarisme.md",
+    "Commun/Reste où il faut encore mettre des choses/Cours/12 étude linéaire_théâtre.md",
+    "Commun/Reste où il faut encore mettre des choses/13 théâtre_séance 8.md",
+    "Commun/Reste où il faut encore mettre des choses/_Index_of_Reste où il faut encore mettre des choses.md",
+    "Comparaison.md",
+    "Homme, es-tu capable.pdf"
+  ]
+}

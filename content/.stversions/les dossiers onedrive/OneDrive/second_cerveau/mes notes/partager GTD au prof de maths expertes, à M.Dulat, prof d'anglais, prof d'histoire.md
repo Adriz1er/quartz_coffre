@@ -1,0 +1,7 @@
+- [x] envoyer guide à Bryan Jenks pour qu'il en parle sur sa chaîne youtube  [completion:: 2023-10-08]
+- [?] que modèle est finis et GTD pratiqué plutôt bien
+	- [ ] envoyer un mail prof maths expert goyet.christopher@gmail.com
+	- [ ] envoyer mail à M.Dulat philippedulat@gmail.com
+	- [ ] chercher mail dans notes de prof d'anglais dans note #téléphone 
+	- [ ] chercher mail du prof d'histoire #gmail
+	- [!] trouver mail de M.Benoit ce qui serait facile serait par l'intermédiaire d'un autre prof

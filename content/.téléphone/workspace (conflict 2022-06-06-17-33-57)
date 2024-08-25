@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "7c4d5a3de4242e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad8d9a7d4dbbb83",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f6c71fe5f42a6b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4335d86391dcafef",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "6f86471461aa52ed",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ba465b23e7f51aed",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c93164a6b664fb12",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "08e761f10311625e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca6208290a946e50",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "16bf14944a7332c9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "active": "fad8d9a7d4dbbb83",
+  "lastOpenFiles": [
+    "_Index_of_second_cerveau.md",
+    "202206031251.md",
+    "Commun/Reste où il faut encore mettre des choses/MOOC_Organisation.md",
+    "méthode CE 2 mme. Mariani.jpg.md",
+    "The Commitment Inventory.md",
+    "Commun/Reste où il faut encore mettre des choses/MOOC_Cours_Histoire-Géo.md",
+    "Sans titre.md",
+    "Jazz fusion.md",
+    "2 groupes de musiques.md",
+    "Commun/cours Energie mécanique.md"
+  ]
+}

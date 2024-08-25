@@ -1,0 +1,12 @@
+- [X] envoyer un message à Thomas pour jouer ensemble dans le week-end  [repeat:: every week on Friday when done]  [start:: 2024-04-13]  [completion:: 2024-04-27]
+- [X] envoyer un message à Thomas pour jouer ensemble dans le week-end  [repeat:: every week on Friday when done]  [start:: 2024-05-03]  [completion:: 2024-05-05]
+- [X] envoyer un message à Thomas pour jouer ensemble dans le week-end  [repeat:: every week on Friday when done]  [start:: 2024-05-10]  [completion:: 2024-05-12]
+- [X] envoyer un message à Thomas pour jouer ensemble dans le week-end  [repeat:: every week on Friday when done]  [start:: 2024-05-17]  [completion:: 2024-05-17]
+- [X] envoyer un message à Thomas pour jouer ensemble dans le week-end  [repeat:: every week on Friday when done]  [start:: 2024-05-24]  [completion:: 2024-05-24]
+- [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-05-31]  [completion:: 2024-06-15]
+- [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-06-30]  [completion:: 2024-06-30]
+- [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-03]  [completion:: 2024-08-03]
+- [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-12]  [completion:: 2024-08-12]
+- [ ] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-16]
+- [!] faire en sorte qu'il pratique GTD
+- [!] faire en sorte qu'on puisse se voir pendant longtemps en physique

@@ -1,0 +1,6 @@
+- How long are you in Japan ?
+- I'm here for two years
+- Wich is the company where you work ?
+- Sony
+- Ah. It's look interessting. And how long are you work for Sony ?
+- I have begun for two months

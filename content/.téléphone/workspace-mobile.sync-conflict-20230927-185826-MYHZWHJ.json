@@ -1,0 +1,358 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dc79a6566e2fee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d655e983d19d394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/pris dans la boite de réception/améliorer modèle obsidian pour gtd et propager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ab5b4eb8b4ea8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/prise de note CPAM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81de9ce7d2c9fb34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/pris dans la boite de réception/voir pour faire fonctionner plugin timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3666094da7a8fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memento (1).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b3bc76930ced461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/language C.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3519c0a4297f9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/principe des réseaux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c7bd00b8c4e6838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/pris dans la boite de réception/avoir son memento à jour avant un cours de Linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee553a0345bf429b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/pris dans la boite de réception/remplir chaque memento sur ordi et l'imprimer ensuite.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ae6a7b8da5f45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/pris dans la boite de réception/exercice 2 communication pour interview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99e3cab2ddbd9f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/pris dans la boite de réception/projet d'interview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a48ac084564681c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nouvelle boîte de réception.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cad662bff4e8adc3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ae40bf3eaeec625f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "e8fd4c05f09cd828",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "\"hhhhhhhhhhhhhhhhhh\"",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "3d5f9db89fad7e01",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f3ab5757d94f4d01",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "aa696526606877b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "167b7f925b99b99d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "nouvelle boîte de réception.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "6886d5117bc47130",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "6374340d13fd10ab",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "nouvelle boîte de réception.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e265d92ff8bc82ed",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "nouvelle boîte de réception.md"
+          }
+        }
+      },
+      {
+        "id": "bd8e9a67a238100a",
+        "type": "leaf",
+        "state": {
+          "type": "googleTaskView",
+          "state": {}
+        }
+      },
+      {
+        "id": "c93e764b4071b90f",
+        "type": "leaf",
+        "state": {
+          "type": "pending-notes:main",
+          "state": {}
+        }
+      },
+      {
+        "id": "cce9b62e80721ebf",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 6
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-google-tasks:Google Tasks": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-pending-notes:Pending Notes": false
+    }
+  },
+  "active": "cce9b62e80721ebf",
+  "lastOpenFiles": [
+    "nouvelle boîte de réception.md",
+    "mes notes/pris dans la boite de réception/faire une mind map de ce qu'il y a à faire pour l'iut.md",
+    "mes notes/pris dans la boite de réception/pour voir template.md",
+    "mes notes/prise de note CPAM.md",
+    "mes notes/pris dans la boite de réception/voir pour faire fonctionner plugin timeline.md",
+    "mes notes/pris dans la boite de réception/améliorer modèle obsidian pour gtd et propager.md",
+    "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md",
+    "mes notes/pris dans la boite de réception/exercice 1 visant à s'entrainer pour développer son réseau.md",
+    "mes notes/pris dans la boite de réception/projet d'interview.md",
+    "mes notes/pris dans la boite de réception/exercice 2 communication pour interview.md",
+    "mes notes/pris dans la boite de réception/remplir chaque memento sur ordi et l'imprimer ensuite.md",
+    "à ne pas toucher pour intrants.md",
+    "mes notes/principe des réseaux.md",
+    "mes notes/pris dans la boite de réception/essayer de s'intéresser à pleins de choses pour s'investir dedans au niveau informatique.md",
+    "mes notes/pris dans la boite de réception/avoir son memento à jour avant un cours de Linux.md",
+    "mes notes/language C.md",
+    "memento (1).md",
+    "mes notes/pris dans la boite de réception/Appeler feraste pour voir pour modèle et lui montrer le concept des flèches en musique.md",
+    "mes notes/pris dans la boite de réception/10 cyberattaques de ces 3 dernières années.md",
+    "SAe11_HygieneInformatique_Cybersecurite_2023_2024-1.pdf",
+    "mes notes/pris dans la boite de réception/regarder série house of cards.md",
+    "mes notes/expressions régulières.md",
+    "mes notes/pris dans la boite de réception/Sans titre 2.md",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-122007-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121957-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121947-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121937-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121928-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121917-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121907-OBSTZAX.mdb",
+    "éléments ayant une date d'échéance.md",
+    "mes notes/pris dans la boite de réception/résoudre le problème de la liste des éléments ayant une date d'échéance.md",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121901-MYHZWHJ.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-121847-OBSTZAX.mdb",
+    "éléments ayant une date d'échéance.sync-conflict-20230924-121043-MYHZWHJ.md",
+    "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.sync-conflict-20230920-195606-T4AXUX3.md",
+    "Capture d’écran_2023-09-20_08-24-11 1.png",
+    "Capture d’écran_2023-09-20_08-24-11.png",
+    "Pasted image 20230911213744.png",
+    "Pasted image 20230911215644.png",
+    "Pasted image 20230911220321.png",
+    "1694708884536.jpg",
+    "IMG_20230912_103635.jpg",
+    "IMG_20230912_101452.jpg",
+    "Pasted image 20230910221635.png",
+    "Pasted image 20230910221615.png",
+    "nombres premiers.canvas",
+    "modélisation de l'effet de serre grâce à la thermodynamique.canvas",
+    "modélisation de l'effet de serre grâce à la thermodynamique (conflict 2023-05-09-12-55-20).canvas",
+    "les fractales de part leur caractère récurrent nous permettent de comprendre des structures complexes dans différents domaines.canvas",
+    "test canva.canvas"
+  ]
+}

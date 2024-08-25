@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "904350ecc59375f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2866afbfc19723a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "révision pour chapitre 2 signal.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cad662bff4e8adc3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ae40bf3eaeec625f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "e8fd4c05f09cd828",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "3d5f9db89fad7e01",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f3ab5757d94f4d01",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "right": {
+    "id": "aa696526606877b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "167b7f925b99b99d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "révision pour chapitre 2 signal.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "6374340d13fd10ab",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "révision pour chapitre 2 signal.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e265d92ff8bc82ed",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "révision pour chapitre 2 signal.md"
+          }
+        }
+      },
+      {
+        "id": "04f9252c794d5f8e",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-google-tasks:Google Tasks": false,
+      "dbfolder:Créer une nouvelle table de données": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "quick-plugin-switcher:Quick Plugin Switcher": false
+    }
+  },
+  "active": "e2866afbfc19723a",
+  "lastOpenFiles": [
+    "révision pour chapitre 2 signal.md",
+    "IMG_20231210_224243.jpg",
+    "Jouer du basson.canvas",
+    "Sans titre.md",
+    "tp 5 prépa.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Jouer du basson.md",
+    "maintenir basson en état.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/ancienne page de mes horizons.md",
+    "archive de mes horizons avec propriété horizon.md",
+    "rapport pour ppp.md",
+    "3 métiers que je pourrai faire.md",
+    "montrer application des concepts de l'iut à travers la note et si réellement utile bien les apprendre.canvas",
+    "les notifications font en sorte que les idées passent dans 2 boites de réception maximum c'est à dire que le plus urgent est traité et sinon le reste est dans une autre boite.md",
+    "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire en sorte que ppp soit positif.md",
+    "notes récemment ouvertes (dataview).md",
+    "page d'accueil téléphone.md",
+    "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/page d'accueil.md",
+    "page d'accueil.sync-conflict-20231207-101345-MYHZWHJ.md",
+    "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/page d'accueil.md",
+    "révision ds python.md",
+    "révision pour chapitre 3 maths transmission.md",
+    "📥.md",
+    "appliquer les concepts vus à l'iut et montrer leur application dans la note.canvas",
+    "réviser pour le controle d'anglais.md",
+    "finir création compte linkedIn.md",
+    "Sans titre 1.md",
+    "base de données.md",
+    "réussir le ds de r103 de réseau local.md",
+    "c'est où que tu vois qu'il y une soutenance.md",
+    "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Attachments",
+    "les dossiers onedrive/OneDrive/Images/Saved Pictures",
+    "les dossiers onedrive/OneDrive/Images/Captures d’écran",
+    "les dossiers onedrive/OneDrive/Images/Pellicule",
+    "les dossiers onedrive/OneDrive/Images/BlueStacks",
+    "les dossiers onedrive/OneDrive/Images/MEmu Photo",
+    "les dossiers onedrive/OneDrive/Images/Uplay",
+    "les dossiers onedrive/OneDrive/Images",
+    "les dossiers onedrive/OneDrive/Documents/Visual Studio 2022/Templates/ProjectTemplates/Extensibilité",
+    "les dossiers onedrive/OneDrive/Documents/Visual Studio 2022/Templates/ItemTemplates/Extensibilité",
+    "test1.canvas",
+    "test2.canvas",
+    "Screenshot_20231121-221644~2.png",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/second_cerveau/écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide 1/images/Pasted image 20230622150944.png",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/second_cerveau/écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide 1/images/Pasted image 20230622151742.png",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/second_cerveau/écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide 1/images/Pasted image 20230622153940.png",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/second_cerveau/écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide 1/images/Pasted image 20230622155922.png",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/second_cerveau/écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide 1/images/Pasted image 20230622160215.png",
+    "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Screenshot_2023-11-13-10-20-36-390-edit_md.obsidian.jpg",
+    "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Screenshot_2023-11-13-10-53-39-543-edit_md.obsidian.jpg",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/Pièces jointes/Pasted image 20231104120258.png",
+    "schéma explicat.canvas",
+    "les dossiers onedrive/OneDrive - Université Côte d'Azur/Pièces jointes/mindmap de présentation de microsoft exchange.canvas",
+    "les dossiers onedrive/OneDrive/second_cerveau/les fractales de part leur caractère récurrent nous permettent de comprendre des structures complexes dans différents domaines.canvas",
+    "les dossiers onedrive/OneDrive/second_cerveau/modélisation de l'effet de serre grâce à la thermodynamique.canvas",
+    "nombres premiers.canvas"
+  ]
+}

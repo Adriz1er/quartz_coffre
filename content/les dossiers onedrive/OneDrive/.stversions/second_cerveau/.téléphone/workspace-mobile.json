@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "05666097f7da80e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa01e248938b918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "671e5b02cac0fd78",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3782fda7adb760ca",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ffb7ecdadae92fc4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f24ee112d72726fc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ba07e619e560ec15",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "412c122c0408faf0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "3778a89e8c95caf6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e457e19b68112dcb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5ccb089b66ec9d92",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ef884d6d3c025b9f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "22be97b24bedbb9b",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "6ae64610ed5bd83d",
+        "type": "leaf",
+        "state": {
+          "type": "QUICKSHARE_SIDE_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "3d36ffd222650c58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "boîte de réception.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8a11fc5bc58b1425",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 6
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-google-tasks:Google Tasks": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "8a11fc5bc58b1425",
+  "lastOpenFiles": [
+    "mes notes/pris dans la boite de réception/Être en bonne santé.md",
+    "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md",
+    "mes notes/pris dans la boite de réception/exercice 2 communication pour interview.md",
+    "mes notes/réseau relationnel professionel.md",
+    "mes notes/pris dans la boite de réception/exercice 1 visant à s'entrainer pour développer son réseau.md",
+    "mes notes/pris dans la boite de réception/Jouer concerto Vivaldi RV 473.md",
+    "mes notes/pris dans la boite de réception/Jouer concerto de Vivaldi RV 475.md",
+    "mes notes/pris dans la boite de réception/Choisir film pour soirée dvd.md",
+    "mes notes/pris dans la boite de réception/Avoir toujours 4 anches dans ça boîte.md",
+    "mes notes/pris dans la boite de réception/Avoir un meilleur son.md",
+    "mes notes/pris dans la boite de réception/passer dem.md",
+    "mes notes/pris dans la boite de réception/Jouer le concertino de Carl jacobi.md",
+    "mes notes/pris dans la boite de réception/construire développer et entretenir son réseau relationnel.md",
+    "mes notes/pris dans la boite de réception/Faire en sorte que la tablette ne lag plus.md",
+    "boîte de réception.md",
+    "mes notes/pris dans la boite de réception/améliorer modèle obsidian pour gtd et propager.md",
+    "liste des punaises.md",
+    "mes notes/pris dans la boite de réception/Test.md",
+    "📥.md",
+    "📥.sync-conflict-20230927-185836-T4AXUX3.md",
+    "mes notes/test.md",
+    "Context/#📥.sync-conflict-20230928-154228-OBSTZAX.mdb",
+    "Context/#excalibrain.sync-conflict-20230928-154217-T4AXUX3.mdb",
+    "Context/#maths.sync-conflict-20230928-154208-T4AXUX3.mdb",
+    "Context/#maths.sync-conflict-20230928-154158-T4AXUX3.mdb",
+    "mes notes/expressions régulières.md",
+    "mes notes/processus.md",
+    "mes notes/arborescence.md",
+    "mes notes/fichiers et répertoires.md",
+    "mes notes/Linux.md",
+    "IMG_20230916_180505.jpg",
+    "IMG_20230916_180446.jpg",
+    "IMG_20230916_180321.jpg",
+    "IMG_20230916_175847.jpg",
+    "IMG_20230916_172756.jpg",
+    "IMG_20230916_172714.jpg",
+    "IMG_20230916_172553.jpg",
+    "IMG_20230916_172623.jpg",
+    "IMG_20230916_172342.jpg",
+    "Context/#📥.sync-conflict-20230913-115753-MYHZWHJ.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230913-115753-MYHZWHJ.mdb",
+    "IMG_20230912_101452.jpg",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230911-180602-OBSTZAX.mdb",
+    "mes notes/context.sync-conflict-20230911-180559-MYHZWHJ.mdb",
+    "IMSLP433278-PMLP470606-Jacobi-IntroandPolonaise-bassoonpart.pdf"
+  ]
+}

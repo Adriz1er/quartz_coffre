@@ -1,0 +1,19 @@
+- [x] chercher pour voir si il y a pas d'autres trucs pour être en bonne santé  [completion:: 2023-11-09]
+- [X] voir si il faut combiner [[être propre et s'habiller]]  [priority:: low]  [completion:: 2024-04-30]
+- [[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Se renseigner avec Andrew Hubberman sur la lumière bleue|Se renseigner avec Andrew Hubberman sur la lumière bleue]]
+- [!] avoir une bonne forme physique #noté
+	- [!] jardin sinon essayer de faire du #vélo ou du HIIT 30 minutes les jours de repos ou sinon 45 minutes de tennis de table #noté
+	-  habitude de marcher en rentrant de l'iut par le #bus_631  ![[marcher en rentrant de l'iut du 631]]
+ - [!] manger sainement #noté
+	 - [!] faire des tupperwares si seul #noté
+	- [x] voir si il faut prendre des m&ms pour le goûter  [completion:: 2023-11-07]
+- [X] avoir de l'énergie  [completion:: 2024-04-30]
+	- [X] sommeil  [completion:: 2024-04-30]
+		- [x] [Lofi girl pour dormir](https://www.youtube.com/live/rUxyKA_-grg?si=9eop2oTzVvIgpK82)  [repeat:: every day when done]  [start:: 2024-03-03]  [completion:: 2024-03-09]
+		- [X] [Lofi girl pour dormir](https://www.youtube.com/live/rUxyKA_-grg?si=9eop2oTzVvIgpK82)  [repeat:: every day when done]  [start:: 2024-03-09]  [completion:: 2024-03-09]
+		- [X] [Lofi girl pour dormir](https://www.youtube.com/live/rUxyKA_-grg?si=9eop2oTzVvIgpK82)  [repeat:: every day when done]  [start:: 2024-03-10]  [completion:: 2024-03-11]
+		- [x] 21:40 vérifier si j'ai sommeil et lire l'échange symbolique et la mort si besoin  [repeat:: every day]  [start:: 2024-02-11]  [completion:: 2024-02-12]
+		- [x] 21:40 vérifier si j'ai sommeil et lire l'échange symbolique et la mort si besoin  [repeat:: every day]  [start:: 2024-02-12]  [completion:: 2024-02-12]
+		- [X] Faire en sorte d'allumer la lumière automatiquement  [completion:: 2024-02-27]
+- [X] prendre habitude boire après avoir fait de l'exercice  [completion:: 2024-04-30]
+- [!] faire en sorte de ne pas manger des pesticides et sachets plastique et mettre un filtre pour l'eau du robinet etc...  [start:: 2025-01-30]

@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4d3856c9d5422a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83566a92991d8d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patch note pour modèle de coffre pour pratiquer GTD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71a1bb5a653504f2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dd207b767b1a9f40",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "a42b105f75eeccf3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bd64c3a5f94b2aeb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e7ee1212d38eef69",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "33393a29ccbc6628",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f880ed9c419bacf4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "71861ecd68ea118b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "patch note pour modèle de coffre pour pratiquer GTD.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "32c378a39560778f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "patch note pour modèle de coffre pour pratiquer GTD.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e80d5b77f00f7ebf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "patch note pour modèle de coffre pour pratiquer GTD.md"
+          }
+        }
+      },
+      {
+        "id": "b4625da71df608b8",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "99f4ad45d9a6d4bb",
+        "type": "leaf",
+        "state": {
+          "type": "googleTaskView",
+          "state": {}
+        }
+      },
+      {
+        "id": "75ce9b1207825043",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "dbfolder:Créer une nouvelle table de données": false,
+      "advanced-random-note:Open random note modal": false,
+      "omnisearch:Omnisearch": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "random-note:Ouvre une note au hasard": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-google-tasks:Google Tasks": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "83566a92991d8d5d",
+  "lastOpenFiles": [
+    "inclus/page d'accueil téléphone.md",
+    "inclus/habitudes.md",
+    "patch note pour modèle de coffre pour pratiquer GTD.md",
+    "Modèles (inclus)/boîte de réception.md",
+    "inclus/faire ses premiers pas dans obsidian.md",
+    "inclus/Explication barre d'outil mobile.md",
+    "Screenshot_2023-11-13-10-53-39-543-edit_md.obsidian.jpg",
+    "Screenshot_2023-11-13-10-20-36-390-edit_md.obsidian.jpg",
+    "inclus/plugins et paramètres à désactiver si besoin.md",
+    "inclus/statuts de tâches et utilisation.md",
+    "inclus/clarifier les boucles ouvertes.md",
+    "boîte de réception.md",
+    "pris dans la boîte de réception/pouvoir et savoir utiliser le plugin google task.md",
+    "inclus/pouvoir et savoir utiliser le plugin google task.md",
+    "projets/context.mdb",
+    "projets",
+    "inclus/liste des conflits de synchronisation.md",
+    "nouvelle boîte de réception.md",
+    "inclus/éléments non concretisables.md",
+    "inclus/ancienne boîte de réception.md",
+    "📥.md",
+    "inclus/boîte de réception.md",
+    "inclus/mettre en place le calendrier uniquement sur ordi.md",
+    "inclus/avoir l'esprit clair nous fait réagir de façon efficace et appropriée.md",
+    "inclus/assumer efficacement ses engagements internes avec GTD.md",
+    "pris dans la boîte de réception/[assumer efficacement ses engagements internes avec GTD.md",
+    "pris dans la boîte de réception/clarifier ses intrants pour passer à la réalité.md",
+    "inclus/les punaises doivent être clarifiées.md",
+    "patch note pour modèle de coffre pour pratiquer GTD.sync-conflict-20230922-154752-OBSTZAX.md",
+    "inclus/utiliser syncthing pour la synchronisation.md",
+    "inclus/Screenshot_20230904-152407~2 1.png",
+    "inclus/Screenshot_20230904-152301~3.png",
+    "inclus/Screenshot_20230904-154225~2.png",
+    "inclus/Screenshot_20230904-152135~3.png",
+    "inclus/Screenshot_20230904-152238~2.png",
+    "inclus/Screenshot_20230904-152407~2.png",
+    "inclus/Screenshot_20230904-152301~2.png",
+    "inclus/Screenshot_20230904-152217~2.png",
+    "pris dans la boîte de réception/context.mdb",
+    "pris dans la boîte de réception",
+    "context.mdb",
+    "notes/context.mdb",
+    "test",
+    "Context/#📥.mdb",
+    "notes",
+    "Modèles",
+    "test canva.canvas",
+    "nombres premiers.canvas"
+  ]
+}

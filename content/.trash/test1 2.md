@@ -1,0 +1,5 @@
+- [ ] action 2  [id:: idrelo]
+- [ ] projet 1  [dependsOn:: idrelo,jigx4d]
+- [ ] action 1  [id:: jigx4d]
+- [ ] projet 2  [dependsOn:: g4d6g5]
+- [ ] action 1  [id:: g4d6g5]

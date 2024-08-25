@@ -1,0 +1,4 @@
+---
+aspiration:
+  - "[[être productif]]"
+---

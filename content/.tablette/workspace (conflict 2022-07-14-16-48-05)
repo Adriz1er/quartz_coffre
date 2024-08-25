@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f922d28574a4c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "On ne pense pas aux cours.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61a4a0866d788639",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aacea05d13d9c62f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4e5c9ded8c67375f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#🌱",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "75108f7d615a595a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "0f830ee6990160e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "75dac0dd67e4ee66",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "On ne pense pas aux cours.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c77e081206c0622c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c0f922d28574a4c3",
+  "lastOpenFiles": [
+    "Commun 2/utilitarisme.md",
+    "On ne pense pas aux cours.md",
+    "Commun 2/3. Ressources/Cours/maths_trigonométrie.md",
+    "Commun 2/erreur cours éducation nationale.md",
+    "Commun 2/Reste où il faut encore mettre des choses/MOOC_Cours_maths.md",
+    "Commun 2/3. Ressources/Cours/Maths probabilités conditionnelles.md",
+    "Les evergreen notes doivent être atomique.md",
+    "Commun 2/evergreen note.md",
+    "Commun/Les erreurs de l'éducation nationale.md",
+    "Commun/evergreen notes.md"
+  ]
+}

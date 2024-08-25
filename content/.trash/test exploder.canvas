@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder.md",
+      "width": 500,
+      "height": 500,
+      "y": 300,
+      "x": 0,
+      "type": "file",
+      "file": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder.md",
+      "color": "1"
+    },
+    {
+      "id": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder 2.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 0,
+      "type": "file",
+      "file": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder 2.md"
+    },
+    {
+      "id": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test 3.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 600,
+      "type": "file",
+      "file": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test 3.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder.md-les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder 2.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder.md",
+      "toNode": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder 2.md"
+    },
+    {
+      "id": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder.md-les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test 3.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test exploder.md",
+      "toNode": "les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/test 3.md"
+    }
+  ]
+}

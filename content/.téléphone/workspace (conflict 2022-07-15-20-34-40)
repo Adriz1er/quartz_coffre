@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "518a981c559e2ce4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commun 2/Mes problèmes sociaux.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dee46f17a51068e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fcc41a7ae9907091",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "83fa3140bea4796c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "file: prob",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9ba46813366664f9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "583e64416c99b4ca",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74930b4bd8ae0d97",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Commun 2/Mes problèmes sociaux.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d9ac23ecf8239d6a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "518a981c559e2ce4",
+  "lastOpenFiles": [
+    "Commun 2/autisme.md",
+    "Les cours de l'éducation national handicapent la réflexion individuelle.md",
+    "Commun 2/L'éducation national n'atteint pas un objectif préçis.md",
+    "Commun 2/evergreen note.md",
+    "le titre des evergreen notes doit être guidé.md",
+    "Commun 2/utilitarisme.md",
+    "Les evergreen notes aide à accumuler des informations.md",
+    "Les evergreen notes doivent être atomique.md",
+    "Une phrase positive rend généralement plus conscient.md",
+    "Les evergreen notes doivent être axée pour un concept.md"
+  ]
+}

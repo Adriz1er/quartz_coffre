@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "a48946dea5657496",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce76eae87a8c8d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4751ed560d772a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dérivée de fonctions réelles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "058b841c20b42c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a30a0f79ad4ed0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980b3464e214c051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57a3f1ce95800310",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9144d77ad9789b45",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "528f20ff36d35af4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c17ccb43e3dbb7aa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2203d19df86756f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3a769a72ae33fa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f922a3bdeac8e55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dérivée de fonctions réelles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fb5c62260341783",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dérivée de fonctions réelles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "379bd8f09970d3e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae200b08e077147d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ceea239773ea48b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dérivée de fonctions réelles.md"
+              }
+            }
+          },
+          {
+            "id": "20802ac3224441a0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "random-note:Ouvre une note au hasard": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "f4751ed560d772a6",
+  "lastOpenFiles": [
+    "Pièces jointes/Pasted image 20240212142640.png",
+    "Pièces jointes/Pasted image 20240212142601.png",
+    "pour iut/pièces jointes/R214_livret.pdf",
+    "Dérivée de fonctions réelles.md",
+    "Pièces jointes/Pasted image 20240212141712.png",
+    "Pièces jointes/Pasted image 20240212141701.png",
+    "Pièces jointes/Pasted image 20240212141641.png",
+    "Pièces jointes/Pasted image 20240212140846.png",
+    "pour iut/pièces jointes/Cours ressource R201 - part1 (cahier de cours) 2parpage.pdf",
+    "Sécurité par filtrage ACL.md",
+    "Routage dynamique.md",
+    "pour iut/translation d'adresse avec NAT et PAT.md",
+    "Pièces jointes/Pasted image 20240212110336.png",
+    "Pièces jointes/Pasted image 20240212110245.png",
+    "Pièces jointes/Pasted image 20240212105348.png",
+    "Pièces jointes/Pasted image 20240212105334.png",
+    "Pièces jointes/Pasted image 20240212104707.png",
+    "Modèles (inclus)/modèle pour note avec concept.md",
+    "pour iut/transistor bipolaire en régime statique.md",
+    "pour iut/comportement local et asymptotique des signaux.md",
+    "pour iut/signaux et systèmes.md",
+    "pour iut/représentation des signaux en temps et en fréquence.md"
+  ]
+}

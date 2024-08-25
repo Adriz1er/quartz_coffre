@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "cd4c04b4c1501a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "10ab30fc5010cf2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f793be4e016bd670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/page d'accueil téléphone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cfa34bccfc73e18",
+    "type": "split",
+    "children": [
+      {
+        "id": "502684005c1fa148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c11fd44ec5e0e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b949b70221485a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ad3de380f6c68c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "816b0e0b86346f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b46c3c65343636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5099411d158ef617",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/page d'accueil téléphone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "740a50baabe2eb24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/page d'accueil téléphone.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f189807eb69494d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52a5b21cb877d602",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/page d'accueil téléphone.md"
+              }
+            }
+          },
+          {
+            "id": "cce5c80e48bcdd38",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "af8cd7c84b579401",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "8900725856d30c9c",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Créer une nouvelle table de données": false,
+      "homepage:Open homepage": false,
+      "advanced-random-note:Open random note modal": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-google-tasks:Google Tasks": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "f793be4e016bd670",
+  "lastOpenFiles": []
+}

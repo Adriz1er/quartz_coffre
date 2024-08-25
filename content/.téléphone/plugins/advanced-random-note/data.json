@@ -1,0 +1,17 @@
+{
+  "queries": [
+    {
+      "id": "query:d93edf8a-5463-409d-a11f-60aef846f35c",
+      "name": "projet",
+      "query": "list\nfrom #projet",
+      "type": "Dataview",
+      "createCommand": true,
+      "useDisabledFolders": false,
+      "openType": "Default"
+    }
+  ],
+  "disabledFolders": "Modèles (inclus)",
+  "debug": false,
+  "openType": "New Leaf",
+  "setActive": true
+}

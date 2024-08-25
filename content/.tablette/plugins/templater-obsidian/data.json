@@ -1,0 +1,39 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Modèles (inclus)",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Modèles (inclus)/modèle templater pour boîte de réception.md"
+    },
+    {
+      "folder": "les dossiers onedrive/OneDrive/second_cerveau/mes notes",
+      "template": "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Modèles (inclus)/modèle pour note avec concept.md"
+    },
+    {
+      "folder": "les dossiers onedrive/OneDrive/habituel",
+      "template": "les dossiers onedrive/OneDrive/second_cerveau/Template/template pour habitude.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

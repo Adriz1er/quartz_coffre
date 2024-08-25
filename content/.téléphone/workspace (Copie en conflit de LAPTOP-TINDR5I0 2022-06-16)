@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf767db3cf79cba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mes problèmes sociaux.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4cf21c0b91b18bc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Olympe de Gouges.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "161885d58704df87",
+        "type": "leaf",
+        "state": {
+          "type": "custom-frames-duckduck-go",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f9db86559bf5656",
+    "type": "split",
+    "children": [
+      {
+        "id": "a609e5da36f3c14b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f423bf0fb2ef31a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b103de85ba65c82a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Olympe",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181
+  },
+  "right": {
+    "id": "16f31fd5ab3af3d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "719a7444be8f68d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61c0e664eccce8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mes problèmes sociaux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d31206a25f2a98b6",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-youtube-music",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5,
+    "collapsed": true
+  },
+  "active": "ecf767db3cf79cba",
+  "lastOpenFiles": [
+    "Mes problèmes sociaux.md",
+    "2022-06-16.md",
+    "Olympe de Gouges.md",
+    "Blaise Cendrars.md",
+    "Beaumarchais.md",
+    "Mme Delafayette.md",
+    "Commun/etude lineaire droits de la femme.md",
+    "_Index_of_second_cerveau.md",
+    "Commun/Le barbier de Séville.md",
+    "Commun/Reste où il faut encore mettre des choses/Cours/Molière.md"
+  ]
+}

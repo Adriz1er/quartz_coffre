@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "mes notes/pris dans la boite de réception",
+  "readableLineLength": false,
+  "mobileToolbarCommands": [
+    "editor:attach-file"
+  ],
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true
+}

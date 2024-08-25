@@ -1,0 +1,14 @@
+---
+tag: ""
+---
+- [I] voir lien avec [[Être en bonne santé]]
+- [?] si on a fait moins de 1h de sport sinon prendre une douche et changer vêtement du haut et bas du corps 🔁 every hour
+	- [ ] prendre une douche 🔁 every hour 
+	- [ ] changer de t-shirt 🔁 every hour 
+	- [?] date d'échéance pour prendre une douche soit dans deux jours 🔁 every day 
+		- [ ] la changer pour que ce soit le cas 🔁 every day 
+- [ ] besoin de prendre une douche et changer de vêtement du haut du corps tout les 3 jours matin
+- [ ] changer vêtement du bas du corps tout les 4 jours matin
+- [ ] changer de pyjama toute les 3 semaines
+- [ ] changer de chaussettes et slip tout les jours matin
+- [I] Savoir si il faut se nettoyer les oreilles
