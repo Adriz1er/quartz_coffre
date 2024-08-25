@@ -1,6 +1,6 @@
 ---
 repeat: weekly
-due_at: 2024-08-07T14:20:22.621+02:00
+due_at: 2024-08-14T06:00:00.000+02:00
 ---
 # [[faire le ménage dans mes appartements et de la table de ping pong]]
 # nettoyer la table de ping

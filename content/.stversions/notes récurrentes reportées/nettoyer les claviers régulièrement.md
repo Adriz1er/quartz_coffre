@@ -1,6 +1,6 @@
 ---
 repeat: every 3 weeks
-due_at: 2024-08-07T14:20:21.508+02:00
+due_at: 2024-08-16T11:41:37.609+02:00
 ---
 ###### faire le ménage dans mes appartements
 # nettoyer les claviers régulièrement 

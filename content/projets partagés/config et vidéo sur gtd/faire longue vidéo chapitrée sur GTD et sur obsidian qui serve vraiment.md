@@ -54,6 +54,7 @@ priorité: 4
 			- [!] #inclus montrer qu'on peut mettre énergie et priorité sur modèle
 			- [!] #inclus Dire que pour créer un sous projet on utilise headings
 			- [!] #inclus dire que il y a un projet si il est actif et non reporté
+			- [!] Dire que s'il faut penser à un truc une fois on peut mettre une note récurrente reportée #inclus
 			- [!] #inclus pour le reporter il faut enlever le tag projet et il faut que le jour auquel vous voulez le reporter ait déjà une note quotidienne de crée
 			- [!] #inclus dire que les notes quotidiennes se mettent dans un dossier d'archive automatiquement après 30 jours
 			- [!] #inclus dire qu'on peut ouvrir une fenetre hover editor pour projets dans note quotidienne 
@@ -124,6 +125,7 @@ priorité: 4
 		- [x] voir vidéo de feraste à ce sujet  [completion:: 2023-11-09]
 		- [!] #inclus mentionner vidéo de Feraste sur le sujet
 		- [!] #inclus expliquer le [[les dossiers onedrive/OneDrive/habituel/modèle pour habitude]] avec habitudes
+		- [!] #inclus expliquer le [[modèle pour habitude]] avec habitudes
 	- [!] #inclus montrer comment faire la revue hebdomadaire
 		- [!] #inclus dire qu'il faut la mettre dans l'agenda au niveau du jour
 		- [!] #inclus Dire que lors de la revue hebdomadaire il faut réduire le nombre de trucs dans les notes quotidiennes

@@ -18,14 +18,7 @@ priorité: 6
 	- [[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/importer tout les trucs sur le modèle pour élements reportés et récurrents|importer tout les trucs sur le modèle pour élements reportés et récurrents]]
 - [?] Vérifier favoris #inclus
 - [!] faire test complet #inclus
-- [ ] faire version pour mobile sans agenda et changer paramètres pour version sans google agenda ^[[[faire une version sans google agenda#^2957aa]]] sachant que c'est la version qui est active #inclus
-	- [ ] changer macro de revue hebdomadaire différente pour cette config en changeant page agenda par commande week de day planner sachant qu'elle ouvre un nouvel onglet en faisant attention à mettre entre bons dividers #inclus
-		- [ ] switcher bouton barre latérale calendrier en faisant attention à mettre entre bons dividers #inclus
-	- [ ] changer template note quotidienne #inclus : 
-		- agenda sur obsidian : Modèles (inclus)/modèle note quotidienne vtask plugin v.agenda dans obsidian
-		- google agenda : modèle note quotidienne intégration google agenda
-	- [ ] switcher avec vue de dossier de file tree "notes d'évènements" #inclus
-	- [ ] switcher modèle par défaut de note quotidienne #inclus
+
 - [X] envoyer le lien du modèle à Mathieu de Atypic à Samuel à Thomas et leur expliquer et chocolat_en_poudre (discord) et Juggernot et vedarkiwi (709477237820358707)  [completion:: 2024-06-01]
 ## mettre à jour note quotidienne pour éléments reportés que au jour de la note
 - [X] changer grâce à ce que j'ai changé et le titre et la query et  [completion:: 2024-07-27]
@@ -45,12 +38,36 @@ priorité: 6
 		- [!] voir liste de projet ?
 	- n'ont pas due_at et repeat vide
 		- [!] utiliser fonction voir doc dataview ?
+	- ne pas afficher si contient tache avec date de demarrage
+### faire un site pour obsidian avec quartz 4
+- [X] faire tuto de Nicole von ... [How to publish your notes for free with Quartz - YouTube](https://youtu.be/6s6DT1yN4dw?si=293vGsAUahQv_pA7)  [completion:: 2024-08-23]
+- [X] faire en sorte de publier le site  [completion:: 2024-08-23]
+- [X] Faire en sorte d'annuler tout mes comit avec git revert puis de re commit pour pas qu'il y ait problème d'exporter et voir sur page github.io adresse dans paramètres  [completion:: 2024-08-21]
+	- pour publier il faut un chmod777 dans tout les dossiers de content-cache y compris ceux cachés (ce qui ne marche pas vraiment avec seulement -R), 
+- [!] faire une page d'accueil 
+- [!] changer titre
+- [!] regarder pour d'autres options d'apparences  
+	- [!] changer icône d'onglet https://enveloppe.github.io/wikis/Quartz 
+- [!] mettre fichiers recents 
+- [!] utiliser plugin enveloppe pour rendre commandes dataview 
+- [!] changer noms de dossiers (mais pas projet partagés) 
+### Mettre à jour site
+- [ ]  ouvrir vs code, ouvrir un 
 ## mettre résolveur de conflit sur modèle et mettre bouton pour résoudre tout les conflits
-- [!] mettre file diff sur deux versions
+- [X] mettre file diff sur deux versions  [completion:: 2024-08-23]
 
-- [!] utiliser commander pour mettre bouton à gauche
-## republier et faire tester à Thomas et Samuel et Mathieu (qui était avant à Atypic)
+- [X] utiliser commander pour mettre bouton à gauche  [completion:: 2024-08-23]
+## republier et faire tester à Thomas et Samuel et Mathieu (qui était avant à Atypic) et Maffhieu depuis toujours
 - [!] Faire en sorte de mettre résolveur de conflit dans css pour ordre et file diff sur ordi
+
+### faire version pour mobile sans agenda et changer paramètres pour version sans google agenda ^[[[faire une version sans google agenda#^2957aa]]] sachant que c'est la version qui est active #inclus
+- [ ] changer macro de revue hebdomadaire différente pour cette config en changeant page agenda par commande week de day planner sachant qu'elle ouvre un nouvel onglet en faisant attention à mettre entre bons dividers #inclus
+	- [ ] switcher bouton barre latérale calendrier en faisant attention à mettre entre bons dividers #inclus
+- [ ] changer template note quotidienne #inclus : 
+	- agenda sur obsidian : Modèles (inclus)/modèle note quotidienne vtask plugin v.agenda dans obsidian
+	- google agenda : modèle note quotidienne intégration google agenda
+- [ ] switcher avec vue de dossier de file tree "notes d'évènements" #inclus
+- [ ] switcher modèle par défaut de note quotidienne #inclus
 ## refaire marcher habitudes sur toutes les configs autre que mon ordi compris modèle
 - [!] se servir de celle sur mon ordi et copier et pour les versions téléphones tester sur mon téléphone
 
@@ -59,6 +76,7 @@ priorité: 6
 ## mettre les notes récurrentes reportées dans le bon dossier
 - [X] utiliser même commande pour template même refactor pour notes récurrentes reportées  [completion:: 2024-08-02]
 ## remettre à jour les notes, puis revoir mind map, enfin la mettre en ouverture de base dans le modèle
+- [!] archiver autre part tout ce qui est de la configuration 
 ## faire une config tablette
 - [!] voir avec plugins qui sont pas sur téléphone 
 ## partager une fois fini
@@ -76,6 +94,8 @@ priorité: 6
 	- [!] trouver mail de M.Benoit ce qui serait facile serait par l'intermédiaire d'un autre prof #inclus
 	- [>] si Sophie répond lui envoyer
 	- [ ] dhioulak (insta)
+	- [ ] Envoyer un message à Ismail mec du marketing d'Antoine
+	- [ ] Kim qui joue du basson
 - [X] mettre à jour les plugins #inclus  [repeat:: every week on Tuesday]   2024-04-02]  [completion:: 2024-04-30]
 - [X] mettre à jour les plugins #inclus  [repeat:: every week on Tuesday]   2024-04-09]  [completion:: 2024-04-30]
 - [X] mettre à jour les plugins #inclus  [repeat:: every week on Tuesday]   2024-04-16]  [completion:: 2024-04-30]

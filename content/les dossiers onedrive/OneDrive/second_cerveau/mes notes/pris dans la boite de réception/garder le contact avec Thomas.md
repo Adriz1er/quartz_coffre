@@ -7,6 +7,8 @@
 - [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-06-30]  [completion:: 2024-06-30]
 - [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-03]  [completion:: 2024-08-03]
 - [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-12]  [completion:: 2024-08-12]
-- [ ] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-16]
+- [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-16]  [completion:: 2024-08-16]
+- [X] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-23]  [completion:: 2024-08-21]
+- [ ] envoyer un message à Thomas pour jouer ensemble  [repeat:: every week on Friday when done]  [start:: 2024-08-30]
 - [!] faire en sorte qu'il pratique GTD
 - [!] faire en sorte qu'on puisse se voir pendant longtemps en physique

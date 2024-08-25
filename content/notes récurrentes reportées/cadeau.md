@@ -9,3 +9,4 @@
 - [n] grip raquette  [repeat:: every year]  [due:: 2025-02-14]
 - [n] simulacre et simulation de Baudrillard
 - [n] extension Brandi dog
+- [n] balles de ping pong orange

@@ -11,9 +11,10 @@
 - [ ] changer draps  [repeat:: every 6 weeks]  [start:: 2024-08-26]
 - [X] nettoyer ma fenêtre  [priority:: low]  [repeat:: every 53 days when done]  [start:: 2024-07-02]  [completion:: 2024-07-02]
 - [ ] nettoyer mes fenêtres  [priority:: low]  [repeat:: every 53 days when done]  [start:: 2024-08-24]
-- [ ] mettre le tapis au sale et le dire à JM  [repeat:: every 8 weeks]  [start:: 2024-08-14]
+- [ ] mettre le tapis au sale et le dire à JM #maison  [repeat:: every 8 weeks]  [start:: 2024-09-23]
 - [X] brosser le sol de la douche  [repeat:: every 6 weeks]  [start:: 2024-07-05]  [completion:: 2024-07-05]
-- [ ] brosser le sol de la douche  [repeat:: every 6 weeks]  [start:: 2024-08-16]
+- [X] brosser le sol de la douche  [repeat:: every 6 weeks]  [start:: 2024-08-21]  [completion:: 2024-08-21]
+- [ ] brosser le sol de la douche  [repeat:: every 6 weeks]  [start:: 2024-10-02]
 
 à revoir (peut-être) récursivement : 
 ![[nettoyer les toilettes]]

@@ -1,6 +1,6 @@
 ---
 repeat: every 3 days
-due_at: 2024-08-12T11:45:49.143+02:00
+due_at: 2024-08-13T22:59:31.632+02:00
 ---
 ## faire échauffement avant
 - [ ] **Mobilité articulaire :** Rotations de la tête, des épaules, des poignets, des hanches et des chevilles. 

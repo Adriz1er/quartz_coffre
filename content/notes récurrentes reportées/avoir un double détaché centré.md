@@ -1,6 +1,6 @@
 ---
 repeat: daily
-due_at: 2024-08-13T22:59:05.610+02:00
+due_at: 2024-08-22T11:32:49.001+02:00
 ---
 # [[maitriser le double détaché]]
 # avoir un double détaché centré

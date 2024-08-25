@@ -1,6 +1,6 @@
 ---
 repeat: weekly
-due_at: 2024-08-07T14:20:19.072+02:00
+due_at: 2024-08-16T11:41:32.574+02:00
 ---
 # [[Avoir toujours 4 anches dans ça boîte]]
 # faire des anches régulièrement

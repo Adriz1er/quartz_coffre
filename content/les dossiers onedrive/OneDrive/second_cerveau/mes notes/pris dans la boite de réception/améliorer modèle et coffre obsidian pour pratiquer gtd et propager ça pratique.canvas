@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"a20d73dfa78e19f6","type":"group","x":-180,"y":-1220,"width":1000,"height":960,"label":"terminés"},
+		{"id":"9e710a2ed1bb4eb0","type":"file","file":"les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/roadmap/utiliser les notes quotidiennes.md","x":-160,"y":-1200,"width":400,"height":400},
+		{"id":"6b79eec539c1fca6","type":"file","file":"projets partagés/config et vidéo sur gtd/faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment.md","x":2340,"y":840,"width":400,"height":400},
+		{"id":"c9a8569b85c2e3fb","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire une config tablette du modèle.md","x":2340,"y":360,"width":400,"height":420},
+		{"id":"088754649d0fa61c","type":"file","file":"dropbox/Dropbox/Essayer de faire un plugin pour une expérience globale de GTD sur obsidian.md","x":2960,"y":1360,"width":400,"height":400},
+		{"id":"674d95979ec8c098","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/corriger note quotidienne.md","x":1520,"y":360,"width":400,"height":400},
+		{"id":"0e04bdd9631c00f9","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/mettre des éléments dans agenda sur obsidian.md","x":1520,"y":-200,"width":420,"height":400},
+		{"id":"af58b924b1211a0e","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire une version sans google agenda.md","x":1540,"y":840,"width":400,"height":400},
+		{"id":"a48152d51bdda403","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/remettre à niveau macro revue hebdomadaire.md","x":1540,"y":1360,"width":400,"height":400},
+		{"id":"9d479e59e7c791a2","type":"file","file":"dropbox/Dropbox/Essayer de faire un plugin pour une expérience globale de GTD sur obsidian.md","x":2340,"y":-240,"width":400,"height":400},
+		{"id":"74d9940e88a8fedd","type":"file","file":"les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/roadmap/faire en sorte de pouvoir saisir des idées depuis un navigateur.md","x":2340,"y":-720,"width":400,"height":400},
+		{"id":"761b5c7ebd672387","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/utiliser google gemini plugin et voir pour utiliser smart connection qui utilise nos notes.md","x":1540,"y":1920,"width":400,"height":400},
+		{"id":"7593608a8d9e3440","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Idée et problème aléatoire prendre en compte date de start.md","x":1520,"y":2400,"width":400,"height":400},
+		{"id":"01dea39cf2b94593","type":"file","file":"projets partagés/config et vidéo sur gtd/mettre à jour ma config et le modèle de manière à ce que ce soit agréable.md","x":1000,"y":-200,"width":400,"height":400},
+		{"id":"25bf1a477122f6ed","type":"file","file":"les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/roadmap/trucs à propos du modèle qui sont terminés ou annulés.md","x":1000,"y":-880,"width":400,"height":400},
+		{"id":"b7f081acaa289120","type":"file","file":"les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/roadmap/régler problème dates d'échéances.md","x":400,"y":-1200,"width":400,"height":400},
+		{"id":"f8cb6688839fb4f6","type":"file","file":"remettre à jour les notes, puis revoir mind map, enfin la mettre en ouverture de base dans le modèle.md","x":2340,"y":-1200,"width":400,"height":400},
+		{"id":"6499abf3cd636955","type":"file","file":"les dossiers onedrive/OneDrive/habituel/mettre les nouveautés dans le patch note.md","x":1000,"y":-1200,"width":400,"height":200}
+	],
+	"edges":[
+		{"id":"e0c4ad8a204924f0","fromNode":"674d95979ec8c098","fromSide":"left","toNode":"01dea39cf2b94593","toSide":"right"},
+		{"id":"edafa0adb97d469a","fromNode":"0e04bdd9631c00f9","fromSide":"left","toNode":"01dea39cf2b94593","toSide":"right"},
+		{"id":"17d3ef618c80f781","fromNode":"af58b924b1211a0e","fromSide":"left","toNode":"01dea39cf2b94593","toSide":"right"},
+		{"id":"cc1a47138bd109e9","fromNode":"a48152d51bdda403","fromSide":"left","toNode":"01dea39cf2b94593","toSide":"right"},
+		{"id":"7717dba8411102ac","fromNode":"01dea39cf2b94593","fromSide":"right","toNode":"6b79eec539c1fca6","toSide":"left"},
+		{"id":"9057add9f78b49a6","fromNode":"6b79eec539c1fca6","fromSide":"right","toNode":"088754649d0fa61c","toSide":"left"}
+	]
+}

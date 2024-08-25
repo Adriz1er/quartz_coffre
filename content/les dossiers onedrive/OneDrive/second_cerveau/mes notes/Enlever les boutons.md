@@ -15,4 +15,4 @@ tag: ""
 - [X] mettre crème  [repeat:: every 4 days when done]  [start:: 2024-07-16]  [completion:: 2024-07-16]
 - [X] mettre crème  [repeat:: every 4 days when done]  [start:: 2024-08-02]  [completion:: 2024-08-02]
 - [X] mettre crème  [repeat:: every 4 days when done]  [start:: 2024-08-09]  [completion:: 2024-08-09]
-- [ ] mettre crème  [repeat:: every 4 days when done]  [start:: 2024-08-13]
+- [ ] mettre crème  [repeat:: every 4 days when done]  [start:: 2024-08-23]

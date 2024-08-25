@@ -1,0 +1,9 @@
+
+# Avoir toujours 4 anches dans ça boîte
+- [X] que j'ai au moins 5 anches non-montées  [repeat:: every 2 weeks when done]  [start:: 2024-06-20]  [completion:: 2024-06-28] 🔒 2024-06-28 🕸️ [[Avoir toujours 4 anches dans ça boîte#Avoir toujours 4 anches dans ça boîte]]
+- [X] que j'ai au moins 5 anches non-montées  [repeat:: every 2 weeks when done]  [start:: 2024-05-20]  [completion:: 2024-05-20] 🔒 2024-06-28 🕸️ [[Avoir toujours 4 anches dans ça boîte#Avoir toujours 4 anches dans ça boîte]]
+- [X] que j'ai au moins 5 anches non-montées  [repeat:: every 2 weeks when done]  [start:: 2024-04-09]  [completion:: 2024-04-09] 🔒 2024-06-28 🕸️ [[Avoir toujours 4 anches dans ça boîte#Avoir toujours 4 anches dans ça boîte]]
+- [X] si une anche marche plus ou si il y en a deux pas ouf  [repeat:: every week when done]  [start:: 2024-05-20]  [completion:: 2024-05-20] 🔒 2024-06-28 🕸️ [[Avoir toujours 4 anches dans ça boîte#Avoir toujours 4 anches dans ça boîte]]
+- [X] si une anche marche plus ou si il y en a deux pas ouf  [repeat:: every week when done]  [start:: 2024-04-09]  [completion:: 2024-04-09] 🔒 2024-06-28 🕸️ [[Avoir toujours 4 anches dans ça boîte#Avoir toujours 4 anches dans ça boîte]]
+- [X] si une anche marche plus ou si il y en a deux pas ouf  [repeat:: every week when done]  [start:: 2024-03-18]  [completion:: 2024-03-24] 🔒 2024-06-28 🕸️ [[Avoir toujours 4 anches dans ça boîte#Avoir toujours 4 anches dans ça boîte]]
+- [X] si une anche marche plus ou si il y en a deux pas ouf  [repeat:: every week when done]  [start:: 2024-03-10]  [completion:: 2024-03-11] 🔒 2024-06-28 🕸️ [[Avoir toujours 4 anches dans ça boîte#Avoir toujours 4 anches dans ça boîte]]

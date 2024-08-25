@@ -1,6 +1,6 @@
 ---
 repeat: every 4 days
-due_at: 2024-08-14T06:00:00.000+02:00
+due_at: 2024-08-23T06:00:00.000+02:00
 ---
 - [!] nécessite un minimum une #bonne_table_de_ping et un #bon_joueur_de_ping 
 ## s'échauffer avant

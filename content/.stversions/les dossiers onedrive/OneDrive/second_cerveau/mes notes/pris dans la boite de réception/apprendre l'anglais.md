@@ -7,7 +7,8 @@ tags: []
 - [x] réviser la liste anki  [repeat:: every week]  [start:: 2024-02-28]  [completion:: 2024-03-09]
 - [X] réviser la liste anki  [repeat:: every week when done]  [start:: 2024-07-01]  [completion:: 2024-07-01]
 - [X] réviser la liste anki  [repeat:: every 4 days when done]  [start:: 2024-08-02]  [completion:: 2024-08-02]
-- [ ] réviser la liste anki  [repeat:: every 4 days when done]  [start:: 2024-08-11]
+- [ ] réviser la liste anki  [repeat:: every 4 days when done]  [start:: 2024-08-23]
+- [I] écouter ted podcast s'entrainer sur compréhension orale 
 
 ## comprendre l'anglais
 - [X] faire en sorte qu'Anki épelle les mots anglais  [completion:: 2024-03-09]

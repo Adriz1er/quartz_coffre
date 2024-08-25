@@ -7,6 +7,7 @@ priorité: 3
 ---
 - [X] voir si 16R a fini avec liseuse et importer manuel d'epictète et expert secrets  [start:: 2024-03-18]  [completion:: 2024-03-24]
 - [ ] lire comment se faire des amis de Dale carnegie 
+- [!] lire un chapitre alternativement en prenant des notes de échange Symbolique et la mort
 ## à lire ensuite
 - [ ] lire père riche père pauvre  [priority:: high]
 

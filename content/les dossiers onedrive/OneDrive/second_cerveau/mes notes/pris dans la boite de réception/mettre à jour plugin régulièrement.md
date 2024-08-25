@@ -12,4 +12,4 @@ priorité: 0
 - [X] mettre à jour  [repeat:: every week when done]  [start:: 2024-05-19]  [completion:: 2024-05-20]
 - [X] mettre à jour  [repeat:: every week when done]  [start:: 2024-05-30]  [completion:: 2024-06-15]
 - [X] mettre à jour  [priority:: low]  [repeat:: every week when done]  [start:: 2024-06-30]  [completion:: 2024-06-30]
-- [ ] mettre à jour  [priority:: low]  [repeat:: every 2 weeks when done]  [start:: 2024-08-10]
+- [ ] mettre à jour  [priority:: low]  [repeat:: every 2 weeks when done]  [start:: 2024-08-23]
