@@ -4,6 +4,3 @@ Ensuite on remarque qu'on devrait à l'avenir considérer les virus comme fronti
 La condition est de pouvoir remettre en question, ce qui se passe : est-ce qu'on applique les maths sans se donner les moyens de les remettre en question si c'est quelque chose qui nous intéresse ? Est-ce que l'on va continuer à demander d'appliquer de plus en plus rapidement tous que l'on a appris pour pouvoir continuer à apprendre ? une nouvelle frontière apparait ceux qui ont une vision des choses qu'ils font et ceux qui n'en ont pas ; autrement dit ceux qui se fixe de véritables objectifs à long terme et ceux qui se fixent des objectifs à long terme en pensant que c'est véritablement une bonne chose (on voit les nombreuses tâches à date d'échéance à très court terme).
 
 Je pense que la clé pour faire des objectifs à long terme, et de regrouper plusieurs domaine après tout on ne fait pas de mathématiques sans calculatrices, ni même sans graphiques qui tracent les fonctions, et encore moins sans s'inspirer. 
-
----
-[[écriture]]

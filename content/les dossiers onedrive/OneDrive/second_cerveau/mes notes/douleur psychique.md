@@ -1,7 +1,5 @@
 ---
-MOC:
-  - "[[expérience de la douleur]]"
-  - "[[cours lycée/philosophie]]"
+MOC: []
 ---
 n'est pas localisée.
 Exemple : deuil, séparation etc...

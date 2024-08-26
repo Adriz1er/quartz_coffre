@@ -3,7 +3,7 @@ En clair tout ce qui avantage les *centres d'intérêt* utilisent toutes l'*inte
 - un vocabulaire *spécifique*
 - un retard de language 
 - le fait que une personne avec autisme fait des choses différentes parce que c'est spécifique
-- comme [[@Elon Musk]] qui investit beaucoup dans l'innovation, comme [[@Greta Thunberg]] qui a beaucoup dénoncer le réchauffement climatique 
+- comme #👤/Elon_Musk qui investit beaucoup dans l'innovation, comme #👤/Greta_Thunberg]] qui a beaucoup dénoncer le réchauffement climatique 
 
 
 Mais cela implique qu'elle ne retient pas ce qu'elle considère comme **inutile**, donc cela implique que la personne avec autisme a un *

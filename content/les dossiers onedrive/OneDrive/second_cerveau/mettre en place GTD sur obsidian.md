@@ -1,11 +1,11 @@
-- [x] [[faire boite de réception]] ✅ 2023-05-28 [link](https://todoist.com/showTask?id=7110090439) #todoist %%[todoist_id:: 7110090439]%%
+
 - [ ] [[mettre en place les critères d'action rapide]] [link](https://todoist.com/showTask?id=7110090466) #todoist %%[todoist_id:: 7110090466]%%
 - [ ] [[faire une page d'accueil où il y a juste les derniers fichiers ouverts sur mobile]] 🔽  [link](https://todoist.com/showTask?id=7110090475) #todoist %%[todoist_id:: 7110090475]%%
-- [ ] [[faire pages horizons]] [link](https://todoist.com/showTask?id=7110090485) #todoist %%[todoist_id:: 7110090485]%%
+- [ ] faire pages horizons [link](https://todoist.com/showTask?id=7110090485) #todoist %%[todoist_id:: 7110090485]%%
 - [ ] [[mettre en place l'échéancier (des choses échéantes)]] [link](https://todoist.com/showTask?id=7110090492) #todoist %%[todoist_id:: 7110090492]%%
 - [x] [[mettre en place le calendrier avec plugin google calendar]] ✅ 2023-05-28 [link](https://todoist.com/showTask?id=7110090501) #todoist %%[todoist_id:: 7110090501]%%
 - [ ] supprimer les tags inutiles 🔽 ^5e9dc3 [link](https://todoist.com/showTask?id=7110090531) #todoist %%[todoist_id:: 7110090531]%%
-- [ ] [[faire la revue hebdomadaire avec une note]] [link](https://todoist.com/showTask?id=7110090537) #todoist %%[todoist_id:: 7110090537]%%
+
 - [x] faire statut vérification ✅ 2023-05-17 [link](https://todoist.com/showTask?id=7110090548) #todoist %%[todoist_id:: 7110090548]%%
 - [-] liste actions suivantes (avec plugin todolist ou sinon afficher le contenu de tout les projets)
 - [x] statut actions suivantes automatique (à priori pas besoin) ✅ 2023-05-28 [link](https://todoist.com/showTask?id=7110090577) #todoist %%[todoist_id:: 7110090577]%%

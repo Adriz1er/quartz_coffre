@@ -1,7 +1,7 @@
 ---
 tag:
 ---
-ensemble de réseau interconnectés entre eux ^[[[dropbox/Dropbox/pour iut/principe des réseaux]]] c'est littéralement un réseau de réseaux, les règles sont normalisés entre eux et non détenu par une personne
+ensemble de réseau interconnectés entre eux c'est littéralement un réseau de réseaux, les règles sont normalisés entre eux et non détenu par une personne
 date de création : 69-70
 ## contexte de guerre froide USA-URSS
 - 1957 : lancement du premier satellite, qui est russe et qui s'appelle *Spoutnik* ; vécu comme une tentative de preuve de supériorité technologique russe par les américains

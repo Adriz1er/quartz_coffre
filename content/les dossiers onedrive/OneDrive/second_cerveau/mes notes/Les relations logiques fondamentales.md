@@ -1,4 +1,4 @@
- [[cours_Français]]
+
 ___
 # L'expression de la cause de la conséquence et du but
 ## Exercice 1

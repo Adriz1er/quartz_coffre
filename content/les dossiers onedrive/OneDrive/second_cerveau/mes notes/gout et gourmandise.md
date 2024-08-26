@@ -1,6 +1,5 @@
 ---
-MOC:
-  - "[[cours lycée/philosophie]]"
+MOC: []
 ---
 # gout
 - appréciation

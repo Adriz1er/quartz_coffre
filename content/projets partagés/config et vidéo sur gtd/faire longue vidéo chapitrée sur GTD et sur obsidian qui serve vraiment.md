@@ -15,7 +15,6 @@ priorité: 4
 	- [!] #inclus Faire une partie téléphone avec second espace (faisable dans réglage du téléphone)
 		- [!] #inclus montrer comment configurer homepage car démarre pas bien
 - [!] #inclus utiliser transitions que présente ce mec [Pack 50 TRANSITIONS GRATUITES - YouTube](https://www.youtube.com/watch?v=5znuysUgyCE)
-![[écrivez le nom de votre coffre ici (version sans google agenda)/roadmap/régler problème dates d'échéances]]
 - [!] #inclus Présenter la règle des deux minutes et dire que ça marche car après deux minutes si ça prend plus de deux minutes on peut s'arrêter et noter et faire autre chose ; en profiter pour dire qu'il faut arrêter les vidéos de motivation car elles sont inutiles à long terme
 - [!] #inclus Parler d'avoir un carnet que si on peut pas noter sur numerique en mentionnant que j'en ai parfois beaucoup besoin quand les cours paraissent long
 - [!] #inclus dire que ça n'empêche absolument pas d'écrire des concepts sur du papier, et que ça permet d'avoir un lieu avec nos pensées
@@ -49,6 +48,7 @@ priorité: 4
 		- CTRL+Maj+h : saisir une habitude
 			- [!] #inclus c'est juste pour avoir un endroit pour les stocker
 		- CTRL+n / créer un nouveau fichier : crée un projet
+			- [!]  Dire que s'il manque quelque chose pour faire quelque chose pour un projet alors faut le mettre dans le projet #inclus 
 			- [!]  dire pour projets partagé qu'il faut avoir une note partagé et un projet avec aperçu du contenu (avec !! si on veut éditer) #inclus
 			- [!] #inclus dire que dans le meilleur des cas on écrit la prochaine action
 			- [!] #inclus montrer qu'on peut mettre énergie et priorité sur modèle
@@ -73,7 +73,6 @@ priorité: 4
 				- [!] #inclus utiliser exemple de réussir controle de maths en faisant des sous-taches
 			- [!] #inclus montrer à quoi sert task edit et Montrer comment mettre des dates de démarrages sans ouvrir menu en autocompletion
 		- CTRL+Maj+c : saisir un concept
-			- [!] #inclus montrer [[révision sujet 4, 5, 6, 7 python]] pour montrer à quoi sert propriété aspiration
 			- [!] #inclus expliquer c'est quoi les rétroliens et donc occurences liées et non liées (titre de note est dans une autre, mais pas de lien dans ce dernier)
 			- [!] #inclus dire que pour écrire une source c'est source::, mais si on veut on peut faire clique droit pour insérer un callout
 			- [!] #inclus montrer plugin link exploder

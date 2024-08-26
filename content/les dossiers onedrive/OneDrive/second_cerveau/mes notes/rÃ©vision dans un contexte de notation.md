@@ -13,4 +13,4 @@ pour rÃ©viser un contrÃ´le on devrait se poser deux questions :
 - Quelle est la prochaine action Ã  faire ? (viser)
 
 ---
-[[adaptation de la pression des cours de l'Ã©ducation national]]
+adaptation de la pression des cours de l'Ã©ducation national

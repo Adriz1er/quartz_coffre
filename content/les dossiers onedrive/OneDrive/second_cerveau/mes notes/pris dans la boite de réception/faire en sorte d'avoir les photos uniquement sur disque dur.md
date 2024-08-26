@@ -2,7 +2,7 @@
 repeat: every 6 weeks
 due_at: 2024-09-19T06:00:00.000+02:00
 ---
-# [[synchroniser les photos sur le disque dur et faire en sorte que les photos prennent pas trop de stockage et maintenir activer le fait d'avoir plus de ram sur téléphone ]]
+# [[faire synchronisation disque dur]]
 #  faire en sorte d'avoir les photos uniquement sur disque dur
 - [ ] vider corbeille téléphone et utiliser nettoyeur pour enlever les doublons
 - [ ] #téléphone  sélectionner un enregistrement audio dans magnéto puis enregistrer dans recordings et #ordi mettre contenu dans sauvegardé et #téléphone supprimer enregistrements dans magnéto

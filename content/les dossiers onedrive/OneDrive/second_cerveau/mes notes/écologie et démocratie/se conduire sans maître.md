@@ -31,7 +31,7 @@ Gouverner n'est pas **dominer** ; gouverner c'est tenir le *gouvernail* (c'est-�
 Le *pilote* c'est celui qui possède l'art de gouverner. Mais qui doit aussi se servir des vagues et de tout les autres éléments afin de maintenir le cap. C'est en cela que l'auto-gouvernement est utile - notamment dans l'expérience d'une impuissance face à un désir etc..., lors de l'orchestration de nos propres intéractions (intérieures) "on coordonne nos tendances et nos pulsions afin de former une personne". ^40bde9
 
 ---
-Cela s'oppose quelque peu avec l'opinion des Mutazalites dans le livre de Maïmonide ^[[[Le guide des égarés de Maïmonide#L'opinion des Mutazalites : la providence dérive de la sagesse divine qui veut le bien]]] à savoir qu'elle signifie qu'il faut faire le bien et être récompensé pour cela, et que les choses extérieures découleraient du divin et donc qu'on en aurait pas en s'en préoccuper ; Pascal dira que nos actions sont commandés par les "secousses" qui nous soumet le monde extérieur.
+Cela s'oppose quelque peu avec l'opinion des Mutazalites dans le livre de Maïmonide ^[Le guide des égarés de Maïmonide#L'opinion des Mutazalites : la providence dérive de la sagesse divine qui veut le bien] à savoir qu'elle signifie qu'il faut faire le bien et être récompensé pour cela, et que les choses extérieures découleraient du divin et donc qu'on en aurait pas en s'en préoccuper ; Pascal dira que nos actions sont commandés par les "secousses" qui nous soumet le monde extérieur.
 
 ---
 Le fait est que pour gérer des collaborateurs il faut commencer à gérer ses propres perspectives puisque la [[gestion de l'action suivante doit se faire par la clarté]]. On peut alors se poser la question si le système mis en place par David Allen ou ce que l'on appelait le temps et la vertu (ce qui n'est pas la même chose) s'équilibre avec les dispositions sociales des *modes de vie démocratiques* ^[[[la démocratie comme méthode écologique#^d1d10f]]] - ce qui des *habitudes démocratiques*.
@@ -60,7 +60,7 @@ L'excellence de l'âme suppose l'anéantissement de ce qui entrave sa condition,
 John Dewey a fait de l'*expérience* le centre de sa recherche philosophique. "L'expérience est une phase décisive de l'auto-gouvernement ^[[[se conduire sans maître]]]" dans le sens où l'on doit se corriger ^[[[pensée convergente]]]
 
 ---
-Or le fait est (qu'en général) les êtres vivants ne sont ajustés les uns par rapport aux autres que ponctuellement, imparfaitement et progressivement (les relations ne sont pas automatiques). Et bien voilà ! Selon Dewey, l'expérience acquérant des formes spécifiques (dites) "*culturelles*" ^[[[vers l'expérience de soi et du monde#^7e1ef0]]] ^[[[la démocratie comme méthode écologique#^9069e9]]] (par Dewey), notamment avec les expériences *naturelles* (on doit s'efforcer de maintenir notre existence, si l'on ne veut pas éteindre l'espèce humaine). ^1eaea8
+Or le fait est (qu'en général) les êtres vivants ne sont ajustés les uns par rapport aux autres que ponctuellement, imparfaitement et progressivement (les relations ne sont pas automatiques). Et bien voilà ! Selon Dewey, l'expérience acquérant des formes spécifiques (dites) "*culturelles*" ^[vers l'expérience de soi et du monde#^7e1ef0] ^[[[la démocratie comme méthode écologique#^9069e9]]] (par Dewey), notamment avec les expériences *naturelles* (on doit s'efforcer de maintenir notre existence, si l'on ne veut pas éteindre l'espèce humaine). ^1eaea8
 
 ---
 L'expérience avec l'environnement ^[Darwin] caractérise le vivant : ils sont complémentaires - exemple de la feuille de papier qui ne peut pas avoir de recto sans avoir de verso. Les "pouvoirs vitaux" ^[[[se conduire sans maître#^fee4e6]]] ne peuvent s'améliorer qu'en modifiant l'environnement, car l'environnement sélectionne les individus (même pour l'homme (évidemment)) - mais l'environnement est aussi façonné par les activités des individus. "Ce que devient un être vivant ... dépend du type de relation qu'il entretient avec son environnement" ^09ee1b
@@ -78,17 +78,17 @@ Dewey nous dit que lors d'une expérience l'individu se différencie de manière
 Le fait est que justement l'individu doit "s'ajuster" - Je cite "Georges Canguilhem a qualifiée de "normative" pour la distinguer des activités biologiques". Ainsi "L'enquête humaine" n'est pas véritablement avec "l'expérience organique" : les rats ne mangent pas ce qu'ils ne connaissent pas, et en plus arrivent à survivre malgré "les substances raticides".
 
 ---
-On a alors prouvé le fait que les rats acquiert de la culture ^[[[vers l'expérience de soi et du monde#^2508c1]]] , car les rats naissent et doivent ensuite survivre - ce que l'on appelle **enculturation**.
+On a alors prouvé le fait que les rats acquiert de la culture ^[vers l'expérience de soi et du monde#^2508c1] , car les rats naissent et doivent ensuite survivre - ce que l'on appelle **enculturation**.
 
 ---
 ### vraies et fausses cultures
-Pour l'anthropologue Malinowski une culture est " "un tout vivant" " : le milieu *culturel* nous organise, et en ce sens chaque acte ^[[[vers l'expérience de soi et du monde#^8cdeb6]]] est acquis par la participation d'autres individus à une culture "et varie en fonction". ^2508c1
+Pour l'anthropologue Malinowski une culture est " "un tout vivant" " : le milieu *culturel* nous organise, et en ce sens chaque acte ^[vers l'expérience de soi et du monde#^8cdeb6] est acquis par la participation d'autres individus à une culture "et varie en fonction". ^2508c1
 
 ---
-On peut remarquer le parallélisme avec une philosophie Darwinienne ^[[[vers l'expérience de soi et du monde#^09ee1b]]], ce qui constitue un prolongement de la philosophie de l'expérience de Dewey ^[[[vers l'expérience de soi et du monde#^1eaea8]]].  ^7e1ef0
+On peut remarquer le parallélisme avec une philosophie Darwinienne ^[vers l'expérience de soi et du monde#^09ee1b], ce qui constitue un prolongement de la philosophie de l'expérience de Dewey ^[vers l'expérience de soi et du monde#^1eaea8].  ^7e1ef0
 
 ---
-Mais cette culture est elle-même une **transaction** ^[[[vers l'expérience de soi et du monde#^8cdeb6]]], (et il y a donc un effet de réciprocité). "L'expérience *naturelle* en tant qu'adaptation devient culturelle...".
+Mais cette culture est elle-même une **transaction** ^[vers l'expérience de soi et du monde#^8cdeb6], (et il y a donc un effet de réciprocité). "L'expérience *naturelle* en tant qu'adaptation devient culturelle...".
 Ce qui implique que si l'on considère un acte spécifiquement *humain* (pas "naturel"), alors on doit **apprendre** à agir de manière correcte avec l'environnement ^[[[se conduire sans maître#^ba661f]]]
 
 ---

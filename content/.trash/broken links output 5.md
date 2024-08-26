@@ -1,0 +1,2 @@
+Don't forget that creating the file from here may create the file in the wrong directory!
+- [[faire en sorte d'avoir un bon portfolio#faire en sorte d'avoir un bon portfolio]] in [[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire en sorte d'avoir un bon portfolio (archive)]]

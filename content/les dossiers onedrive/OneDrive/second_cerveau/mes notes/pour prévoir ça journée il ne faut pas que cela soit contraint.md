@@ -8,6 +8,6 @@ source: ""
 created_date: "2022-12-02"
 modified_date: "2022-12-03"
 ---
-[[organisation]] 
+
 - vérifier son agenda le matin ou le soir pour éviter d'etre influencer par ce qu'on nous donne à faire
-- si on a une priorité comme un controle [[école]] alors on doit prendre un moment plus tard
+- si on a une priorité comme un controle alors on doit prendre un moment plus tard

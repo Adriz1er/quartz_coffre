@@ -7,7 +7,7 @@ Pour analyser et traiter du texte de façon très rapide
 - recherche d'informations précises dans un fichier
 
 a des expressions basées sur des "motifs" : un vrai language qui utilise des caractères spéciaux. 
-Il ne faut pas les confondre avec les [[méta-caractères]].
+Il ne faut pas les confondre avec les méta-caractères.
 Les [[expressions régulières]] ne sont utilisées que par certaines commandes
 Elles se retrouvent dans d'autres choses notamment languages
 ## exprimer une position

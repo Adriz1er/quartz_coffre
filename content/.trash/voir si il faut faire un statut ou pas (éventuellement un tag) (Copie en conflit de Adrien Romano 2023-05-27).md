@@ -1,0 +1,4 @@
+- [ ] [[utiliser le plugin todo list avec tag pour tel ou tel outil]] ^94fea4 [link](https://todoist.com/showTask?id=7110089955) #todoist %%[todoist_id:: 7110089955]%%
+- [ ] gérer les actions en attente et en attente sur soi en fonction de la personne qui ouvre la note (sinon tag ? ou liste en attente ?) [link](https://todoist.com/showTask?id=7110089962) #todoist %%[todoist_id:: 7110089962]%%
+	- [ ] faire tag pour en attente et contexte [link](https://todoist.com/showTask?id=7110089971) #todoist %%[todoist_id:: 7110089971]%%
+	- [ ] faire statut pour en attente sur soi [link](https://todoist.com/showTask?id=7110089979) #todoist %%[todoist_id:: 7110089979]%%

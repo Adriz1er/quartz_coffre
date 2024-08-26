@@ -46,13 +46,13 @@ priorité: 6
 	- pour publier il faut un chmod777 dans tout les dossiers de content-cache y compris ceux cachés (ce qui ne marche pas vraiment avec seulement -R), 
 - [!] faire une page d'accueil 
 - [!] changer titre
-- [!] regarder pour d'autres options d'apparences  
+- [!] regarder pour d'autres options d'apparences  , s'inspirer de [Eilleen's (online!) Everything Notebook | Eilleen's e-Notebook](https://quartz.eilleeenz.com/) et ce qui est noté dedans
 	- [!] changer icône d'onglet https://enveloppe.github.io/wikis/Quartz 
 - [!] mettre fichiers recents 
 - [!] utiliser plugin enveloppe pour rendre commandes dataview 
 - [!] changer noms de dossiers (mais pas projet partagés) 
-### Mettre à jour site
-- [ ]  ouvrir vs code, ouvrir un 
+à revoir (peut-être) récursivement : 
+!![[Mettre à jour site]]
 ## mettre résolveur de conflit sur modèle et mettre bouton pour résoudre tout les conflits
 - [X] mettre file diff sur deux versions  [completion:: 2024-08-23]
 

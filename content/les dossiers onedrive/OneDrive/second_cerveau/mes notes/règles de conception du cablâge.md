@@ -79,7 +79,7 @@ ISO/IEC 14763-2 : Planning et installation
 ISO/IEC 14763-3 : Test câblage fibre optique (definition de la procedure de test)
 
 fait partie d'une totalité de standards reliés sous la tutelle de ISO 11801 Ed 2
-![[IMG_20230916_172342.jpg|900]]
+
 
 Amérique du Nord: TIA/EIA-568B
 - planning et installation d'un système de câblage structuré pour des immeubles de bureaux.
@@ -107,9 +107,6 @@ Les catégories de composants:
 - Catégorie 7: 600 MHz (et 1000 MHz pour la 7A)
 - Catégorie 8: 2000 MHz sur 30m uniquement
 
-![[IMG_20230916_172623.jpg]]
-![[IMG_20230916_172553.jpg]]
-![[IMG_20230916_172756.jpg]]
 
 Fin 1990, chez Amadeus, on pose le standard du marché en classe 6 ou 6a?
 En fait, on pose catégorie 7 pour les câbles avec des connecteurs 6 ou 6a. (→ C'est une stratégie intelligente).
@@ -167,7 +164,6 @@ Caractéristiques:
 	- définit la couche PHy 10 Gbit/s avec un type de liaison supportant du câble en cuivre à paires torsadées équilibrées sur une longueur de 100 mètres. 
 	- 10GBASE-T reste compatible avec les normes 100BASE-TX et 1000BASE-T qui utilise des cable 100 ohms à quatre paires torsadées de type UTP ou FTP
 
-![[IMG_20230916_175847.jpg]]
 
 Les normes européennes basées sur la norme ISO/CEI 11801 concernent:
 - les caractéristiques techniques de la chaîne de liaison
@@ -188,7 +184,7 @@ Pour le blindage des paires torsadées, il existe:
 - UTP (unfoiled) - sans blindage
 - FTP (foiled) - avec blindage par feuillard
 - STP (braided shielding) - avec blindage par tresse
-![[IMG_20230916_180321.jpg|400]]
+
 Plus précisément
 - U/UTP (sans blindage général, sans blindage par paire)
 - F/UTP (blindage général, sans blindage par paire)
@@ -198,8 +194,8 @@ Plus précisément
 
 C'est mieux de blinder les paires plutôt que d'avoir un blindage général.
 Ex: SF/FTD utilisé en environnement industriel agressif comme les cabines d'ascenseurs
-![[IMG_20230916_180446.jpg|400]]
-![[IMG_20230916_180505.jpg]]
+
+
 La famille des cables à paires torsadees se subdivise en quatre, selon leur constitution:
 - les cables UTP, non blindes et d'impédance de 100 $\ohm$,
 - les cables FTP, écrantes et d'impedance de 120$\ohm$, 100$\ohm$ 

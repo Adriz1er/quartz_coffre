@@ -1,6 +1,6 @@
 
 ___
-[[Freud]]
+#👤/Freud
 # Stade Génital
 fait référence à l'apparition
 ___

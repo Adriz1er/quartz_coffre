@@ -10,5 +10,5 @@ La piraterie moderne consiste à détourner la marchandise et enlèvement pour f
 La crise des migrants : 2 million de personnes ont traversé la méditerranée, avec 20 000 morts estimés ; déclenche un phénomène de société et un débat politique européen. La mer devient
 
 ---
-[[Cours_Histoire-Géo]] [[Mers et Océans au coeur de la modialisation]]
+Cours_Histoire-Géo Mers et Océans au coeur de la modialisation
 - mondialisation selective

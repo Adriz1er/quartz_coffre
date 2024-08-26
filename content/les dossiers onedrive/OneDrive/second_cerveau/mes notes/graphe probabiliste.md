@@ -1,6 +1,5 @@
 ---
-MOC:
-  - "[[les graphes]]"
+MOC: []
 ---
 Un graphe probabiliste est 
 - un graphe pondéré

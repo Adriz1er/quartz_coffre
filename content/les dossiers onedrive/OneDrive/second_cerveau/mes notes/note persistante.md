@@ -3,7 +3,7 @@ enableLinks: true
 ---
 [[Productivité]] #🌲 
 
-D'après [[@Andy Matuchak]] il faut avoir un espace de note dédié^[[A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz)] et court de manière à voir chaque unité de concept rapidement.
+D'après #👤/Andy_Matuchak il faut avoir un espace de note dédié^[[A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz)] et court de manière à voir chaque unité de concept rapidement.
 
 **Quand elle terminée** c'est une note à laquelle on pense qui est une idée et qu'on comprend comme un concept.
 On la comprend avec les idées suivantes :

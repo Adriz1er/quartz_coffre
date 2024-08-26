@@ -1,4 +1,4 @@
-[[motivation]]
+
 ___
 1. Apprendre tout le temps des choses sur le sujet qui nous intéresse
 2. Essayer le plus possible quelque chose d'intéressant

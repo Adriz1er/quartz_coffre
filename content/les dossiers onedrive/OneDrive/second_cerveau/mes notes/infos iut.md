@@ -1,6 +1,5 @@
 ---
-aspiration:
-  - "[[réussir à l'iut de manière à pouvoir potentiellement rentrer dans une très bonne école d'ingénieur]]"
+aspiration: []
 ---
 TD 28 
 TP 14

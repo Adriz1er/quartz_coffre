@@ -1,6 +1,5 @@
 ---
-MOC:
-  - "[[cours lycée/philosophie]]"
+MOC: []
 ---
 impression qui ça n'a pas lieu d'être, alors qu'à pourtant pour fonction de favoriser les relations sociales, lié avec le langage dans l'entre-soi ; on peut alors dire que c'est un "décentrement de soi" afin de favoriser les flux ^[[[se conduire sans maître#^1e7a4a]]] ^779936
 

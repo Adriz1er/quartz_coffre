@@ -1,5 +1,5 @@
 
-aspiration: [[construire développer et entretenir son réseau relationnel]] [connaître les outils permettant de s'insérer professionnellement]
+aspiration: construire développer et entretenir son réseau relationnel [connaître les outils permettant de s'insérer professionnellement]
 
 Le réseau relationnel désigne l'ensemble des personnes avec lesquelles vous êtes en relation et qui sont susceptibles de jouer un role dans votre évolution professionnel
 ## le réseau primaire
@@ -19,7 +19,7 @@ avoir un intermédiaire permet de gagner en prestance et surtout de passer pour 
 astuces :
 - essayer de le voir physiquement si il peut, pour faire sentir sa propre motivation à propos de la raison pour laquelle on veut le voir ; et la lui expliquer.
 	- nécessaire de lui demander à parler deux minutes
--  utiliser la [[méthode SMART]] c'est-à-dire : ![[méthode SMART]]
+-  utiliser la méthode SMART 
 - il ne faut pas oublier les intermédiaires
 	- il faut les remercier
 - on peut donner quelque chose ou un service pour gagner en importance 

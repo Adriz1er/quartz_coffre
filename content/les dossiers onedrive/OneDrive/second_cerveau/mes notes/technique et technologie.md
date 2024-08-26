@@ -8,6 +8,6 @@ La technique désigne un ensemble de moyens et de méthodes utiles dans l'obtent
 
 ---
 ### nord:: 
-### sud:: [[outil s'opposant au robot]]
+### sud:: outil s'opposant au robot
 ### ouest:: 
 ### est:: 

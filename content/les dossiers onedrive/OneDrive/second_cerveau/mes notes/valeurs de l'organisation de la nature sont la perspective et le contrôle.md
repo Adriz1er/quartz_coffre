@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-#🌲  [[organisation]] [[nature]]
+#🌲   [[nature]]
 
 ---
 Sachant que la nature produit de la *vie*, alors on peut voir ses priorités. 

@@ -1,6 +1,5 @@
 ---
-MOC:
-  - "[[philosophie]]"
+MOC: []
 ---
 Le cas du café chez Starbucks qui ne s'appelle plus café mais Starbuck ; et dans ce cas en l'occurrence le café ne représente plus que 1/4 ou 1/8 du café.
 On consomme alors dans ce cas le signe et plus le café en lui-même.

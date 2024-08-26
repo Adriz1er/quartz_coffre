@@ -8,7 +8,7 @@
 ⬜ Faire en sorte que les années soient bien cohérentes ★
         ⬜ quelle année pour le texte de JM
         ⬜ Que fait la technologie en 2028 et que se passe t-il en 2032
-⬜ Regardes les liens comme [[bases_inspirantes]] ★
+⬜ Regardes les liens comme bases_inspirantes ★
         ⬜ https://vincent.callebaut.org/object/151223_aequorea/aequorea/projects
         ⬜ https://powerlisting-fandom-com.translate.goog/wiki/Technomagic?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=sc
         ⬜ https://powerlisting.fandom.com/wiki/Technomagic
@@ -100,10 +100,10 @@ vidéo sur habitudes : https://youtu.be/JepyqLcIpgM
         ⬜ Demander c'est quoi l'économie
         ⬜ par une autre organisation qui s'opposerait à l'autre ?
         ⬜ Blue economie soit vidéo Aberkane soit ma future explication
-        ⬜ [[Blue-economie]]
+        ⬜ Blue-economie
 ⬜ raconter comment les hommes ont appris ça (flashback)
 ⬜ Histoire commentée sous forme de podcast ?
-⬜ [[Blue-economie]]
+⬜ Blue-economie
 ⬜ Critiquer le " je pense donc je suis" (erreur la plus fondamentale)
 ⬜ Loi de Moore ?
 ⬜ Chercher def Hard science

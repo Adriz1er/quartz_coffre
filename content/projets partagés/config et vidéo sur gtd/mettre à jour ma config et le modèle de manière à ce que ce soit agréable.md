@@ -43,13 +43,15 @@ priorité: 6
 - [X] faire tuto de Nicole von ... [How to publish your notes for free with Quartz - YouTube](https://youtu.be/6s6DT1yN4dw?si=293vGsAUahQv_pA7)  [completion:: 2024-08-23]
 - [X] faire en sorte de publier le site  [completion:: 2024-08-23]
 - [X] Faire en sorte d'annuler tout mes comit avec git revert puis de re commit pour pas qu'il y ait problème d'exporter et voir sur page github.io adresse dans paramètres  [completion:: 2024-08-21]
-	- pour publier il faut un chmod777 dans tout les dossiers de content-cache y compris ceux cachés (ce qui ne marche pas vraiment avec seulement -R), 
+	- pour publier il faut un chmod777 dans tout les dossiers de content-cache y compris ceux cachés (ce qui ne marche pas vraiment avec seulement -tR), 
 - [!] faire une page d'accueil 
 - [!] changer titre
-- [!] regarder pour d'autres options d'apparences  
+- [!] regarder pour d'autres options d'apparences  , s'inspirer de [Eilleen's (online!) Everything Notebook | Eilleen's e-Notebook](https://quartz.eilleeenz.com/) et ce qui est noté dedans
 	- [!] changer icône d'onglet https://enveloppe.github.io/wikis/Quartz 
 - [!] mettre fichiers recents 
 - [!] utiliser plugin enveloppe pour rendre commandes dataview 
+	- [ ] faire query dataview pour rendre [[boîte de réception]], liste de projets, éléments reportés (plus compliqué mais voir pour chercher dans autres notes / archives), [[liste des notes récurrentes reportées]], mettre une vue dans quand je suis occupé avec l'agenda (possible de faire ça en partageant un agenda mais sur un site je sais pas), [[éléments en attente]] 
+		- [ ] mettre sur page d'accueil
 - [!] changer noms de dossiers (mais pas projet partagés) 
 à revoir (peut-être) récursivement : 
 !![[Mettre à jour site]]
@@ -86,7 +88,7 @@ priorité: 6
 ### [[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]
 ![[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]
 - [!] donner mon modèle à Gianni à Justine à Nathan et à bonclay et Robin et Mathias et à Shaheen et relancer Bastien et lola l'ancienne meuf de Thomas et jordan et Mathieu et voir avec ce dernier pour theodore et Nassim (.minfini sur discord) et whix et Marc Anthony et Chloé et Luna sur discord et LK Musen et l'intello autiste d'Apollinaire et Laurent et Luis et à Aenea et Tian (discord) et Tom et urlebop et Michel Mugot et Jeremy guibert (que je peux mettre en bêta ) et Marius de St Geniez et Maëlle Snap et Matthieu Combaz, Bénédicte et Gael de St Geniez et Gauthier et Shanatomique et Parler à Jérômy Sagnier du obsidian voir pour en même temps que Féraste le mec sur Skool dans mes mails et Hélène de St Geniez  #inclus
-- [!] Envoyer modèle à theo une fois que la vidéo est faite Envoyer par message la vidéo youtube de gtd avec obsidian quand elle sera sortie à Bernard de ppp1 et Laurent et Chloé ferra sur insta ; un certain nombre de gens sur discord 
+- [!] Envoyer modèle à theo une fois que la vidéo est faite Envoyer par message la vidéo youtube de gtd avec obsidian quand elle sera sortie à Bernard de ppp1 et Chloé ferra sur insta ; un certain nombre de gens sur discord 
 	- [ ] envoyer un mail prof maths expert goyet.christopher@gmail.com
 	- [ ] envoyer mail à M.Dulat philippedulat@gmail.com
 	- [ ] chercher mail dans notes de prof d'anglais dans note #téléphone 
@@ -113,4 +115,4 @@ priorité: 6
 - [ ] mettre fichier content #inclus  [repeat:: every week on Tuesday]  
 - [!] mettre un message sur [channel discord de Archi-lourd](https://discord.com/channels/1050136893242753085/1105869492195692594) #inclus  [repeat:: every week on Tuesday]   
 
-- [*] commencer [[dropbox/Dropbox/Essayer de faire un plugin pour une expérience globale de GTD sur obsidian|Essayer de faire un plugin pour une expérience globale de GTD sur obsidian]]
+- [*] commencer [[projets partagés/Essayer de faire un plugin pour une expérience globale de GTD sur obsidian|Essayer de faire un plugin pour une expérience globale de GTD sur obsidian]]

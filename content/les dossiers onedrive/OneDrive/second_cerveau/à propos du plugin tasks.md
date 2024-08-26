@@ -16,7 +16,7 @@
 	- il existe beaucoup de filtres qu'on peut retrouver dans la [documentation](https://publish.obsidian.md/tasks/Queries/Filters). Il y a l'air d'y avoir tout sauf les métadonnées.
 	- On peut utiliser "OR" pour dire ou, et "AND" pour dire et (à la fois ça et ça)
 		- pour ne mettre que les tâches qui ont une date on peut mettre "(...) AND (has happens date)"
-	- on peut aussi grouper "group by" ce qui donne quelque chose de ce type ![[Pasted image 20230513104809.png]]
+	- on peut aussi grouper "group by" ce qui donne quelque chose de ce type 
 - marche avec le plugin reminder pour avoir des rappels
 - marche avec le plugin checklist mais à voir pour la pertinence
 - on peut faire une note par projet, et donc un sous-projet est un lien dans un projet ^44dfe5

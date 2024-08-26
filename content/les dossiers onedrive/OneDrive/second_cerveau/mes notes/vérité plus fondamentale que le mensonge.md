@@ -9,5 +9,5 @@ manière de réflexion sur l'infox, conséquence de la post-vérité : aux circo
 
 ---
 ### Tags
-[[Cours_Philosophie]] [[vérité ou vie]]
+
 ### Boussole

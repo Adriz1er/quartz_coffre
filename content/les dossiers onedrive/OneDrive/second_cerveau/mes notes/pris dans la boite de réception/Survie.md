@@ -15,5 +15,5 @@ Vert inattendu car pas rt
 - revoir p 3 illustration et il y a beaucoup à lire
 - mettre en vert les logos p 4 avec un vert d'une autre page
 - corriger texte d'illustration p 5
-- pour p6 ![[IMG_20240516_090128.jpg]]
+- pour p6 
 - mettre message de bonne rentrée à la fin

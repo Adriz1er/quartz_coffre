@@ -3,8 +3,8 @@
 - [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-05-30]  [completion:: 2024-06-15]
 - [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-07-05]  [completion:: 2024-07-16]
 - [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-08-10]  [completion:: 2024-08-10]
-- [ ] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-08-17]
-	- [ ] mettre chiffon au sale  [repeat:: every 10 weeks when done]  [start:: 2024-08-22]
+- [ ] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-08-23]
+	- [ ] mettre chiffon au sale  [repeat:: every 10 weeks when done]  [start:: 2024-08-23]
 - [-] demander à Michel comment utiliser le protège dent pour la première fois car j'ai pas réussi à le couper | 2024-01-13
 - [X] mettre la sangle au sale  [repeat:: every 5 weeks when done]  [start:: 2024-06-04]  [completion:: 2024-06-15]
 - [X] mettre la sangle au sale  [repeat:: every 5 weeks when done]  [start:: 2024-07-20]  [completion:: 2024-07-30]
@@ -12,7 +12,7 @@
 	- [x] voir si on a bien la sangle jazzlab pour ne plus nettoyer l'autre regulierement  [start:: 2024-08-04]  [completion:: 2024-08-09]
 - [X] trouver récurrence gammes  [start:: 2024-07-29]  [completion:: 2024-07-30]
 à revoir (peut-être) récursivement : 
-![[notes quotidiennes/faire un exercice sur toutes les gammes par jour]]
+![[faire un exercice sur toutes les gammes par jour]]
 ## [[notes récurrentes reportées/faire révisier le basson chez Sabatier|faire révisier le basson chez Sabatier]]
 ![[notes récurrentes reportées/faire révisier le basson chez Sabatier|faire révisier le basson chez Sabatier]]
 ## avoir des cours de basson à l'académie

@@ -1,6 +1,5 @@
 ---
-MOC:
-  - "[[cours lycée/philosophie]]"
+MOC: []
 ---
 difficulté à énoncer : Karrer "ce que je raconte à l'air horrible bien plus que ce que je raconte"
 l'humanité cherche systématiquement à s'en protéger

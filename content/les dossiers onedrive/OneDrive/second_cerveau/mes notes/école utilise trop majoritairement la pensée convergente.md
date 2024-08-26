@@ -5,7 +5,7 @@
 - donc l'école se concentre sur des trucs reprochables
 Le fait que l'on fait des choses communes à l'école donc il ne peut en être autrement
 
-à noter que ça prend un caractère ennuyant si la [[pensée convergente]] est utilisé plus que ce qu'il faudrait dans tel ou telle matière, et ça *handicape* si on utilise admettons 97% au lieu des 95% requis pour les [[Cours_maths]]. 
+à noter que ça prend un caractère ennuyant si la [[pensée convergente]] est utilisé plus que ce qu'il faudrait dans tel ou telle matière, et ça *handicape* si on utilise admettons 97% au lieu des 95% requis pour les Cours_maths. 
 
 A noter : qu'on retrouve des moments de *défoulement* (principalement lors des *pauses*), de 
 [[pensée divergente]]

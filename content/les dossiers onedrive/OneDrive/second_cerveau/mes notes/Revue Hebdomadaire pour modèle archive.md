@@ -1,6 +1,6 @@
 
 
-![[écrivez le nom de votre coffre ici (version sans google agenda)/pour boîte de réception/boîte de réception]]
+!écrivez le nom de votre coffre ici (version sans google agenda)/pour boîte de réception/boîte de réception
 
 
 

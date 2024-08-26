@@ -4,7 +4,7 @@ Passer papier au dessous
 - prendre neuranter modèle 17
 Mettre dans l'eau maximum 15 minutes
 Ovaliser en bougeant le mandrin
-Limer les côtés de là où il y a le tube![[IMG_20230724_163053.jpg|175]]
+Limer les côtés de là où il y a le tube !IMG_20230724_163053.jpg|175
 - laisser un espace avec le dernier anneau, puis une fois que le tube est fermé on serre l'anche 
 Quand on a fermé limer le bord de la lime pour bloquer l'anneau du bas
 

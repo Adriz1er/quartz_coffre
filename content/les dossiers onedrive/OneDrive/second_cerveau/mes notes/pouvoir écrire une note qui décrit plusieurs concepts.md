@@ -6,4 +6,4 @@ Par exemple on peut :
 - [[organiser les concepts mathématiques dans une structure organique]]
 
 ---
-[[Zettelkasten]] #🌲 [[organisation]]
+#🌲 

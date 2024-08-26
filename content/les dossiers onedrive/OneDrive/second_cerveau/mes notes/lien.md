@@ -1,4 +1,4 @@
-[[permanent]]
+
 # Caractéristiques
 - bidirectionnel
 - fait le réseau

@@ -1,4 +1,4 @@
-#☀️ [[vocabulaire allemand]]
+#☀️ vocabulaire allemand
 ___
 der Rat ; le conseil
 ehrlich ; honnête
@@ -11,4 +11,4 @@ die Wharheit ; la vérité
 der Sklave ; l'esclave
 das Gefängnis ; la prison
 der Vestand ; la raison
-an/bieten [[particule séparable]] ; offrir, proposer
+an/bieten particule séparable ; offrir, proposer

@@ -12,10 +12,10 @@ Ma liste d'engagement répond à un besoin (qui semble être [autistique](autism
 - ranger chambre
 - mettre taches sur Obsidian
 - problème obsidian dossier site et dossier perso
-- terminer [[Cours_maths]] 1ère
-- [[Basson]]
+- terminer Cours_maths 1ère
+- Basson
 - santé
-- [[écriture]] ([[philosophie]]sophie / [[psychologie]])
+- écriture ([[philosophie]]sophie / [[psychologie]])
 - trier taches todoist
 - Améliorer le sommeil|15%
 
