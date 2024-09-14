@@ -1,0 +1,143 @@
+---
+tags: []
+priorité: 4
+énergie: 0
+échéance: 
+---
+- [!] #inclus dire que gtd est ce qui permet de tout clarifier
+- [!] Dire que gtd est un véritable tour de force car il permet de transformer les problèmes qu'on a dans la tête en solution #inclus 
+- [!] Dire que il faut pratiquer l'auto-gouvernement quelque soit nos envies #inclus
+- [!] #inclus mettre le téléphone sur d'autres livres et en rajouter pour que ce soit assez haut
+- [!] faire en sorte que l'on voit où je clique #inclus 
+![[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/monter ma chaîne youtube aux 100k et avoir de l'influence#^80ebb3]]
+![[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/monter ma chaîne youtube aux 100k et avoir de l'influence#^a33d18]]
+- [!] #inclus faire en sorte que ce soit simple à comprendre mais que ça va être très long
+	- [!] #inclus Faire une partie téléphone avec second espace (faisable dans réglage du téléphone)
+		- [!] #inclus montrer comment configurer homepage car démarre pas bien
+- [!] #inclus utiliser transitions que présente ce mec [Pack 50 TRANSITIONS GRATUITES - YouTube](https://www.youtube.com/watch?v=5znuysUgyCE)
+- [!] #inclus Présenter la règle des deux minutes et dire que ça marche car après deux minutes si ça prend plus de deux minutes on peut s'arrêter et noter et faire autre chose ; en profiter pour dire qu'il faut arrêter les vidéos de motivation car elles sont inutiles à long terme
+- [!] #inclus Parler d'avoir un carnet que si on peut pas noter sur numerique en mentionnant que j'en ai parfois beaucoup besoin quand les cours paraissent long
+- [!] #inclus dire que ça n'empêche absolument pas d'écrire des concepts sur du papier, et que ça permet d'avoir un lieu avec nos pensées
+- [!] #inclus mettre le lien du modèle en commentaire épinglé
+- [!] #inclus dire qu'il faut désactiver économiseur de batterie ou activer arrière plan pour obsidian
+- [!] #inclus faire une vidéo super longue sur obsidian et GTD et de super qualité
+	- [!] montrer comment installer le modèle sur ios, mac, android, windows #inclus
+	- [!] Demander aux utilisateurs de renommer tant que le panneau de gauche est fait par Make.md sur mobile #inclus
+	- [!] #inclus montrer les bases du logiciel
+	- [!] #inclus montrer plugin surfing et dire qu'il est que sur ordi, dire qu'il est pas très stable pour le moment et qu'il n'y a pas de mode sombre ni de bloqueur de pub ni de sauvegarde des mots de passe
+		- [!] #inclus dire comment ajouter mail sur bookmark surfing sur obsidian
+		- [!] #inclus montrer comment importer ses favoris, et faire un favoris et un dossier de favoris (paramètre du plugin), montrer comment supprimer un favoris en le faisant revenir dans root
+	- [!] #inclus dire que gtd sert à intérioriser les taches
+		- [!] #inclus dire que le fait de choisir la meilleure décision est au pire remis à la fin du week-end
+		- [!] #inclus Dire qu'il faut avoir fait le point à un moment pour agir, citation Epictète : "Dis-toi d'abord qui tu veux être, puis fais en conséquence ce que tu dois faire"
+		- [!] #inclus Dire que le fait de mettre les choses en dehors de notre tête permet de réfléchir
+	- [!] #inclus montrer comment utiliser les favoris
+	- [!] #inclus parler du fait qu'il faut ouvrir son échéancier au matin
+	- [!] #inclus dire comment exporter les données sur obsidian
+	- [!] #inclus parler des commandes de base du modèle et des raccourcis clavier sur obsidian avant ça, les raccourcis du modèle sont :
+		- CTRL+Maj+u : saisir un intrant
+			- [!] #inclus dire qu'on peut mettre les émojis pour mettre des éléments échéants dans la boite de réception [created:: 2024-01-10]
+			- [!] #inclus dire qu'il faut bien tout mettre à la suite du bloc car sinon ça n'apparaitra pas en entier dans la boite de réception
+			- [!] #inclus montrer bouton sur ordi et sur téléphone pour boîte de réception,
+				- [!] #inclus dire que lors de requete il faut mettre son curseur sur case à cocher pour changer statut
+			- [!] #inclus dire que pour dépendance il faut utiliser foot note
+			- [!] #inclus dire que plus on met d'info mieux c'est généralement pour un intrant
+			- [!] #inclus dire qu'il faut utiliser fichiers tâches avec start pour pas laisser des trucs qu'on avait mis pour plus tard dans des notes
+			- [!] #inclus dire qu'on peut aussi mettre des intrants en cliquant sur partager depuis un téléphone et mettre dans le fichier 📥 avec statut idée
+			- [!] Dire qu'il ne faut pas remettre des intrants dans la boîte de réception #inclus
+			- [!] dire que si ça met un message d'erreur il faut juste sauter une ligne dans le fichier [[📥]] #inclus
+		- CTRL+Maj+h : saisir une habitude
+			- [!] #inclus c'est juste pour avoir un endroit pour les stocker
+		- CTRL+n / créer un nouveau fichier : crée un projet
+			- [!]  Dire que s'il manque quelque chose pour faire quelque chose pour un projet alors faut le mettre dans le projet #inclus 
+			- [!]  dire pour projets partagé qu'il faut avoir une note partagé et un projet avec aperçu du contenu (avec !! si on veut éditer) #inclus
+			- [!] #inclus dire que dans le meilleur des cas on écrit la prochaine action
+			- [!] #inclus montrer qu'on peut mettre énergie et priorité sur modèle
+			- [!] #inclus Dire que pour créer un sous projet on utilise headings
+			- [!] #inclus dire que il y a un projet si il est actif et non reporté
+			- [!] dire que pour un élément reporté il faut mettre dans le nom de la tâche si il y a un moment particulier pour le faire #inclus 
+			- [!] Dire que s'il faut penser à un truc une fois on peut mettre une note récurrente reportée #inclus
+			- [!] #inclus pour le reporter il faut enlever le tag projet et il faut que le jour auquel vous voulez le reporter ait déjà une note quotidienne de crée
+			- [!] #inclus dire que les notes quotidiennes se mettent dans un dossier d'archive automatiquement après 30 jours
+			- [!] #inclus dire qu'on peut ouvrir une fenetre hover editor pour projets dans note quotidienne 
+			- [!] il faut skip une fois pour mettre à jour la recurrence	donc à chaque fois qu'on ouvre des éléments multiples récurrents #inclus 	
+			- [!] dire qu'il faut enlever le contenu de due_at ou l'enlever complètement si on veut enlever une note des notes récurrentes #inclus
+			- [!] dire qu'on peut reporter à aujourd'hui en maintenant l'émoji des flèches dans la requête #inclus
+			- [!] #inclus dire que si on veut mettre un truc dans note quotidienne le passer en projet il faut aire clique droit et extraire cette en-tête
+			- [!] #inclus prévenir que les taches récurrentes ne marchent pas dans la liste
+			- [!] #inclus dire que le bleu indique que c'est un projet
+			- [!] #inclus parler de la priorité et de l'énergie
+			- [!] #inclus  parler que j'ai mis dans dataview query due et priority dans tri pour qu'elle les prenne en compte notamment dans heading
+			- [!] #inclus dire qu'il faut cliquer sur le premier modèle pour ajouter un projet dans liste de projet de dbfolder
+			- [!] #inclus présenter copilot, et pour ça switftkey sur android [Microsoft SwiftKey AI Keyboard – Applications sur Google Play](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=fr&gl=US&pli=1)
+			- [!] #inclus présenter goblin tools et montrer comment mettre raccourci sur téléphone
+				- [!] #inclus montrer qu'en mettant un nom d'utilisateur et un mot de passe ça synchronise goblin tool
+				- [!] #inclus utiliser exemple de réussir controle de maths en faisant des sous-taches
+			- [!] #inclus montrer à quoi sert task edit et Montrer comment mettre des dates de démarrages sans ouvrir menu en autocompletion
+		- CTRL+Maj+c : saisir un concept
+			- [!] #inclus expliquer c'est quoi les rétroliens et donc occurences liées et non liées (titre de note est dans une autre, mais pas de lien dans ce dernier)
+			- [!] #inclus dire que pour écrire une source c'est source::, mais si on veut on peut faire clique droit pour insérer un callout
+			- [!] #inclus montrer plugin link exploder
+		- [!] #inclus donner raccourci pour supprimer note actuelle
+		- [!] #inclus Si vous êtes sur mobile il suffit de glisser vers le bas pour faire apparaître en haut la palette de commande, et taper votre commande 
+		- [!] #inclus dire qu'il faut télécharger Mozilla pour ouvrir les uri et dire que Mozilla est vraiment bon mais montrer problème affichage de mot de passe en mode clair
+	- [!] éléments récurrents passés non finis sont en bas des éléments reportés #inclus 
+	- [!] dire qu'on ne peut avoir de récurrent que des vérifications et des actions #inclus 
+	- [!] dire qu'il faut sélectionner puis ajouter à note quotidienne pour mettre éléments reportés #inclus
+	- [!] dire que quand on utilise l'entête de page pour faire en sorte qu'une note soit récurrente reportée il faut mettre en titre de niveau 1 le nom du fichier (optionnelement car avec make.md et repeat ça affiche plus le nom des fichiers) #inclus
+	- [!] Dire qu'il faut revoir la note quotidienne en se levant et en se couchant #inclus
+	- [!] montrer comment faire un agenda partagé avec syncthing #inclus
+		- [!] il faut utiliser un autre nom pour évènement agenda quand c'est pas notre dossier #inclus
+	- [!] montrer comment exporter évènements google ou icloud et les importer sur full calendar #inclus
+	- [!] dire qu'on peut aussi une page web pour afficher agenda #inclus
+	- [!] dire que pour afficher / masquer les évènements il faut aller dans les paramètres de full calendar et ajouter / retirer un dossier #inclus 
+	- [!] #inclus parler de comment marche les canvas globalement sur youtube et comment mettre objectif
+		- [!] #inclus Dire qu'il faut utiliser hover editor pour éditer note dans canva
+		- [!] #inclus dire à quoi serve les panneaux pour backlinks avec canvas
+		- [!] dire que sur mobile il faut maintenir là où il y a pas de notes pour ajouter une note du coffre #inclus
+	- [!] #inclus montrer trash explorer
+	- [!] #inclus montrer comment utiliser les multi colonnes
+	- [!] #inclus dire comment faire en sorte de mettre des taches et projet hors de fonctionnement mais qu'ils soient toujours noté (notamment avec le tag projet ou non et noté ou non)
+	- [!] #inclus dire que dans la liste des projets s'il y en a aucun qui a une date d'échéance et bien elles ne seront plus affichées et pour ça il faut insérer une date d'échéance avec clique droit dans un projet
+	- [!] #inclus montrer comment utiliser ical pour afficher dates d'échéances sur outlook Google agenda et icloud 
+	- [!] #inclus Dire que si quelque chose est uniquement en attente on peut faire une note sans le tag projet
+	- [!] #inclus parler de l'éditeur de photo sur obsidian et du fait que si on clique sur une image en ouvrant som menu alors on peut copier (bouton en bas à droite
+	- [!] #inclus montrer comment utiliser image2latex et avoir l'api
+	- [!] #inclus parler de chacun des statuts que j'utilise
+		- [!] #inclus lier ceux qui sont liés à certaines de mes notes en particulier
+		- [ ] dire qu'il faut 
+	- [!] #inclus dire que start date sert à reporter quelque chose
+	- [!] ça ⏪ vers la droit sert à reporter au lendemain et c'est affiché lors des requetes #inclus 
+	- [!] #inclus dire qu'il faut faire un clique droit sur le lien pour ouvrir dans un nouvel onglet et délier pour re-reporter un projet dans note quotidienne
+	- [!] #inclus parler de liste en attente (et en attente sur soi) et de les configurer avec son prénom en editant le code ^[[[choisir ses actions avec GTD grâce à obsidian#^8c070b|choisir ses actions avec GTD grâce à obsidian]]] en parlant du type de tag pour une personne
+	- [!] #inclus dire que la barre latérale s'ouvre avec le bouton en bas à droite sur téléphone
+	- [!] #inclus Parler de la barre d'outil sur téléphone et les effets et des flèches vers le haut et vers le bas pour faire monter une descendre un élément dans une liste
+	- [!] #inclus parler du fait qu'on peut mettre des rappels avec google task ou rappel sur iphone et que ça permet de les avoir en notifications si ils sont urgents
+	- [!] #inclus Dire c'est quoi la différence entre mettre une recurrence sans when done et avec
+		- [!] #inclus dire qu'il faut mettre aussi contextes si besoin en faisant un exemple
+	- [!] #inclus dire qu'*URI advanced* avec ctrl+R permet de faire le lien de mobile à pc d'une note sans avoir à ouvrir obsidian montrer qu'il faut avoir mozilla pour ouvrir une note sur mobile (parce que le moteur chromium qui est utilisé sur la plupart ne le permet pas), et préciser qu'il ne faut pas changer le titre sous peine de devoir rechanger le lien URI
+	- [!] #inclus montrer comment utiliser récurrence [https://publish.obsidian.md/tasks/Getting+Started/Recurring+Tasks#Recurring+Tasks+(Repetition)](https://publish.obsidian.md/tasks/Getting+Started/Recurring+Tasks#Recurring+Tasks+(Repetition)) et dire que ça marche qu'avec l'étoile et les actions
+	- [!] #inclus montrer comment utiliser file tree avec spaced repetition plugin
+	- [!] #inclus parler de la synchronisation Syncthing et de comment synchroniser certains paramètres ^[[[améliorer modèle et coffre obsidian pour pratiquer gtd et propager ça pratique.canvas|améliorer modèle et coffre obsidian pour pratiquer gtd et propager ça pratique]]]
+		- [!] #inclus dire que ça fonctionne en peer to peer et expliquer que c'est d'un appareil à un autre, et que c'est open source et que c'est donc sécurisé
+		- [!] #inclus dire que si il y a conflit on peut toujours modifier le coffre avec le résolveur de conflit sur le modèle directement avec bouton
+		- [!] #inclus parler du raccourci avec app android shortcut maker pour synchro auto dans utilisateur et comptes
+		- [!] #inclus dire comment faire des partages sur syncthing avec plusieurs utilisateurs en créant un dossier
+		- [!] #inclus montrer comment faire partage signets 
+	- [!] #inclus Montrer comment synchroniser avec icloud et dire que c'est pour ceux qui ont un iphone 
+	- [!] #inclus parler des habitudes, qu'on peut les grouper, et de leurs impacts non-négligeable sur les projets (prendre l'exemple des habitudes de révisions)  [priority:: low]
+		- [x] voir vidéo de feraste à ce sujet  [completion:: 2023-11-09]
+		- [!] #inclus mentionner vidéo de Feraste sur le sujet
+		- [!] #inclus expliquer le [[modèle pour habitude]] avec habitudes
+		- [!] #inclus expliquer le [[modèle pour habitude]] avec habitudes
+	- [!] #inclus montrer comment faire la revue hebdomadaire
+		- [!] #inclus dire qu'il faut la mettre dans l'agenda au niveau du jour
+		- [!] #inclus Dire que lors de la revue hebdomadaire il faut réduire le nombre de trucs dans les notes quotidiennes
+		- [!] dire qu'il faut garder les panneaux qui s'affichent ouverts tout au long de la revue #inclus
+	- [!] dire qu'il faut double cliquer quand on fait un begin en latex sur obsidian dans le vide là où on doit écrire ; on utilise notamment begin pour écrire de matrices et des systèmes  #inclus
+
+- [!] #inclus monter la vidéo de manière à ce qu'elle soit divertissante
+	- [!] #inclus flouter si il y a des infos personnelles avec effet clipchamp 
+
+- [!] faire ensuite un tuto pour installer leneage os
+- [!] ensuite Voir pour documenter la création d'un jeu avec Mathieu

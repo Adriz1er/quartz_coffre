@@ -1,0 +1,4 @@
+- [X] cliquer sur vélo fin d'après-midi / soir  [repeat:: every week on Friday when done]  [start:: 2024-09-13]  [completion:: 2024-09-14]
+- [ ] cliquer sur vélo fin d'après-midi / soir  [repeat:: every week on Friday when done]  [start:: 2024-09-20]
+- [ ] déplacer contenu de dossier notes quotidiennes de plus de 30 jours sur disque dur #noté  [repeat:: every month on Saturday when done]  [start:: 2024-09-03]
+- [ ] déplacer contenu de dossier archive sur disque dur  [repeat:: every month on Saturday when done]  [start:: 2024-09-14]

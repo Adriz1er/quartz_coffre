@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"46cbf8595d34762e","type":"file","file":"les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/roadmap/faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment.md","x":640,"y":540,"width":400,"height":400},
+		{"id":"a8489835f555217d","type":"text","text":"![[améliorer modèle et coffre obsidian pour pratiquer gtd et propager ça pratique.canvas|améliorer modèle et coffre obsidian pour gtd et propager]]","x":-240,"y":480,"width":680,"height":520},
+		{"id":"29649e54dd2ae07e","type":"file","file":"archive/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/monter ma chaîne youtube aux 100k et avoir de l'influence.md","x":-1040,"y":-40,"width":400,"height":400},
+		{"id":"b6a70ac7d6e05769","type":"file","file":"archive/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/idées pour vidéos YouTube sur diverse sujets.md","x":-1040,"y":440,"width":400,"height":380},
+		{"id":"3e4cf5a57af18b6f","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire une vidéo avec plusieurs tutoriels et s'en servir pour faire ensuite méga vidéo gtd avec obsidian.md","x":-720,"y":960,"width":400,"height":400},
+		{"id":"969ed8bac5a32e4a","x":-240,"y":-40,"width":400,"height":400,"type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/lire 100m offers.md"}
+	],
+	"edges":[
+		{"id":"ccca24db83b3dd08","fromNode":"a8489835f555217d","fromSide":"right","toNode":"46cbf8595d34762e","toSide":"left"},
+		{"id":"d4ce02ae088f08ed","fromNode":"b6a70ac7d6e05769","fromSide":"top","toNode":"29649e54dd2ae07e","toSide":"bottom"}
+	]
+}

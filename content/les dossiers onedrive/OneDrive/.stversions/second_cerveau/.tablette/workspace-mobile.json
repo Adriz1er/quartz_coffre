@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "77fac629626a84e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a257efa552fe9ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da47030beac1ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cad662bff4e8adc3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ae40bf3eaeec625f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "e8fd4c05f09cd828",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "3d5f9db89fad7e01",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f3ab5757d94f4d01",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "aa696526606877b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "167b7f925b99b99d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "6374340d13fd10ab",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e265d92ff8bc82ed",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md"
+          }
+        }
+      },
+      {
+        "id": "bd8e9a67a238100a",
+        "type": "leaf",
+        "state": {
+          "type": "googleTaskView",
+          "state": {}
+        }
+      },
+      {
+        "id": "c93e764b4071b90f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "boîte de réception.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-google-tasks:Google Tasks": false
+    }
+  },
+  "active": "4da47030beac1ce0",
+  "lastOpenFiles": [
+    "comparaison de supériorité et superlatif.md",
+    "on utilise any dans une question si on n'est pas sur de la réponse.md",
+    "mes notes/pris dans la boite de réception/10 cyberattaques de ces 3 dernières années.md",
+    "mathématiques des transmissions.md",
+    "mes notes/principe des réseaux.md",
+    "deux exemples d'accès aléatoires.md",
+    "il y a une différence entre être refermé et vouloir prendre un autre chemin.md",
+    "mes notes/pris dans la boite de réception/améliorer modèle  et coffre obsidian pour gtd et propager modèle.md",
+    "mes notes/pris dans la boite de réception/construire développer et entretenir son réseau relationnel.md",
+    "mes notes/pris dans la boite de réception/exercice 1 visant à s'entrainer pour développer son réseau.md",
+    "mes notes/pris dans la boite de réception/projet d'interview.md",
+    "mes notes/pris dans la boite de réception/avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur.md",
+    "mes notes/réseau relationnel professionel.md",
+    "mes notes/pris dans la boite de réception/exercice 2 communication pour interview.md",
+    "memento (1).md",
+    "mes notes/algorithme.md",
+    "mes notes/pris dans la boite de réception/Sans titre 3.md",
+    "ancienne boîte de réception.md",
+    "boîte de réception.md",
+    "mes notes/internet.md",
+    "mes notes/pris dans la boite de réception/test lag tablette.md",
+    "mes notes/pris dans la boite de réception/Sans titre 2.md",
+    "mes notes/pris dans la boite de réception/test.md",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-183529-MYHZWHJ.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-183458-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-183455-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/Sans titre 1.md",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-183447-MYHZWHJ.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-183428-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-183425-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-183008-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230929-182631-OBSTZAX.mdb",
+    "mes notes/pris dans la boite de réception/faire un truc pour voir les échéances avec dataview et le mettre sur tablette.sync-conflict-20230929-182611-OBSTZAX.md",
+    "mes notes/pris dans la boite de réception/faire un truc pour voir les échéances avec dataview et le mettre sur tablette.md",
+    "SAe11_HygieneInformatique_Cybersecurite_2023_2024-1.pdf",
+    "mes notes/pris dans la boite de réception/context.sync-conflict-20230924-122007-OBSTZAX.mdb",
+    "Capture d’écran_2023-09-20_08-24-11 1.png",
+    "Capture d’écran_2023-09-20_08-24-11.png",
+    "Pasted image 20230911213744.png",
+    "Pasted image 20230911215644.png",
+    "Pasted image 20230911220321.png",
+    "1694708884536.jpg",
+    "IMG_20230912_103635.jpg",
+    "IMG_20230912_101452.jpg",
+    "Pasted image 20230910221635.png",
+    "Pasted image 20230910221615.png",
+    "nombres premiers.canvas",
+    "modélisation de l'effet de serre grâce à la thermodynamique.canvas",
+    "modélisation de l'effet de serre grâce à la thermodynamique (conflict 2023-05-09-12-55-20).canvas",
+    "les fractales de part leur caractère récurrent nous permettent de comprendre des structures complexes dans différents domaines.canvas",
+    "test canva.canvas"
+  ]
+}

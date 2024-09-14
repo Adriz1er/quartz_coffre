@@ -1,0 +1,1 @@
+<% await tp.file.rename( await tp.system.prompt("Entrez la date de revue") + " " + tp.file.title) %><% await tp.file.move("/Notes Quotidiennes/" + tp.file.title) %>
