@@ -22,6 +22,7 @@ priorité: 6
 - [X] envoyer le lien du modèle à Mathieu de Atypic à Samuel à Thomas et leur expliquer et chocolat_en_poudre (discord) et Juggernot et vedarkiwi (709477237820358707)  [completion:: 2024-06-01]
 
 - [!] adapter requêtes dans feuilles volantes et mettre à la fin comme éléments en attente
+- [!] voir pour utiliser repeat : never
 ## mettre à jour note quotidienne pour éléments reportés que au jour de la note
 - [X] changer grâce à ce que j'ai changé et le titre et la query et  [completion:: 2024-07-27]
 ## faire en sorte qu'on puisse écrire directement une action suivante dans projet dans note quotidienne
@@ -44,11 +45,13 @@ priorité: 6
 - [X] mettre la macro en route sur ordi avec feuilles volantes à gauche  [start:: 2024-09-02]  [completion:: 2024-09-14]
 - [!] sauvegarder l'ancienne où il y a les deux sur disque dur dans un dossier document
 - [!] enlever modèles du site de tâches
-- [!] trouver les plugins et dossiers inutiles dans les deux versions et les enlever puis utiliser Plugin Update Tracker
+- [!] trouver les plugins et dossiers inutiles dans les deux versions et  remettre à jour la liste des plugins 
 	- [!] mettre à jour config iut
 	- [!] faire config pour téléphone en mettant update tracker
-	- [!] remettre à jour la liste des plugins 
-	- [!] une fois fini enlever #noté de ![[mettre à jour plugin régulièrement#^ab2cf0]] et ![[mettre à jour plugin régulièrement#^379897]]
+	- [!] mettre à jour config ordi en mettant update tracker
+	- [!] changer noms de dossiers (mais pas projet partagés) ^595a31
+		- [!] faire dossier exprès pour notes qui servent pour gtd
+		- [!] mettre exceptions pour dossier pour utiliser update note et mettre champs modifié en date en YYYY-MM-DD et pas de date de création
 - [!] mettre par défaut la création de note de concept
 - [!] mettre concept avec anki et plugin anki déjà config
 - [!] Mettre intrants du modèle et note de contenu avec images dans version contenu
@@ -79,39 +82,47 @@ priorité: 6
 	- pour publier il faut un chmod777 dans tout les dossiers de content-cache y compris ceux cachés (ce qui ne marche pas vraiment avec seulement -tR), 
 - [!] pour site de note utiliser abcrescent à mettre dans nom de site pour site de contenu
 - [!] faire une page d'accueil
-	- [!] faire celle pour note et mettre que si les gens viennent de insta il me contact à [J'ai pas insta (@adriz.234)](https://www.instagram.com/adriz.234/)
+	- [X] faire celle pour note et mettre que si les gens viennent de insta il me contact à [J'ai pas insta (@adriz.234)](https://www.instagram.com/adriz.234/)  [completion:: 2024-09-23]
+	- [!] integrer le form de tally (là où on donne son email)
 - [!] changer titre
 - [!] regarder pour d'autres options d'apparences  , s'inspirer de [Eilleen's (online!) Everything Notebook | Eilleen's e-Notebook](https://quartz.eilleeenz.com/) et ce qui est noté dedans
-	- [!] changer icône d'onglet https://enveloppe.github.io/wikis/Quartz 
+	- [!] changer icône d'onglet et nom pour aller à la page d'accueil du site, voir pour regarder fichiers config ou chercher sur YouTube comment faire (et voir pour s'inspirer de https://enveloppe.github.io/wikis/Quartz)
 - [!] mettre fichiers recents 
+- [!] mettre sur github pages et repartager le lien
+	- [!] faire ce qu'il y a ici pour config [Hosting](https://quartz.jzhao.xyz/hosting#github-pages)
+	- [!] dans paramètre tester avec jekyll ou sinon après autre
 - [-] utiliser plugin enveloppe pour rendre commandes dataview 
 	- [-] faire query dataview pour rendre [[boîte de réception]], liste de projets, éléments reportés (plus compliqué mais voir pour chercher dans autres notes / archives), [[liste des notes récurrentes reportées]], mettre une vue dans quand je suis occupé avec l'agenda (possible de faire ça en partageant un agenda mais sur un site je sais pas), [[éléments en attente]] 
 		- [-] mettre sur page d'accueil
-- [!] changer noms de dossiers (mais pas projet partagés)
- ^595a31
 - [!] voir pour faire en sorte d'avoir les métadonnées qui sont visibles
 - [!] voir pour Utiliser alias pour pas avoir de nom de fichier trop long
 - [!] voir pour Faire une vidéo tuto pour publier son coffre sur un site
-- [!] voir pour faire bouton notification avec webhook
+- [!] voir pour faire bouton notification avec webhook pour chaque pages ^26a93c
 - [!] voir pour faire portfolio sur page d'accueil du site de contenu sur quartz, peut bien marcher en mettant notes de l'iut dans le site, et on peut changer les éléments de l'interface (en enlevant la vue graphique par exemple) (créé à 11h30 le 27 août à 6,1 secondes)
 	- [!] et mettre le lien de mon site quand il sera compatible mobile dans ma signature électronique
 	- [!] passer toutes les notes de contenu à un reformulateur ia et mettre la métadonnée draft: true pour pas publier des notes non reformulées
 	- [!] voir ensuite pour être clair avec employeur
 
 à revoir (peut-être) récursivement : 
-!![[Mettre à jour site]]
+![[Mettre à jour site]]
+####  pour que ce soit bien mis en place puis voir pour supprimer les dossiers sur hintspile 
+- [!] utiliser après chaque requête dataview ce qu'il y a : [Usage | Obsidian Dataview Serializer](https://developassion.gitbook.io/obsidian-dataview-serializer/usage)
+- [!] voir s'il faut pas mettre tout les dossiers dans les paramères de configuration de dataview serializer
+#### faire un bouton edit comme sur ce site [https://morrowind-modding.github.io/guides/quest-design/branching-dialogue-tutorial](https://morrowind-modding.github.io/guides/quest-design/branching-dialogue-tutorial)
+
 #### voir pour partager site une fois fini
 - [ ] une fois fini aller dans [YouTube studio](https://studio.youtube.com/channel/UCbM6YZVouoH8LLEi-3Jzp1Q/analytics/tab-overview/period-default) > paramètre > paramètres de mise en ligne par défaut et mettre `____________________________________________` (sans les `)` puis le lien du site de contenu
 - [!] partager lien de truc pour vibrato avec charles sur groupe whatsapp
 - [!] mettre lien du site de contenu sur dans bio de tout les réseaux utilisés par beeper
+- [!] ![[mettre à jour ma config et le modèle de manière à ce que ce soit agréable#^26a93c]] donner le lien à Laurent et Justine des deux sites quand c'est fait
 ## mettre résolveur de conflit sur modèle et mettre bouton pour résoudre tout les conflits
 - [X] mettre file diff sur deux versions  [completion:: 2024-08-23]
 
 - [X] utiliser commander pour mettre bouton à gauche  [completion:: 2024-08-23]
 ## republier et faire tester à Thomas et Samuel et Mathieu (qui était avant à Atypic) et Maffhieu depuis toujours
 - [!] Faire en sorte de mettre résolveur de conflit dans css pour ordre et file diff sur ordi
-
-### faire version pour mobile sans agenda et changer paramètres pour version sans google agenda ^[[[faire une version sans google agenda#^2957aa]]] sachant que c'est la version qui est active #inclus
+## Voir pour plus mettre vue calendrier avec custom frames sur version mobile du modèle
+## faire version pour mobile sans agenda et changer paramètres pour version sans google agenda ^[[[faire une version sans google agenda#^2957aa]]] sachant que c'est la version qui est active #inclus
 - [ ] changer macro de revue hebdomadaire différente pour cette config en changeant page agenda par commande week de day planner sachant qu'elle ouvre un nouvel onglet en faisant attention à mettre entre bons dividers #inclus
 	- [ ] switcher bouton barre latérale calendrier en faisant attention à mettre entre bons dividers #inclus
 - [ ] changer template note quotidienne #inclus : 
@@ -147,6 +158,7 @@ priorité: 6
 	- [ ] dhioulak (insta)
 	- [ ] Envoyer un message à Ismail mec du marketing d'Antoine
 	- [ ] Kim qui joue du basson
+	- [ ] cxnfav
 - [X] mettre à jour les plugins #inclus  [repeat:: every week on Tuesday]   2024-04-02]  [completion:: 2024-04-30]
 - [X] mettre à jour les plugins #inclus  [repeat:: every week on Tuesday]   2024-04-09]  [completion:: 2024-04-30]
 - [X] mettre à jour les plugins #inclus  [repeat:: every week on Tuesday]   2024-04-16]  [completion:: 2024-04-30]

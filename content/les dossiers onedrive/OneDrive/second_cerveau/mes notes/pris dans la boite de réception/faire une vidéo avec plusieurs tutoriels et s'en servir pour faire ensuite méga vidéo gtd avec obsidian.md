@@ -10,6 +10,7 @@ priorité: 0
 	- [n] parler de screenzen ^42cf48
 	- [n] Parler de sleep timer pour ne pas mettre trop de musique
 	- [n] parler de perplixity ai pour s'informer et faire des recherches
+	- [n] parler de médito
 
 - [!] remettre dans [[idées pour vidéos YouTube sur diverse sujets]], les idées qui n'ont pas été utilisées
 

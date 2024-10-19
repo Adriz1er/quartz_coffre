@@ -1,6 +1,6 @@
 ---
 repeat: every 10 weeks
-due_at: 2024-09-28T11:25:26.424+02:00
+due_at: 2024-10-01T11:25:26.424+02:00
 ---
 ###### être propre et s'habiller
 # aller chez le coiffeur

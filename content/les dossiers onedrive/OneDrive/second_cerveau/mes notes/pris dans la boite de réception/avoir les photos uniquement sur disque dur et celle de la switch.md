@@ -1,6 +1,6 @@
 ---
 repeat: every 6 weeks
-due_at: 2024-09-19T06:00:00.000+02:00
+due_at: 2024-09-30T11:03:45.167+02:00
 ---
 # [[faire synchronisation disque dur]]
 # avoir les photos uniquement sur disque dur et celle de la switch

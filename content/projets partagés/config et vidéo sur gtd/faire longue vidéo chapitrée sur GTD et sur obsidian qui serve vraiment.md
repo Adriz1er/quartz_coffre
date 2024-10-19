@@ -5,6 +5,7 @@ priorité: 4
 échéance: 
 ---
 - [!] #inclus dire que gtd est ce qui permet de tout clarifier
+- [!] #inclus dire que si on ne note pas ça épuise
 - [!] Dire que gtd est un véritable tour de force car il permet de transformer les problèmes qu'on a dans la tête en solution #inclus 
 - [!] Dire que il faut pratiquer l'auto-gouvernement quelque soit nos envies #inclus
 - [!] #inclus mettre le téléphone sur d'autres livres et en rajouter pour que ce soit assez haut
@@ -40,6 +41,7 @@ priorité: 4
 			- [!] #inclus dire qu'il faut bien tout mettre à la suite du bloc car sinon ça n'apparaitra pas en entier dans la boite de réception
 			- [!] #inclus montrer bouton sur ordi et sur téléphone pour boîte de réception,
 				- [!] #inclus dire que lors de requete il faut mettre son curseur sur case à cocher pour changer statut
+			- [!] #inclus dire que si on a un élément à ajouter en attente par exemple on peut maintenir / faire clique droit en passant par boite de réception (on doit cliquer avant sur la query pour focus)
 			- [!] #inclus dire que pour dépendance il faut utiliser foot note
 			- [!] #inclus dire que plus on met d'info mieux c'est généralement pour un intrant
 			- [!] #inclus dire qu'il faut utiliser fichiers tâches avec start pour pas laisser des trucs qu'on avait mis pour plus tard dans des notes
@@ -55,8 +57,11 @@ priorité: 4
 			- [!] #inclus montrer qu'on peut mettre énergie et priorité sur modèle
 			- [!] #inclus Dire que pour créer un sous projet on utilise headings
 			- [!] #inclus dire que il y a un projet si il est actif et non reporté
+			- [!] dire que les éléments en attente ne sont pas listés dans les éléments reportés #inclus
 			- [!] dire que pour un élément reporté il faut mettre dans le nom de la tâche si il y a un moment particulier pour le faire #inclus 
 			- [!] Dire que s'il faut penser à un truc une fois on peut mettre une note récurrente reportée #inclus
+			- [!] pour pas que la vue de repeat affiche les anciennes notes pour revoir il faut mettre manuellement les notes  au prochain vendredi #inclus 
+			- [!] utiliser vue des notes récurrentes reportées avant vue repeat de manière à d'abord reporter les éléments qu'il faut reporter à une date en partiulière #inclus 
 			- [!] #inclus pour le reporter il faut enlever le tag projet et il faut que le jour auquel vous voulez le reporter ait déjà une note quotidienne de crée
 			- [!] #inclus dire que les notes quotidiennes se mettent dans un dossier d'archive automatiquement après 30 jours
 			- [!] #inclus dire qu'on peut ouvrir une fenetre hover editor pour projets dans note quotidienne 
@@ -74,6 +79,7 @@ priorité: 4
 				- [!] #inclus montrer qu'en mettant un nom d'utilisateur et un mot de passe ça synchronise goblin tool
 				- [!] #inclus utiliser exemple de réussir controle de maths en faisant des sous-taches
 			- [!] #inclus montrer à quoi sert task edit et Montrer comment mettre des dates de démarrages sans ouvrir menu en autocompletion
+			- [!] expliquer que TC marche que si le curseur est sur la même ligne que la case à cocher #inclus
 		- CTRL+Maj+c : saisir un concept
 			- [!] #inclus expliquer c'est quoi les rétroliens et donc occurences liées et non liées (titre de note est dans une autre, mais pas de lien dans ce dernier)
 			- [!] #inclus dire que pour écrire une source c'est source::, mais si on veut on peut faire clique droit pour insérer un callout
@@ -85,6 +91,8 @@ priorité: 4
 	- [!] dire qu'on ne peut avoir de récurrent que des vérifications et des actions #inclus 
 	- [!] dire qu'il faut sélectionner puis ajouter à note quotidienne pour mettre éléments reportés #inclus
 	- [!] dire que quand on utilise l'entête de page pour faire en sorte qu'une note soit récurrente reportée il faut mettre en titre de niveau 1 le nom du fichier (optionnelement car avec make.md et repeat ça affiche plus le nom des fichiers) #inclus
+	- [!] montrer comment utiliser vue repeat  #inclus
+		- [!] dire que si quelque chose est en retard il faut le mettre au prochain vendredi #inclus 
 	- [!] Dire qu'il faut revoir la note quotidienne en se levant et en se couchant #inclus
 	- [!] montrer comment faire un agenda partagé avec syncthing #inclus
 		- [!] il faut utiliser un autre nom pour évènement agenda quand c'est pas notre dossier #inclus
@@ -134,6 +142,8 @@ priorité: 4
 		- [!] #inclus dire qu'il faut la mettre dans l'agenda au niveau du jour
 		- [!] #inclus Dire que lors de la revue hebdomadaire il faut réduire le nombre de trucs dans les notes quotidiennes
 		- [!] dire qu'il faut garder les panneaux qui s'affichent ouverts tout au long de la revue #inclus
+		- [!] dire que les notes quotidiennes faut voir en bas s'il y a pas d'élément qui a une date de start sans que ce soit terminé avant de les supprimer #inclus 
+		- [!] #inclus dire que si on doit reprendre la revue hebdomadaire on peut mettre un intrant pour dire d'après où on peut reprendre
 	- [!] dire qu'il faut double cliquer quand on fait un begin en latex sur obsidian dans le vide là où on doit écrire ; on utilise notamment begin pour écrire de matrices et des systèmes  #inclus
 
 - [!] #inclus monter la vidéo de manière à ce qu'elle soit divertissante
@@ -141,3 +151,5 @@ priorité: 4
 
 - [!] faire ensuite un tuto pour installer leneage os
 - [!] ensuite Voir pour documenter la création d'un jeu avec Mathieu
+- [!] faire ensuite des revues du site de contenu en parlant de ted talks
+- [!] faire ensuite des vidéos de revue de mise à jour de mon site de contenu

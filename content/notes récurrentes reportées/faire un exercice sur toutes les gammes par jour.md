@@ -1,6 +1,6 @@
 ---
 repeat: daily
-due_at: 2024-09-14T16:50:12.128+02:00
+due_at: 2024-10-01T06:00:00.000+02:00
 ---
 
 # [[liste de trucs pour jouer du basson]]
@@ -9,7 +9,9 @@ due_at: 2024-09-14T16:50:12.128+02:00
 	- [X] si oui : mettre gammes dans enveloppes par exo et snake déjà dans bibliothèque  [completion:: 2024-08-09]
 	- [X] si incomplet : poser par terre en triant  [completion:: 2024-08-09]
 - [X] #👤/maman aide pour mettre chaque pochettes dans l'ordre un bémol puis un dièse et vérifier qu'il manque pas une tonalité  [completion:: 2024-08-15]
-	- [ ] mettre note récurrente chaque jour
+	- [X] mettre note récurrente chaque jour  [completion:: 2024-10-17]
+
+- [!] faire note qui liste les différents phrasés globaux (avec les flèches etc) à utiliser dans les gammes et les numéroter ^[[[Maintenir contact avec Lola Descours#^9ee39e]]]
 
 - [!] prendre habitude de changer doigté de ré en haut 🔝 en enlevant index droit
 

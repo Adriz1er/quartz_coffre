@@ -27,6 +27,7 @@ short mode
 hide start date
 status.name does not include info
 status.name does not include location
+status.name does not include en attente
 ```
 ___
 ## [[archive/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/éléments récurrents passés (non finis)|éléments récurrents passés (non finis)]]

@@ -27,11 +27,12 @@ priorité: 0
 	- [!] s'inspirer pour chaque morceau de ce qui a été écrit à l'époque de vivaldi (par d'autres)
 	- [!] s'inspirer d'autres oeuvres du compositeur avant , pendant et après l'époque du morceau
 	- [!] voir pour s'inspirer d'un autre morceau que j'écoute en ce moment
-## jouer solo 13 de tulou
+## jouer solo 13 de tulou #noté
 - [!] travailler trilles et gruppetto quand il y a les deux ensemble 
-## jouer get it avec un percussioniste
+## jouer get it avec un percussioniste si possible
 - [X] Raph ait envie  [completion:: 2024-08-17]
 - [!] faire un photo montage avec vidéo de Preston Atkins pour avoir partition en utilisant parify et envoyer à Raph
+- [!] garder à l'oeil que ça pourrait être drôle d'avoir des percussions hilarantes
 ## Jouer tout les concertos de vivaldi en vidéo #noté 
 - [!] jouer la partie solo et après s'enregistrer pour accompagner jusqu'à temps que ça marche
 	- [!] commencer par la basse

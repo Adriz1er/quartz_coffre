@@ -7,7 +7,7 @@ priorité: 0
 ---
 - [!] faire démarrer ce serveur
 	- [X] #👤/maman doit me tenir au courant pour si disque que j'ai trouvé sur Ali express  [completion:: 2024-09-14]
-	- [!] utiliser disque
+	- [X] Attendre qu'ethan me donne le disque dur  [completion:: 2024-09-29]
 ## faire un accès à support gtd qu'on peut utiliser à plusieurs qu'on a pas ouvrir car il tourne déjà
 - [!] mettre une vm à distance avec un linux et obsidian dessus
 - [!] plusieurs sessions accessible que par certaines personnes grâce à des mots de passe

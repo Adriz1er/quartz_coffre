@@ -1,6 +1,6 @@
 ---
 repeat: weekly
-due_at: 2024-09-14T16:50:29.727+02:00
+due_at: 2024-10-01T06:00:00.000+02:00
 ---
 # [[Avoir toujours 4 anches dans ma boîte|Avoir toujours 4 anches dans ma boîte]]
 # changer d'anches pour pas user tout le temps la même #outils_pour_anches

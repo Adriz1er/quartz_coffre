@@ -1,6 +1,6 @@
 ---
 repeat: every 2 weeks
-due_at: 2024-09-14T16:49:23.923+02:00
+due_at: 2024-10-07T07:30:11.203+02:00
 ---
 # [[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire le ménage dans mes appartements et de la table de ping pong]]
 #  nettoyer les toilettes 

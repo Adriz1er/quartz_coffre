@@ -1,0 +1,2 @@
+- [x] voir si aller au club le lendemain et si oui prendre tenue et chaussures au pied  [repeat:: every week on Tuesday, Thursday, Sunday when done]  [start:: 2024-10-13]  [completion:: 2024-10-18]
+- [?] voir si aller au club le lendemain et si oui prendre tenue et chaussures au pied  [repeat:: every week on Tuesday, Thursday, Sunday when done]  [start:: 2024-10-20]

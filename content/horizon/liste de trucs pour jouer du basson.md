@@ -3,8 +3,9 @@
 - [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-05-30]  [completion:: 2024-06-15]
 - [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-07-05]  [completion:: 2024-07-16]
 - [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-08-10]  [completion:: 2024-08-10]
-- [ ] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-09-14]
-	- [ ] mettre chiffon au sale  [repeat:: every 10 weeks when done]  [start:: 2024-09-14]
+- [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-09-25]  [completion:: 2024-09-25]
+- [ ] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-10-19]
+	- [ ] mettre chiffon au sale  [repeat:: every 12 weeks when done]  [start:: 2024-10-18]
 - [-] demander à Michel comment utiliser le protège dent pour la première fois car j'ai pas réussi à le couper | 2024-01-13
 - [X] mettre la sangle au sale  [repeat:: every 5 weeks when done]  [start:: 2024-06-04]  [completion:: 2024-06-15]
 - [X] mettre la sangle au sale  [repeat:: every 5 weeks when done]  [start:: 2024-07-20]  [completion:: 2024-07-30]

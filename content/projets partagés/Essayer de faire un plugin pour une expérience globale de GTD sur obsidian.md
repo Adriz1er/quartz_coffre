@@ -92,3 +92,5 @@ tags: []
 - [!] mettre date de start plus précise pour projet dans daily #inclus
 
 - [!] synchroniser échéance de projet avec agenda #inclus 
+
+- [!] faire améliortion de plugin extract pour mettre cartes anki normal et en ligne #inclus 

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"6409e2ede543a48b","type":"file","file":"archive/2024/horizon/mettre à jour plugin régulièrement.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"9bd1b3ef6630d621","x":-240,"y":-1160,"width":680,"height":760,"type":"file","file":"projets partagés/config et vidéo sur gtd/mettre à jour ma config et le modèle de manière à ce que ce soit agréable.md"},
+		{"id":"82684f6eab2c907f","x":840,"y":-760,"width":400,"height":400,"type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire en sorte d'avoir une ia pour notiication à la manière de duolinguo connectée à obsidian.md"}
+	],
+	"edges":[]
+}

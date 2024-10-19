@@ -1,6 +1,6 @@
 ---
 repeat: every 2 weeks
-due_at: 2024-09-24T06:00:00.000+02:00
+due_at: 2024-10-08T06:00:00.000+02:00
 ---
 # [[Avoir toujours 4 anches dans ma boîte|Avoir toujours 4 anches dans ma boîte]]
 # avoir toujours assez de roseaux
@@ -10,3 +10,4 @@ due_at: 2024-09-24T06:00:00.000+02:00
 - [ ] que j'ai au moins 5 anches non-montées
 	- [ ] regarder quantité d'anches en haut de la bibliothèque
 	- [!] sinon voir pour en acheter
+		- [!] voir pour acheter des roseaux pas pré-gratter pour faire cocon en montant

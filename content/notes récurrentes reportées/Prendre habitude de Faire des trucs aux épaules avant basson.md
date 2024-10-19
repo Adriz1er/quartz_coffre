@@ -1,6 +1,6 @@
 ---
 repeat: daily
-due_at: 2024-09-14T16:50:31.346+02:00
+due_at: 2024-10-01T06:00:00.000+02:00
 ---
 # Prendre habitude de Faire des trucs aux épaules avant basson 
 * Rotations d'épaules: Debout ou assis, faites des cercles avec vos épaules en avant, puis en arrière.

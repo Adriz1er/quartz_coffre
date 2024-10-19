@@ -18,6 +18,7 @@ where file.name != "projets partagés"
 where file.name != "page d'accueil téléphone"
 where file.name != "Notes pour horizon"
 where file.name != "nouveaux intrants"
+where file.name != "éléments récurrents passés (non finis)"
 ```
 ## Notes quotidiennes de plus d'un mois
 ```dataview
