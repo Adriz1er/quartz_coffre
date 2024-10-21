@@ -4,6 +4,8 @@ title: Bienvenue aux sentiers de mes horizons
 
 Mes [projets actifs](https://hintspile.netlify.app/tags/projet)
 
+[Pour voir la récurrence de mes notes récurrentes reportées](https://github.com/Adriz1er/quartz_coffre/tree/v4/content/notes%20r%C3%A9currentes%20report%C3%A9es)
+
 ## mes horizons
 ### objectifs de vie
 - changer le monde politiquement en grande partie pour faire en sorte que chacun puisse se conduire sans maître.canvas 
