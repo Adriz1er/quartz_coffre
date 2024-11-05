@@ -1,8 +1,8 @@
 ---
 repeat: every 2 months
-due_at: 2024-10-27T11:02:16.127+02:00
+due_at: 2024-11-16T14:45:12.838+01:00
 ---
 ## Aller une fois sur trois à un café asperger
-- [>]  en attente de mail
+- [>] en attente de précisions
 
 - [!] voir pour enregistrer variations de nussio avec pianiste atypic

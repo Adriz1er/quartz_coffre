@@ -1,7 +1,7 @@
 ---
 tags:
   - projet
-échéance:
+échéance: 2025-11-02
 priorité: 3
 énergie: 0
 ---

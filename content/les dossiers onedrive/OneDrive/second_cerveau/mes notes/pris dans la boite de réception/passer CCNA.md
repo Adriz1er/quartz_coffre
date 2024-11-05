@@ -1,7 +1,7 @@
 ---
 tags:
   - projet
-échéance: 
+échéance: 2025-11-02
 priorité: 0
 énergie: 0
 ---
@@ -15,8 +15,9 @@ priorité: 0
 	- [X] avancer sur site  [repeat:: every day when done]  [start:: 2024-09-25]  [completion:: 2024-09-25]
 	- [ ] avancer sur site #noté  [repeat:: every day when done]  [start:: 2024-10-18]
 	- [X] si les tests de ce genre sont notés #👤/Thomas_Deloup   : ![[Pasted image 20241013141009.png]]  [completion:: 2024-10-17]
-	- [!] réviser et faire les tests de plusieurs modules en rattrapant ceux que j'ai pas fait et enlever noter de avancer sur site
+	- [!] réviser et faire les tests de plusieurs modules en rattrapant ceux que j'ai pas fait et enlever noter de avancer sur site #ordi
 - [!] réussir CCNA 2 [due:: 2025-01-13]
+	- [!] Apprendre par coeur réponses cisco
 
 - [!] faire attention car examens sont à 22h max
 - [!] faire examen préliminaire [due:: 2024-09-15]

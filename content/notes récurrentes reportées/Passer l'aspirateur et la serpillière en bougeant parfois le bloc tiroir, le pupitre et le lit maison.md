@@ -1,9 +1,9 @@
 ---
 repeat: every 3 weeks
-due_at: 2024-10-01T22:06:09.186+02:00
+due_at: 2024-11-11T12:25:53.558+02:00
 ---
 - [ ] ouvrir fenêtres 
-- [p] sortir le lit  [repeat:: every day]
+- [c] sortir le lit  [repeat:: every day]
 	- [ ] si oui alors décaler pupitre  vers bureau et mettre pouf dans salle en bas puis passer aspirateur devant lit puis passer aspirateur puis décaler lit puis passer aspirateur et coup de chiffon sur plainte derrière le lit puis serpillière et attendre que ce soit sec pour replacer le lit
 - [ ] mettre sur le lit ou sortir de la chambre la plupart des trucs qui touchent le sol  [repeat:: every day]
 - [ ] prendre aspi dans garde manger et le passer  [repeat:: every 3 weeks on Sunday when done]  

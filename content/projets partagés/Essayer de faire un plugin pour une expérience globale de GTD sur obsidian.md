@@ -94,3 +94,5 @@ tags: []
 - [!] synchroniser échéance de projet avec agenda #inclus 
 
 - [!] faire améliortion de plugin extract pour mettre cartes anki normal et en ligne #inclus 
+
+- [!] faire marcher commandes pandoc pour exports #inclus

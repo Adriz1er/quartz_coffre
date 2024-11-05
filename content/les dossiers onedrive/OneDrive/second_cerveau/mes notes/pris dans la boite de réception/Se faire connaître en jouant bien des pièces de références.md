@@ -1,7 +1,7 @@
 ---
 tags:
   - projet
-échéance:
+échéance: 2025-11-02
 priorité: 0
 énergie: 0
 ---
@@ -9,15 +9,13 @@ priorité: 0
 
 - [!] travailler au Métronome 
 - [!] Travailler lentement 
-- [!] écrire mes notations avec la mesure et les carures
-	- [!] Noter résonnance différemment de coupe en mettant des points et des traits peut-être au dessus des c et l et m
-	- [!] varier rapidement entre paraboles et son inverse en basson
-	- [!] voir pour faire des exercices de vibrato
+- [!] écrire flèches et barres cohérences avec la mesure et les carures
+- [!] voir pour faire des exercices de vibrato
 - [!] Marcher avec temps avec 2 temps avec mesure avec 4 mesures
 - [!] Écouter des versions, se mettre à la place des interprètes (savoir ce qu'on aime ou pas) 
 - [?] Musicalité 
 - [!] Faire accord avec piano pour tension
-- [!] travailler avec partition mais apprendre par coeur par segments, puis en entier
+- [!] travailler avec partition mais apprendre par coeur par segments en tapant du pied, puis en entier en tapant du pied
 - [!] Jouer avec un enregistrement avec un casque ou écouteurs
 - [!] Regarder la métrique (phrases par mesure par 6 mesures, par 1 mesure et demi...) 
 
@@ -65,3 +63,4 @@ priorité: 0
 ## cavatine celui du premier morceau de l'album magic bassoon #noté 
 
 ## concerto de jean francaix et le concertino de Crusell #noté 
+## concerto Rossini #noté 

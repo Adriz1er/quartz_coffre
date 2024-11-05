@@ -8,6 +8,7 @@ priorité: 4
 - [!] #inclus dire que si on ne note pas ça épuise
 - [!] Dire que gtd est un véritable tour de force car il permet de transformer les problèmes qu'on a dans la tête en solution #inclus 
 - [!] Dire que il faut pratiquer l'auto-gouvernement quelque soit nos envies #inclus
+- [!] placer que la volonté n'est pas une ressource et qu'elle est infinie contrairement à l'énergie notamment #inclus  
 - [!] #inclus mettre le téléphone sur d'autres livres et en rajouter pour que ce soit assez haut
 - [!] faire en sorte que l'on voit où je clique #inclus 
 ![[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/monter ma chaîne youtube aux 100k et avoir de l'influence#^80ebb3]]
@@ -60,6 +61,7 @@ priorité: 4
 			- [!] dire que les éléments en attente ne sont pas listés dans les éléments reportés #inclus
 			- [!] dire que pour un élément reporté il faut mettre dans le nom de la tâche si il y a un moment particulier pour le faire #inclus 
 			- [!] Dire que s'il faut penser à un truc une fois on peut mettre une note récurrente reportée #inclus
+			- [!] dire que la note pour voir les notes récurrentes n'affichent dans la liste que les notes au-delà de demain car le reste est visible grâce au bouton en haut #inclus
 			- [!] pour pas que la vue de repeat affiche les anciennes notes pour revoir il faut mettre manuellement les notes  au prochain vendredi #inclus 
 			- [!] utiliser vue des notes récurrentes reportées avant vue repeat de manière à d'abord reporter les éléments qu'il faut reporter à une date en partiulière #inclus 
 			- [!] #inclus pour le reporter il faut enlever le tag projet et il faut que le jour auquel vous voulez le reporter ait déjà une note quotidienne de crée

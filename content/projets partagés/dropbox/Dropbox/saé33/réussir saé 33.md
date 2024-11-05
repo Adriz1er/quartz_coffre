@@ -21,7 +21,8 @@
 		- [!] utiliser réseau externe : 10.200.4.0/30 (on a mis 4 à la place de x où x est num de département de 1 à 6)
 		- [!] organiser les flux selon les 5 vlan suivantes:  VLan 2: connexion filaire des collaborateurs (ports 1 à 10 des commutateurs) à 20 des commutateurs) ; VLan 3: connexion filaire 11 ; VLan 4: connexion téléphonie sur IP (port 21 des commutateurs) ; VLan 6: connexion hertzienne WiFi (port 22 des commutateurs) ; VLan 7: destiné à la gestion des équipements actifs
 		- [!] configurer pare-feu en outside : 10.4.109.61, en LAN 192.168.100.0/24
-		- [!] ne pas inonder monde extérieur avec OSPF si on l'utilise #👤/Adrien quand config peut se faire 
+		- [!] ne pas inonder monde extérieur avec OSPF si on l'utilise quand config peut se faire 
+		- [ ] #👤/Adrien voir comment refaire hsrp  [start:: 2024-11-05]
 		- [!] faire fic de config
 			- [!] noter commandes que l'on a tapé, on peut utiliser notamment do show run pour les revoir
 				- [!] faire attention à mettre no shutdown

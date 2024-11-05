@@ -1,10 +1,9 @@
 ---
 repeat: every 6 weeks
-due_at: 2024-09-30T11:03:45.167+02:00
+due_at: 2024-11-05T18:53:54.416+01:00
 ---
 # [[faire synchronisation disque dur]]
 # avoir les photos uniquement sur disque dur et celle de la switch
-- [ ] vider corbeille téléphone et utiliser nettoyeur pour enlever les doublons
 - [ ] #téléphone  sélectionner un enregistrement audio dans magnéto puis enregistrer dans recordings et #ordi mettre contenu dans sauvegardé et #téléphone supprimer enregistrements dans magnéto
 - [ ] faire une copie du contenu des dossiers dossiers synchronisés dans les sous dossiers correspondants, puis supprimer le contenu sauf le dossier .stfolder de : DCIM/camera , DCIM/screenshots , DCIM/screenrecorder , Android/whatsapp_quelque_chose/media , Pictures/ , Documents/ sur dossiers de partages sur téléphone pour que quand je supprime ça s'enlève pas de l'ordi  [repeat:: every 6 weeks on Saturday]  
 - [ ] vider les photos sur téléphones  [repeat:: every 6 weeks on Saturday]

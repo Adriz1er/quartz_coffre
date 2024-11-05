@@ -2,7 +2,7 @@
 tags:
   - projet
 priorité: 6
-échéance:
+échéance: 2025-11-02
 ---
 
 - [x] mettre à jour le modèle #inclus  [repeat:: every 2 weeks on Tuesday]   2024-02-27]  [completion:: 2024-03-09]
@@ -23,6 +23,7 @@ priorité: 6
 
 - [!] adapter requêtes dans feuilles volantes et mettre à la fin comme éléments en attente
 - [!] voir pour utiliser repeat : never
+- [!] mettre raccourci au niveau du clique droit pour ajouter numéro de footnote et installer footnote shortcut
 ## mettre à jour note quotidienne pour éléments reportés que au jour de la note
 - [X] changer grâce à ce que j'ai changé et le titre et la query et  [completion:: 2024-07-27]
 ## faire en sorte qu'on puisse écrire directement une action suivante dans projet dans note quotidienne

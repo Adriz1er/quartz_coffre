@@ -1,9 +1,11 @@
 ---
 repeat: weekly
-due_at: 2024-10-01T06:00:00.000+02:00
+due_at: 2024-11-05T06:00:00.000+01:00
 ---
 # [[Avoir toujours 4 anches dans ma boîte|Avoir toujours 4 anches dans ma boîte]]
 # changer d'anches pour pas user tout le temps la même #outils_pour_anches
+- [!] Voir pour utiliser anches de Michel car trop hautes
+
 - [!] changer d'anche
 - [ ] faire exercice de chauffe avec la nouvelle
 

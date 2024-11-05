@@ -1,7 +1,8 @@
 ---
 repeat: weekly
-due_at: 2024-10-12T07:18:48.423+02:00
+due_at: 2024-11-10T06:00:00.000+01:00
 ---
+## Maintenir contact avec Lola Descours
 - [?] terminé  : [[Jouer d'autres trucs pour s'entraîner et les publier enregistrements#jouer étude de concert n° 39]], [[projets partagés/config et vidéo sur gtd/mettre à jour ma config et le modèle de manière à ce que ce soit agréable#faire un site pour obsidian avec quartz 4|mettre à jour ma config et le modèle de manière à ce que ce soit agréable]], [[projets partagés/config et vidéo sur gtd/mettre à jour ma config et le modèle de manière à ce que ce soit agréable#remettre à jour les notes, puis revoir mind map, enfin la mettre en ouverture de base dans le modèle]]
 
 - [X] utiliser goblin_tools Envoyer dans un message whatsapp à Lola, écrire "bonjour Lola," [a la ligne] écrire "(j'espère que le message ne sera pas trop long)" lui demander si quand on ouvre une anche on utilise que le premier anneau pour être sur. Mettre le lien de la vidéo .  Lui dire aussi que je suis reconnaissant de l'engagement qu'elle donne aux élèves qu'elle a eu à St Geniez ; annoncer la partie des trucs en vrac après tout ça. Mettre "[a la ligne] J'ai la vague impression de ne pas trop savoir comment te remercier" à la fin du message.  [completion:: 2024-08-29]
@@ -13,15 +14,23 @@ due_at: 2024-10-12T07:18:48.423+02:00
 - si je peux lui montrer la vue lui dire que j'ai regardé pas mal de ces vidéos et que je trouvais pas de défauts je me suis demandais est-ce qu'elle est humaine et je cherchais encore pour savoir, et à un moment (fin apprenti sorcier) je me suis dit elle est humaine c'est bon. 
 - j'ai fait un 3° rêve où elle jouait au crr à Nice, donc j'arrive je vois des profs et des gens de l' "administration" en spectateur (notamment José) , et de l'autre côté personne n'était musical sauf elle et vu que c'est galère pour elle je lui montre un caractère donc elle met de la vitesse d'air puis après elle se plante parce qu'elle sait plus comment jouer. [réveil soudain]
 
-- [!] dire à Lola que j'ai mis une section pour être au courant des derniers ajouts et des fichiers de configuration du site (je veux juste pas qu'elle prenne peur si elle tombe sur ces derniers) que j'ai mis sur le site (dans page d'accueil)
-	- [!] Mentionner courtement que mes pensées autour du fait de lui envoyer un message étaient tellement nombreuses que j'ai même fait rêve qui a failli me réveiller tellement il était puissant (voir discussion avec Gauthier)
-	- [!] lui dire que je me suis mal exprimé et notamment que pour les raisons philosophiques de l'*autogouvernement* elle peut lire la note sur l'écologie de l'expérience (ça parle aussi d'autisme si ça l'intéresse) ; et que pour la véritable raison est noté à la page 323
-- [!] lui envoyer 1° mail à la main si elle met son mail en copiant mail sur mon icloud
+- [-] dire à Lola que j'ai mis une section pour être au courant des derniers ajouts et des fichiers de configuration du site (je veux juste pas qu'elle prenne peur si elle tombe sur ces derniers) que j'ai mis sur le site (dans page d'accueil)
+	- [-] Mentionner courtement que mes pensées autour du fait de lui envoyer un message étaient tellement nombreuses que j'ai même fait rêve qui a failli me réveiller tellement il était puissant (voir discussion avec Gauthier)
+	- [X] lui dire que je me suis mal exprimé et notamment que pour les raisons philosophiques de l'*autogouvernement* elle peut lire la note sur l'écologie de l'expérience (ça parle aussi d'autisme si ça l'intéresse) ; et que pour la véritable raison est noté à la page 323  [completion:: 2024-10-20]
+- [!] l'informer que Michel a son numéro ; 
+	- [-] et voir pour dire que j'ai envoyé un message à Rafael Angster mais que vu ce que je lui ai envoyé il va sûrement pas répondre
+- [-] lui envoyer 1° mail à la main si elle met son mail en copiant mail sur mon icloud
+- [-] lui demander si elle veut qu'on discute sur Signal
 
 - [!] voir pour lui demander ainsi ce qu'elle pense de noter tout ce qu'on a à faire ; pour moi ça rend le fait de jouer beaucoup plus efficient
 	- la mer me reste toujours dans la tête
-- [!] voir pour lui dire que le fait qu'elle aime bien qu'il y ait "plus rien" ça me fait beaucoup penser à ce que dit David Allen, et souligner que pourtant David Allen parle de gestion de tâches
-- [!] utiliser site pour lui dire que les cours avec Michel ce sera variable ; et que je compte faire des gammes en exerçant mon phrasé (voir arrêter de jouer des morceaux pendant un bonne période) ^9ee39e
+- [X] voir pour lui dire que le fait qu'elle aime bien qu'il y ait "plus rien" ça me fait beaucoup penser à ce que dit David Allen, et souligner que pourtant David Allen parle de gestion de tâches  [completion:: 2024-10-19]
+- [!] lui jouer le malcom arnold après avoir envoyé étude 39 et l'inviter en même temps à rejoindre le serveur discord de l'association basson car c'est un très bon support de communication
+- [!] lui envoyer une vidéo ou une photo de moi avec M. Bender^9ee39e
+
+- [!] voir pour lui suggérer un appel et voir pour faire en sorte que je pourrai monter une anche avec ça méthode pendant cet appel ^a8aeff
+- [!] garder sous le coude de Parler avec humour de la similitude entre les deux laurent et notamment celle de caractère
+- [!] voir pour lui dire que c'était stupide de ma part de ne pas avoir écouté son premier album surtout parce qu'il y a une autre version du nocturne de Tchaïkovsky (même si j'avais écouté la version complète)  [priority:: low]
 ## trucs à ajouter sur le site de contenu
 - [!]  utiliser site pour lui demander si énoncer le fait que je sois autiste a impliqué une réaction quelconque même si c'est pas un sujet dont j'aime parlé en cours de basson Michel a tendance à le relancer notamment sur le diagnostique
 - [!] utiliser site pour parler de deep question notamment qu'au stage j'ai pas été très communiquant
@@ -30,8 +39,4 @@ due_at: 2024-10-12T07:18:48.423+02:00
 - [X]  phrasé global qu'elle peut trouver sur la note sur le phrasé sur mon site.
 - [!] utiliser site parler que la vitesse à laquelle on accède à ce qu'on a à faire doit être instantanée
 - [!] utiliser site pour parler de si elle pense qu'on devrait avoir des méthodes qui touchent au phrasé car pour moi le seul entrainement c'est d'accumuler les réflexions (notamment en notant sur la partition) ; parler du fait qu'elle semble pas beaucoup jouer vraiment doux quand c'est ce qu'il faut faire ; règle des deux minutes (dire qu'elle est vraiment excellente mais personne n'en parle parce qu'elle demande beaucoup de méthode)
-
-- [!] voir pour lui suggérer un appel et voir pour faire en sorte que je pourrai monter une anche avec ça méthode pendant cet appel ^a8aeff
-- [!] garder sous le coude de Parler avec humour de la similitude entre les deux laurent et notamment celle de caractère
-- [!] voir pour lui dire que c'était stupide de ma part de ne pas avoir écouté son premier album surtout parce qu'il y a une autre version du nocturne de Tchaïkovsky (même si j'avais écouté la version complète)  [priority:: low]
 - [!] garder sous le coude que le patron de Telegram est un opposant à Poutine ; et que pour discuter sans envoyer ses données aux Etats-Unis il faut pas utiliser une appli basé aux Etats-Unis (même Signal) ; et qu'Édouard Snowden a dû fuir en Russie

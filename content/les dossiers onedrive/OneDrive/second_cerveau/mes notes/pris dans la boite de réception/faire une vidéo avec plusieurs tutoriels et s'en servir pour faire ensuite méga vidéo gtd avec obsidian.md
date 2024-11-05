@@ -1,13 +1,13 @@
 ---
 tags:
   - projet
-échéance:
+échéance: 2025-11-02
 priorité: 0
 énergie: 0
 ---
 - [!] parler de :
 	- [n] parler de swiftkey le clavier de microsoft (qui permet avec l'éditeur de reformuler vraiment rapidement le texte(, et qui a copilot dans le clavier et le copier collé synchronisé avec un ordinateur sous windows)) goblin tools (pour sous tâches) et du truc pour reformuler pour être plus sociable ^2aab8d
-	- [n] parler de screenzen ^42cf48
+	- [n] parler de screenzen et de la fonctionnalité de remplacement ^42cf48
 	- [n] Parler de sleep timer pour ne pas mettre trop de musique
 	- [n] parler de perplixity ai pour s'informer et faire des recherches
 	- [n] parler de médito

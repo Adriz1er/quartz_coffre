@@ -4,15 +4,15 @@ title: Bienvenue aux sentiers de mes horizons
 
 Mes [projets actifs](https://hintspile.netlify.app/tags/projet)
 
-[Pour voir la récurrence de mes notes récurrentes reportées](https://github.com/Adriz1er/quartz_coffre/tree/v4/content/notes%20r%C3%A9currentes%20report%C3%A9es)
-
+- [Pour voir les échéances de mes projers actifs](https://github.com/Adriz1er/quartz_coffre/tree/v4/content/les%20dossiers%20onedrive/OneDrive/second_cerveau/mes%20notes/pris%20dans%20la%20boite%20de%20r%C3%A9ception)
+- [Pour voir la récurrence de mes notes récurrentes reportées](https://github.com/Adriz1er/quartz_coffre/tree/v4/content/notes%20r%C3%A9currentes%20report%C3%A9es)
 ## mes horizons
 ### objectifs de vie
 - changer le monde politiquement en grande partie pour faire en sorte que chacun puisse se conduire sans maître.canvas 
 - servir à l'humanité entière.canvas 
 ### objectif à long terme
 - intégrer une très bonne entreprise.canvas 
-### objectif d'ici 1,2, 3 ans
+### objectif d'ici 1, 2, 3 ans
 - être reconnu sur internet en tant que bassoniste.canvas 
 - populariser l'autogouvernement avec de la gamification.canvas 
 - montrer application des concepts de l'iut à travers la note et si réellement utile bien les apprendre.canvas 

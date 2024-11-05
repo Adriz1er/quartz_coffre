@@ -4,8 +4,9 @@ tags: []
 priorité: 0
 énergie: 0
 repeat: every 2 weeks
-due_at: 2024-10-11T06:00:00.000+02:00
+due_at: 2024-11-14T06:00:00.000+01:00
 ---
+# faire résumer ted talk de manière à parler 6 ou 7 minutes
 - [!] choisir ted qu'on a pas déjà fait en cours
 	- [!] voir pour prendre ted de David Allen
 
