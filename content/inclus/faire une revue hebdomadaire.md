@@ -1,0 +1,2 @@
+- [I] bloquer du temps pour la revue hebdomadaire toutes les semaines, puisque ça ouvre les yeux pour faire ce qu'on doit vraiment faire (je recommande tout les jeudis en fin d'après-midi / soir) 
+- [I] tout les mois de mettre le contenu de archives en dehors du coffre obsidian ; en faisant clique droit éditer la tache pour ajouter date de démarrage (*start*), et mettant dans récurrence : *every week*

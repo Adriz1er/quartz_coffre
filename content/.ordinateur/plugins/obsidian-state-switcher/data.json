@@ -1,0 +1,11 @@
+{
+  "stateMaps": [
+    {
+      "key": "tags",
+      "structure": "keyArray",
+      "values": [
+        "<%tp.file.cursor()%>"
+      ]
+    }
+  ]
+}

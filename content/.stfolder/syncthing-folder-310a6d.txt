@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: yglei-3umnx
+created: 2025-01-14T15:10:00+01:00

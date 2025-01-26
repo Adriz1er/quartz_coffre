@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "écrit avec longform/test/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2023-06-23T14:05:01.760Z",
+      "total": 0,
+      "drafts": {
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/méga guide pour utiliser obsidian comme son second cerveau.md": {
+          "total": 235,
+          "scenes": {
+            "faire ses premiers pas dans obsidian": 67,
+            "structure organique": 0,
+            "la prise de notes organique": 168,
+            "la technique devant la porte": 0,
+            "clarifier les boucles ouvertes": 0,
+            "les punaises doivent être clarifiées": 0,
+            "saisir ce qui est nouveau dans une boite de reception avec GTD": 0
+          }
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/test/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "écrit avec longform/test/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/méga guide pour utiliser obsidian comme son second cerveau/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau 2/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/Index.md": {
+          "total": 0,
+          "scenes": {
+            "faire ses premiers pas dans obsidian": 0,
+            "structure organique": 0,
+            "la prise de notes organique": 0,
+            "la technique devant la porte": 0,
+            "clarifier les boucles ouvertes": 0
+          }
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau 2/guide/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau 2/blllllll/Index.md": {
+          "total": 0,
+          "scenes": {
+            "faire ses premiers pas dans obsidian": 0,
+            "structure organique": 0,
+            "la prise de notes organique": 0,
+            "avoir l'esprit clair nous fait réagir de façon efficace et appropriée": 0,
+            "la technique devant la porte": 0,
+            "clarifier les boucles ouvertes": 0,
+            "les punaises doivent être clarifiées": 0,
+            "la méthode GTD": 0,
+            "saisir ce qui est nouveau dans une boite de reception avec GTD": 0
+          }
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide 1/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2023-06-22T16:46:10.068Z",
+      "total": 0,
+      "drafts": {
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/Index.md": {
+          "total": 0,
+          "scenes": {
+            "faire ses premiers pas dans obsidian": 0
+          }
+        },
+        "écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/méga guide pour utiliser obsidian comme son second cerveau.md": {
+          "total": 0,
+          "scenes": {
+            "faire ses premiers pas dans obsidian": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": false,
+  "startNewSessionEachDay": false,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": false,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": true,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": false,
+            "remove-external-links": false
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "e0b1265bd9a52109",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a287dc00f2a1ac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a78a17c794217b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a95bfda3948eeea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f557a438b03f9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905b3c2ef976830c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          },
+          {
+            "id": "dadb7e7b9acc9cf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "28c4f109c44d9224",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "b9d06f2b826d7216",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "d81819a49835aa04",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          },
+          {
+            "id": "8a62a2138a3844cc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "abe3a5da8e27b50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55b8bdc8b9035e1",
+        "type": "tabs",
+        "dimension": 50.41666666666666,
+        "children": [
+          {
+            "id": "ee86087d1a777bec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "90cf8d3cc1e69694",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projets/réussir saé 33.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de réussir saé 33"
+            }
+          },
+          {
+            "id": "921690fcb54accff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-links",
+              "state": {},
+              "icon": "align-center-horizontal",
+              "title": "Canvas Links"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0fa608fce46b07f4",
+        "type": "tabs",
+        "dimension": 49.58333333333334,
+        "children": [
+          {
+            "id": "7b1ad55beb021604",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.6,
+                  "nodeSizeMultiplier": 0.782439446366782,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 91,
+                  "scale": 0.9999999999999991,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "ab33037464597f37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projets/réussir saé 33.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour réussir saé 33"
+            }
+          },
+          {
+            "id": "fce4036054ec7565",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projets/réussir saé 33.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de réussir saé 33"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": true,
+      "daily-notes:Ouvrir la note quotidienne": true,
+      "command-palette:Ouvrir la palette de commandes": true,
+      "random-note:Ouvre une note au hasard": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "surfing:surfing-bookmark-manager": false,
+      "omnisearch:Omnisearch": false,
+      "repeat-plugin:Repeat due notes": false,
+      "obsidian-projects:Open projects": false,
+      "ribbon-divider:ribbon-divider-5ef96492-3dbe-4f11-abed-0d11f9407ee2": false,
+      "ribbon-divider:ribbon-divider-c0e1195d-7454-4907-9478-635fdc228747": false,
+      "ribbon-divider:ribbon-divider-e5ec694b-d069-44c0-91e1-5fbb150ed859": false,
+      "ribbon-divider:ribbon-divider-82e25550-90b2-4672-8081-ceed340dafc8": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "quick-tagger:Add tag to current note": true,
+      "quick-tagger:Remove tag from current note": true,
+      "cmdr:mode Focus": false,
+      "cmdr:Afficher les signets": false,
+      "cmdr:Ouvrir éléments en attente": false,
+      "cmdr:Ouvrir éléments reportés": false,
+      "cmdr:Ouvrir projets actifs": false,
+      "cmdr:Ouvrir nouveaux intrants": false,
+      "cmdr:Résoudre les conflits de synchronisation": false,
+      "cmdr:Revue hebdomadaire": false,
+      "cmdr:Créer une note récurrente reportée": false,
+      "cmdr:Créer une note reportée": false,
+      "cmdr:Créer une note pour une horizon": false,
+      "cmdr:Créer une archive": false,
+      "cmdr:Ouvrir notes reportées": false,
+      "cmdr:Saisir un élément en attente": false,
+      "cmdr:Créer une note de contenu": false
+    }
+  },
+  "active": "09a78a17c794217b",
+  "lastOpenFiles": [
+    "notes de contenu/travail de la technique musicale.md",
+    "notes de contenu/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/la musique pousse à maitriser sa pensée divergente.md",
+    "notes de contenu/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/la musique pousse à maitriser sa pensée divergente.sync-conflict-20250126-153029-GAGW26T.md",
+    "notes de contenu/2024/les dossiers onedrive/OneDrive/second_cerveau/ne pas beaucoup parler permet d'être plus productif.md",
+    "notes de contenu/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Faire de la musique de chambre avec Losco.md",
+    "Notes Quotidiennes/2025-01-23.md",
+    "notes récurrentes reportées/Avoir une bonne posture pour jouer du basson.md",
+    "Notes Quotidiennes/2025-01-24.sync-conflict-20250126-153028-GAGW26T.md",
+    "Notes Quotidiennes/Screenshot_20250126-110912_Obsidian.png",
+    "projets/Enregistrer le 13° grand solo de Tulou avec Louka.md",
+    "📥.sync-conflict-20250126-153027-GAGW26T.md",
+    "Notes Quotidiennes/2025-01-24.md",
+    "Notes Quotidiennes/2025-01-25.md",
+    "📥.md",
+    "inclus/nouveaux intrants.md",
+    "projets/portfolio.md",
+    "notes de contenu/plan de management de projet de Thalès.md",
+    "notes de contenu/kanban-2.png",
+    "notes de contenu/kanban-1.png",
+    "notes de contenu/formule saé transmi avec mme. theys.md",
+    "Notes Quotidiennes/2025-01-21.sync-conflict-20250121-105855-GAGW26T.md",
+    "Notes Quotidiennes/~syncthing~2025-01-21.md.tmp",
+    "inclus/boîte de réception.md",
+    "inclus/éléments reportés.md",
+    "inclus/notes reportées.md",
+    "inclus/notes récurrentes reportées.md",
+    "inclus/Projets actifs 1.md",
+    "inclus/éléments en attente.md",
+    "inclus/feuilles volantes.md",
+    "Notes Quotidiennes/2025-01-21.md",
+    "notes de contenu/Screenshot_20250119-223521_Galerie.png",
+    "notes de contenu/Pasted image 20250120165102.png",
+    "notes de contenu/Pasted image 20250120165037.png",
+    "notes de contenu/Pasted image 20250120164957.png",
+    "notes de contenu/Pasted image 20250120154611.png",
+    "notes de contenu/Pasted image 20250120154557.png",
+    "Spaces/#👤+jm",
+    "Notes Quotidiennes/~syncthing~2025-01-19.md.tmp",
+    "projets/~syncthing~faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment.md.tmp",
+    "projets/~syncthing~améliorer site.md.tmp",
+    "horizon/~syncthing~liste de cadeaux.md.tmp",
+    "Notes Quotidiennes/~syncthing~2025-01-17.md.tmp",
+    "Notes Quotidiennes/~syncthing~2025-01-18.md.tmp",
+    "Notes Quotidiennes/~syncthing~2025-01-01.md.tmp",
+    "~syncthing~📥.md.tmp",
+    "notes de contenu/transmi Theys/media/image5.jpg",
+    "horizon/garder le contact avec Thomas.canvas",
+    "horizon/Jouer du basson.canvas",
+    "horizon/Jouer à des sports de raquettes.canvas",
+    "horizon/faire le ménage dans mes appartements et de la table de ping pong.canvas",
+    "horizon/être reconnu sur internet en tant que bassoniste.canvas",
+    "horizon/populariser l'autogouvernement avec de la gamification.canvas",
+    "horizon/montrer application des concepts de l'iut à travers la note et si réellement utile bien les apprendre.canvas",
+    "horizon/intégrer une très bonne entreprise.canvas",
+    "horizon/servir à l'humanité entière.canvas",
+    "horizon/changer le monde politiquement en grande partie pour faire en sorte que chacun puisse se conduire sans maître.canvas"
+  ]
+}

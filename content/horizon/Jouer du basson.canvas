@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"3d19b736077c2ebf","type":"group","x":600,"y":-382,"width":740,"height":2142,"label":"Jouer d'autres trucs pour s'entraîner et les publier enregistrements"},
+		{"id":"20e1a0ec6276edf3","type":"group","x":-1380,"y":-500,"width":540,"height":1900,"label":"archive"},
+		{"id":"5d1f336b7d782869","type":"group","x":690,"y":11,"width":560,"height":509,"label":"milde cahier 3"},
+		{"id":"058781087777adcf","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Jouer d'autres trucs pour s'entraîner et les publier enregistrements.md","x":-247,"y":838,"width":507,"height":462},
+		{"id":"c8acd04afadb6441","type":"file","file":"horizon/liste de trucs pour jouer du basson.md","x":-440,"y":-480,"width":400,"height":400},
+		{"id":"f050b88bb6390324","type":"file","file":"Jouer concerto RV 480.md","x":-1360,"y":-480,"width":400,"height":400},
+		{"id":"85b0bf7c481b16f0","type":"file","file":"archive/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Jouer concerto pour violon op. 48 de Kabalevsky au basson.md","x":-1360,"y":0,"width":400,"height":400},
+		{"id":"979bc60ee37167c6","type":"file","file":"réussir le dem en jouant Nussio et vivaldi rv473.md","x":-1360,"y":440,"width":400,"height":398},
+		{"id":"a010b4b1be988996","type":"text","text":"Ce que l'on conçoit bien s'énonce clairement, et les mots pour le dire arrivent aisément.\n\nNicolas Boileau (1636 - 1711) Auteur, écrivain, poète, traducteur \n\nEt *Michel Mugot*","x":-840,"y":-760,"width":360,"height":260},
+		{"id":"3c947b0eb4baa7be","type":"file","file":"dropbox/Dropbox/A jouer pour St Geniez.md","x":-1360,"y":900,"width":400,"height":400},
+		{"id":"d3cd821c5f177044","type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/maitriser le double détaché.md","x":-240,"y":120,"width":400,"height":400},
+		{"id":"97389566fefc7272","type":"file","file":"horizon/Avoir toujours 4 anches dans ma boîte.md","x":-687,"y":400,"width":400,"height":400},
+		{"id":"5a700be4aaa90760","x":733,"y":-360,"width":475,"height":320,"type":"text","text":"- [!] Faire au moins un short à chaque fois que je publie un truc\n\npour enregistrement :\n- [!] essayer d'enregistrer à l'extérieur (et prévoir une bouteille d'eau), voir pour faire plusieurs endroits dans le parc de Cimiez\n- [!] trouver une personne qui peut filmer"},
+		{"id":"46be31f01ab112f2","type":"file","file":"archive/2024/les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/jouer étude de concert n° 39.md","x":770,"y":51,"width":400,"height":400},
+		{"id":"d6fe674707978ed8","x":808,"y":669,"width":400,"height":400,"type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/jouer airs de Rossini.md"},
+		{"id":"802203e0ddb51e2c","x":808,"y":1200,"width":400,"height":400,"type":"file","file":"les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire une vidéo des 18 variations sur le thème de Joyeux anniversaire de Marc Duvernois avec bassonistes de St Geniez.md"}
+	],
+	"edges":[]
+}

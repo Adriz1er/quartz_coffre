@@ -1,0 +1,1 @@
+ !![[notes d'évènements/modèle pour éléments dans agenda depuis note quotidienne|modèle pour éléments dans agenda depuis note quotidienne]]<% tp.file.cursor(1) %>

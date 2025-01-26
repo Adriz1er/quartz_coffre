@@ -1,0 +1,31 @@
+---
+date: 2024-09-29
+---
+
+- [-] Acheter un truc pour jouer au ping tout seul avec du grip une sorte de mur pour anniv 
+- [x] vitre écran (poco x3 nfc)  [repeat:: every year]  [start:: 2024-02-14]  [completion:: 2024-02-19]
+- [X] vitre écran (poco x3 nfc)  [repeat:: every year]  [start:: 2025-02-14]  [completion:: 2024-12-01]
+- [X] batteries joycon  [completion:: 2024-03-27]
+- [X] les guerres de lucas (george lucas)  [completion:: 2024-03-27]
+- [X] grip raquette  [repeat:: every year]  [due:: 2024-02-14]  [completion:: 2024-03-27]
+- [X] simulacre et simulation de Baudrillard  [completion:: 2024-08-27]
+- [-] carte micro sd ayant une vitesse suffisante pour switch, et prendre celle de 32 go pour mon téléphone
+- [n] grip raquette  [repeat:: every 2 years]  [due:: 2025-02-14]
+- [X] vitre écran (poco x3 nfc) et protection en verre pour l'objectif  [repeat:: every year]  [completion:: 2024-12-27]
+- [n] vitre écran (poco x3 nfc) et protection en verre pour l'objectif  [repeat:: every year]  [start:: 2025-12-27]
+- [n] extension Brandi dog
+- [n] balles de ping pong orange de qualité pack de 73 balles  [repeat:: every 2 years when done]  [start:: 2026-12-27]
+- [X] nouveau chargeur de switch et chargeur normal pour mon téléphone  [completion:: 2024-12-27]
+- [X] un casque avec réduction de bruit Bluetooth, ou alors cable jack vraiment résistant pour casque  [completion:: 2024-12-27]
+- [X] truc pour faire en sorte que je puisse mettre ma lampe à visse  [completion:: 2025-01-11]
+- [X] coque de téléphone  [completion:: 2024-12-27]
+- [X] pantalon de sport (et survet à capuche)  [completion:: 2024-12-27]
+- [n] gant tactile pour isola
+- [X] chaussettes de sport et de ville  [completion:: 2024-12-27]
+- [X] chargeur usb-c 10 W au moins  [completion:: 2024-12-27]
+- [n]  lampe IKEA Trådfri ou  Philips HUE
+- [n] 45 € de carte nintendo e-shop
+- [X] bracelet montre de marque  [completion:: 2024-12-27]
+- [X] câble de recharge switch  [completion:: 2024-12-27]
+- [n] carte sd aliexpress 128 go qui a une rapidité compatible avec la switch
+- [n] extension clank La Malédiction de la Momie

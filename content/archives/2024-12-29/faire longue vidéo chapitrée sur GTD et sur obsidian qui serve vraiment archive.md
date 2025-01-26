@@ -1,0 +1,7 @@
+
+# faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment
+- [-] faire ensuite des vidéos de revue de mise à jour de mon site de contenu 🔒 2024-12-29 🕸️ [[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment#faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]
+- [-] faire ensuite des revues du site de contenu en parlant de ted talks 🔒 2024-12-29 🕸️ [[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment#faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]
+- [-] ensuite Voir pour documenter la création d'un jeu avec Mathieu 🔒 2024-12-29 🕸️ [[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment#faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]
+- [-] faire ensuite un tuto pour installer leneage os 🔒 2024-12-29 🕸️ [[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment#faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]
+- [X] mettre à jour les plugins #inclus  [repeat:: every week on Tuesday]   2024-04-02]  [completion:: 2024-04-30] 🔒 2024-12-29 🕸️ [[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment#faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]

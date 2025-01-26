@@ -1,0 +1,46 @@
+---
+repeat: weekly
+due_at: 2025-01-30T06:00:00.000+01:00
+---
+## Maintenir contact avec Lola Descours
+- [?] terminé  : [[jouer étude de concert n° 39]] , [[partager ma config et le modèle de manière à ce que ce soit agréable#faire un site pour obsidian avec quartz 4|mettre à jour ma config et le modèle de manière à ce que ce soit agréable]], [[partager ma config et le modèle de manière à ce que ce soit agréable#remettre à jour les notes, puis revoir mind map, enfin la mettre en ouverture de base dans le modèle]]
+
+- [X] utiliser goblin_tools Envoyer dans un message whatsapp à Lola, écrire "bonjour Lola," [a la ligne] écrire "(j'espère que le message ne sera pas trop long)" lui demander si quand on ouvre une anche on utilise que le premier anneau pour être sur. Mettre le lien de la vidéo .  Lui dire aussi que je suis reconnaissant de l'engagement qu'elle donne aux élèves qu'elle a eu à St Geniez ; annoncer la partie des trucs en vrac après tout ça. Mettre "[a la ligne] J'ai la vague impression de ne pas trop savoir comment te remercier" à la fin du message.  [completion:: 2024-08-29]
+	- [X] faire une zone truc en vrac dans messages et dire que c'est pour que soit pour juste donner la possibilité que ce soit lu au cas où (j'avais beaucoup de choses en tête 😅) : Lui donner au cas où la référence à propos de l'arbre à encens à ce time code https://youtu.be/W0kT2lBhC44?t=1h37m2s, et au cas où aussi que c'était fantaisie pour piano et orchestre de Nadia Boulanger quand j'ai joué avec l'opmc ; et au cas où lui dire que un support numérique qui suit le livre (ci-joint) de David Allen [mettre pdf en pièce jointe ou lien dropbox pour que ce soit dans le même message] me permet de m' "autogouverner" (je cite d'*écologie et démocratie*), je me sens obligé d'avouer qu'à St Geniez il m'a manqué un point au niveau méthode (et même un deuxième), Mettre site de contenu et mettre le lien de la note de gtd dans message. Ce qui a été vraiment drôle pour moi ça a été de voir que je devais "rajouter des barres de mesure" (le problème inverse dont parlait Raphaël Angster), j'ai pensé que le vibrato est souvent utile pour ça mais j'ai aussi pensé à phraser plus courtement, dire que j'ai fait un site et donner le lien du site de [[la musique pousse à maitriser sa pensée divergente]].  [completion:: 2024-08-29]
+		- [X] la tenir au courant dans cette section pour le double détaché , les gammes, la posture (mon pupitre est vraiment haut), le fait de marcher et que parfois je change naturellement entre blanche et mesure ça me paraît normal mais c'est curieux ,  [completion:: 2024-08-29]
+
+- [X] répondre en utilisant goblin tools à Lola avec le lien des deux sites, pour site de notes / archives donner le truc sur le phrasé, pour site de perspective d'action sauf pour les horizon 😅 donner note *Jouer d'autres trucs pour s'entraîner et les publier enregistrements*, lui dire merci de son retour (et que j'ai noté) en liant ça avec le vibrato , voir pour dire que ma rentrée est assez *dense*, , et dire que même moi j'ai pas cru à la vue que j'ai depuis chez moi avant de déménager il y a deux ans et que si elle veux je peux lui montrer  [start:: 2024-09-14]  [completion:: 2024-09-16]
+- j'ai fait un 2° rêve où à St Geniez il y a plus de salles puis je lui dit que là où je logeais c'est pas loin et on y va ensemble, elle réfléchit un peu puis accepte, on marche. [réveil soudain]
+- si je peux lui montrer la vue lui dire que j'ai regardé pas mal de ces vidéos et que je trouvais pas de défauts je me suis demandais est-ce qu'elle est humaine et je cherchais encore pour savoir, et à un moment (fin apprenti sorcier) je me suis dit elle est humaine c'est bon. 
+- j'ai fait un 3° rêve où elle jouait au crr à Nice, donc j'arrive je vois des profs et des gens de l' "administration" en spectateur (notamment José) , et de l'autre côté personne n'était musical sauf elle et vu que c'est galère pour elle je lui montre un caractère donc elle met de la vitesse d'air puis après elle se plante parce qu'elle sait plus comment jouer. [réveil soudain]
+- Lola est la fille dans mes rêves mais aussi la mère de mes cauchemards
+
+- [-] dire à Lola que j'ai mis une section pour être au courant des derniers ajouts et des fichiers de configuration du site (je veux juste pas qu'elle prenne peur si elle tombe sur ces derniers) que j'ai mis sur le site (dans page d'accueil)
+	- [-] Mentionner courtement que mes pensées autour du fait de lui envoyer un message étaient tellement nombreuses que j'ai même fait rêve qui a failli me réveiller tellement il était puissant (voir discussion avec Gauthier)
+	- [X] lui dire que je me suis mal exprimé et notamment que pour les raisons philosophiques de l'*autogouvernement* elle peut lire la note sur l'écologie de l'expérience (ça parle aussi d'autisme si ça l'intéresse) ; et que pour la véritable raison est noté à la page 323  [completion:: 2024-10-20]
+- [!] l'informer que Michel a son numéro ; 
+	- [-] et voir pour dire que j'ai envoyé un message à Rafael Angster mais que vu ce que je lui ai envoyé il va sûrement pas répondre
+- [-] lui envoyer 1° mail à la main si elle met son mail en copiant mail sur mon icloud
+- [-] lui demander si elle veut qu'on discute sur Signal
+
+- [-] voir pour lui demander ainsi ce qu'elle pense de noter tout ce qu'on a à faire ; pour moi ça rend le fait de jouer beaucoup plus efficient
+	- la mer me reste toujours dans la tête
+- [X] voir pour lui dire que le fait qu'elle aime bien qu'il y ait "plus rien" ça me fait beaucoup penser à ce que dit David Allen, et souligner que pourtant David Allen parle de gestion de tâches  [completion:: 2024-10-19]
+- [!] lui jouer le malcom arnold après avoir envoyé étude 39 et l'inviter en même temps à rejoindre le serveur discord de l'association basson car c'est un très bon support de communication, et que c'est un peu la dernière chance que ça prennne. [^1]
+- [!] lui demander où elle en est de gtd pour voir pour lui donner le modèle
+- [!] lui envoyer une vidéo ou une photo de moi avec M. Bender^9ee39e
+
+- [!] la tenir au courant de si j'utilise le fait de faire un cocon voir pour lui suggérer un appel et voir pour faire en sorte que je pourrai monter une anche avec ça méthode pendant cet appel ^a8aeff
+- [!] garder sous le coude de Parler avec humour de la similitude entre les deux laurent et notamment celle de caractère
+- [-] voir pour lui dire que c'était stupide de ma part de ne pas avoir écouté son premier album surtout parce qu'il y a une autre version du nocturne de Tchaïkovsky (même si j'avais écouté la version complète)  [priority:: low]
+## trucs à ajouter sur le site de contenu
+- [!]  utiliser site pour lui demander si énoncer le fait que je sois autiste a impliqué une réaction quelconque même si c'est pas un sujet dont j'aime parlé en cours de basson Michel a tendance à le relancer notamment sur le diagnostique
+- [!] utiliser site pour parler de deep question notamment qu'au stage j'ai pas été très communiquant
+- [!] utiliser site pour dire que notre cerveau a beaucoup de mal à se rappeler de quelque chose en particulier quand c'est pas dans sa mémoire à court-terme (qui ne peut que contenir que 4 choses à la fois et en plus quand c'est le cas c'est épuisant),
+- [!] aussi un truc que j'ai peut-être pas osé dire c'est que pour la même raison il faut séparer les ressources des choses à faire c'est pour ça que je n'ai pas à lire les informations sur la partitions en même temps.
+- [X]  phrasé global qu'elle peut trouver sur la note sur le phrasé sur mon site.
+- [!] utiliser site parler que la vitesse à laquelle on accède à ce qu'on a à faire doit être instantanée
+- [!] utiliser site pour parler de si elle pense qu'on devrait avoir des méthodes qui touchent au phrasé car pour moi le seul entrainement c'est d'accumuler les réflexions (notamment en notant sur la partition) ; parler du fait qu'elle semble pas beaucoup jouer vraiment doux quand c'est ce qu'il faut faire ; règle des deux minutes (dire qu'elle est vraiment excellente mais personne n'en parle parce qu'elle demande beaucoup de méthode)
+- [!] garder sous le coude que le patron de Telegram est un opposant à Poutine ; et que pour discuter sans envoyer ses données aux Etats-Unis il faut pas utiliser une appli basé aux Etats-Unis (même Signal) ; et qu'Édouard Snowden a dû fuir en Russie
+
+[^1]: [[jouer Malcom Arnold et Tulou à M.Bender et lui montrer une méthode de gammes complète]]

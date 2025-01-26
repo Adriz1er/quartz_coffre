@@ -1,0 +1,56 @@
+{
+  "all_tags": true,
+  "preffered_casing": "None",
+  "priorityTags": [
+    {
+      "tag_value": "#archive",
+      "cut_in_line": false,
+      "add_command": true,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#horizon",
+      "cut_in_line": false,
+      "add_command": true,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#projet",
+      "cut_in_line": false,
+      "add_command": true,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#reporté",
+      "cut_in_line": false,
+      "add_command": true,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#récurrent_reporté",
+      "cut_in_line": false,
+      "add_command": true,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#insérer_une_date_ici",
+      "cut_in_line": false,
+      "add_command": true,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#contenu",
+      "cut_in_line": false,
+      "add_command": true,
+      "status_bar": false,
+      "right_click": false
+    }
+  ],
+  "last_used_tag": "contenu"
+}

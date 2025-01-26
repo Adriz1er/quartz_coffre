@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "e0b1265bd9a52109",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df9a61bc193cf89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "038a020aa97525d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modèles (inclus)/boîte de réception.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9828f44121fb05be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patch note pour modèle de coffre pour pratiquer GTD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a95bfda3948eeea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f557a438b03f9f0",
+        "type": "tabs",
+        "dimension": 58.75,
+        "children": [
+          {
+            "id": "17baee5489061437",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "905b3c2ef976830c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba3c3a6f41ea3ffe",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f2864697f10f970",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6b8400f01af0487f",
+        "type": "tabs",
+        "dimension": 41.25,
+        "children": [
+          {
+            "id": "7b1ad55beb021604",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Modèles (inclus)/boîte de réception.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.782439446366782,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 150,
+                  "scale": 0.9999999999999999,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "ab33037464597f37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modèles (inclus)/boîte de réception.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fce4036054ec7565",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modèles (inclus)/boîte de réception.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "abe3a5da8e27b50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55b8bdc8b9035e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb13b0b392db5968",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modèles (inclus)/boîte de réception.md"
+              }
+            }
+          },
+          {
+            "id": "dadb7e7b9acc9cf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d19cd0e2e37b563a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "09a1a578894eec18",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-goblin",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa27891b26edd761",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-bard",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc2c331bf344322b",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "graph:Ouvrir la vue graphique": false,
+      "templates:Insérer le modèle": false,
+      "canvas:Créer une nouvelle toile": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "random-note:Ouvre une note au hasard": false,
+      "obsidian-google-tasks:Google Tasks": false,
+      "surfing:surfing-bookmark-manager": false,
+      "dbfolder:Créer une nouvelle table de données": false,
+      "advanced-random-note:Open random note modal": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-custom-frames:Open Bard": false,
+      "obsidian-custom-frames:Open Goblin": false
+    }
+  },
+  "active": "fc2c331bf344322b",
+  "lastOpenFiles": [
+    "inclus/faire ses premiers pas dans obsidian.md",
+    "patch note pour modèle de coffre pour pratiquer GTD.md",
+    "inclus/plugins et paramètres à désactiver si besoin.md",
+    "inclus/choisir ses actions avec GTD grâce à obsidian.md",
+    "Attachments/Pasted image 20231202152624.png",
+    "Attachments/Pasted image 20231202151338.png",
+    "Modèles (inclus)/boîte de réception.md",
+    "inclus/horizons.md",
+    "inclus/écrivez ici un objectif d'ici 1, 2, ou 3 ans.md",
+    "inclus/écrivez ici un centre d'intérêt ou une responsabilité.md",
+    "inclus/écrivez ici un objectif pour votre vie.md",
+    "écrivez ici un objectif à long terme.canvas",
+    "inclus/liste des conflits de synchronisation.md",
+    "inclus/écrivez ici un objectif à long terme.md",
+    "Modèles (inclus)/modèle pour habitude.md",
+    "inclus/habitudes.md",
+    "📥.md",
+    "inclus/plugins à activer si besoin.md",
+    "inclus/idée aléatoire.md",
+    "inclus/une idée aléatoire.md",
+    "inclus/ne plus avoir de ralentissement sur obsidian.md",
+    "inclus/tutoriel pour synchroniser un dossier sur plusieurs appareils avec syncthing.md",
+    "inclus/pouvoir et savoir utiliser le plugin google task.md",
+    "projets/Sans titre.md",
+    "Modèles (inclus)/modèle templater pour boîte de réception.md",
+    "inclus/statuts de tâches et utilisation.md",
+    "habitudes/modèle pour habitude.md",
+    "inclus/mes projets.md",
+    "habitudes",
+    "Pasted image 20231013193506.png",
+    "Pasted image 20231013193017.png",
+    "inclus/~syncthing~gestion de l'action suivante doit se faire par la clarté.md.tmp",
+    "inclus/~syncthing~assumer efficacement ses engagements internes avec GTD.md.tmp"
+  ]
+}

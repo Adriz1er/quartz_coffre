@@ -1,0 +1,48 @@
+{
+  "bookmarks": [
+    {
+      "id": "-1532664828",
+      "name": "Google Maps",
+      "url": "https://www.google.fr/maps/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1720718400000,
+      "modified": 1720718460000
+    },
+    {
+      "id": "558027771",
+      "name": "Text Compare! - Trouver les différences entre deux fichiers texte",
+      "url": "https://text-compare.com/fr/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1714148590178,
+      "modified": 1714148590178
+    },
+    {
+      "id": "-1365902020",
+      "name": "clarificateur",
+      "url": "https://goblin.tools/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1698565500000,
+      "modified": 1698565740000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

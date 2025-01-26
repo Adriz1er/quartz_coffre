@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "a106de8648d20ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5bda278dbf4f797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e67acc9ea6c4641",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "026b353d014f179e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "05bb2b86a6082681",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Rechercher"
+        }
+      },
+      {
+        "id": "eba49aaa20d88936",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Mots-clés"
+        }
+      },
+      {
+        "id": "0b2d60c9e2cb389e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Signet"
+        }
+      },
+      {
+        "id": "a604ac25318702b3",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Le module complémentaire n'est plus actif."
+        }
+      },
+      {
+        "id": "761c2cab0585eff0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorateur de fichiers"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "d0c6336671d4e33f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3e5871caf42a0231",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Le module complémentaire n'est plus actif."
+        }
+      },
+      {
+        "id": "8b3063cea73f645b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Rétroliens"
+        }
+      },
+      {
+        "id": "b1ab218e901c97fb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Liens sortants"
+        }
+      },
+      {
+        "id": "fedc305aa9582018",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Plan"
+        }
+      },
+      {
+        "id": "e942e790e38048f5",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Le module complémentaire n'est plus actif."
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "random-note:Ouvre une note au hasard": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "cmdr:mode Focus": false,
+      "cmdr:Afficher les signets": false,
+      "cmdr:Ouvrir éléments en attente": false,
+      "cmdr:Ouvrir éléments reportés": false,
+      "cmdr:Ouvrir projets actifs": false,
+      "cmdr:Ouvrir nouveaux intrants": false,
+      "cmdr:Résoudre les conflits de synchronisation": false,
+      "cmdr:Revue hebdomadaire": false,
+      "cmdr:Créer une note récurrente reportée": false,
+      "cmdr:Créer une note reportée": false,
+      "cmdr:Créer une note pour une horizon": false,
+      "cmdr:Créer une archive": false,
+      "cmdr:Ouvrir notes reportées": false,
+      "omnisearch:Omnisearch": false,
+      "repeat-plugin:Repeat due notes": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false
+    }
+  },
+  "active": "3e67acc9ea6c4641",
+  "lastOpenFiles": [
+    "Modèles (inclus)/modèle note quotidienne intégration google agenda.md"
+  ]
+}

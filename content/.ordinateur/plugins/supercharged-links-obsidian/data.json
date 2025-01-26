@@ -1,0 +1,52 @@
+{
+  "targetAttributes": [
+    "tag"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "tag",
+      "value": "archives",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "efdd-e5da",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "tag",
+      "value": "notes récurrentes reportées",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "7c8a-fc72",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "tag",
+      "value": "Notes Quotidiennes",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "d9f8-9124",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

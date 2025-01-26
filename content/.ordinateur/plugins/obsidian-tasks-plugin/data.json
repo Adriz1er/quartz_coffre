@@ -1,0 +1,138 @@
+{
+  "globalQuery": "path does not include Modèles (inclus)",
+  "globalFilter": "",
+  "removeGlobalFilter": false,
+  "taskFormat": "dataview",
+  "setCreatedDate": false,
+  "setDoneDate": true,
+  "setCancelledDate": true,
+  "autoSuggestInEditor": true,
+  "autoSuggestMinMatch": 3,
+  "autoSuggestMaxItems": 4,
+  "provideAccessKeys": true,
+  "useFilenameAsScheduledDate": false,
+  "filenameAsScheduledDateFormat": "",
+  "filenameAsDateFolders": [],
+  "recurrenceOnNextLine": true,
+  "statusSettings": {
+    "coreStatuses": [
+      {
+        "symbol": " ",
+        "name": "Todo",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": true,
+        "type": "TODO"
+      },
+      {
+        "symbol": "x",
+        "name": "Done",
+        "nextStatusSymbol": "?",
+        "availableAsCommand": true,
+        "type": "DONE"
+      }
+    ],
+    "customStatuses": [
+      {
+        "symbol": "-",
+        "name": "annulé",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": true,
+        "type": "CANCELLED"
+      },
+      {
+        "symbol": " ",
+        "name": "action",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "x",
+        "name": "vérification terminée",
+        "nextStatusSymbol": "?",
+        "availableAsCommand": false,
+        "type": "DONE"
+      },
+      {
+        "symbol": ">",
+        "name": "en attente",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "<",
+        "name": "planifié (à faire à un moment donné)",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "!",
+        "name": "problème",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "?",
+        "name": "vérification",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "*",
+        "name": "sous-projet",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "n",
+        "name": "non-concrétisable",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "I",
+        "name": "idée",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "X",
+        "name": "terminé",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": false,
+        "type": "DONE"
+      }
+    ]
+  },
+  "features": {
+    "INTERNAL_TESTING_ENABLED_BY_DEFAULT": true
+  },
+  "generalSettings": {},
+  "headingOpened": {
+    "Core Statuses": true,
+    "Custom Statuses": true
+  },
+  "debugSettings": {
+    "ignoreSortInstructions": false,
+    "showTaskHiddenData": false,
+    "recordTimings": false
+  },
+  "loggingOptions": {
+    "minLevels": {
+      "": "info",
+      "tasks": "info",
+      "tasks.Cache": "info",
+      "tasks.Events": "info",
+      "tasks.File": "info",
+      "tasks.Query": "info",
+      "tasks.Task": "info"
+    }
+  }
+}

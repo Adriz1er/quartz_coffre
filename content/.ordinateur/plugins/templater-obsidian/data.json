@@ -1,0 +1,72 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Modèles (inclus)",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "projets",
+      "template": "Modèles (inclus)/modèle templater pour boîte de réception.md"
+    },
+    {
+      "folder": "habitudes",
+      "template": "Modèles (inclus)/modèle pour habitude.md"
+    },
+    {
+      "folder": "notes",
+      "template": "Modèles (inclus)/modèle pour note avec concept.md"
+    },
+    {
+      "folder": "reportés",
+      "template": "Modèles (inclus)/reporter notes.md"
+    },
+    {
+      "folder": "notes récurrentes reportées",
+      "template": "Modèles (inclus)/notes récurrentes reportées.md"
+    },
+    {
+      "folder": "horizon",
+      "template": "Modèles (inclus)/horizon.md"
+    },
+    {
+      "folder": "archives",
+      "template": "Modèles (inclus)/archive.md"
+    },
+    {
+      "folder": "notes de contenu",
+      "template": "Modèles (inclus)/contenu.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Modèles (inclus)/modèle pour !.md",
+    "Modèles (inclus)/date de création pour idée.md",
+    "Modèles (inclus)/Modèle pour tache dans note quotidienne.md",
+    "Modèles (inclus)/modèle pour éléments dans agenda depuis note quotidienne.md",
+    "Modèles (inclus)/déplacer refactor pour éléments reportés récurrents.md",
+    "Modèles (inclus)/indiquer à revoir récursivement.md",
+    "Modèles (inclus)/déplacer pour notes reportées une fois.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

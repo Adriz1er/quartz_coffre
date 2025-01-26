@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#8beeed",
+      "url": "https://calendar.google.com/calendar/ical/adrienromano1er%40gmail.com/private-88748dd22da5c066330755691bdad8e1/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#08bf2d",
+      "url": "https://calendar.google.com/calendar/ical/quni5u46lp3t41ov014tklgt2i1pi1o3%40import.calendar.google.com/public/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}

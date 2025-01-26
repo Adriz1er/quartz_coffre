@@ -1,0 +1,41 @@
+/* Fait en sorte que les nouveaux icons soient à la 99eme ligne (donc à la fin) */
+div.clickable-icon { order: 99; }
+
+/* 1er groupe d'icons */
+div[aria-label="Ouvrir boite de réception"] { order: 1; }
+div[aria-label="Ouvrir projets actifs"] { order: 2; }
+div[aria-label="Ouvrir Mes Projets"] { order: 3; }
+div[aria-label="Ouvrir la note quotidienne"] { order: 4; }
+div[aria-label="Open Full Calendar"] { order: 5; }
+div[aria-label="Ouvrir éléments reportés"] { order: 6; }
+div[aria-label="Repeat due notes"] { order: 7; }
+div[aria-label="Ouvrir éléments en attente"] { order: 8; }
+div[aria-label="Revue hebdomadaire"] { order: 9; }
+div[aria-label="Vue hebdomadaire du calendrier"] { order: 10; }
+.ribbon-divider { order: 19 !important; }
+
+/* 2eme groupe d'icons */
+div[aria-label="Ouvrir le sélecteur rapide"] { order: 21; }
+div[aria-label="Ouvrir la vue graphique"] { order: 22; }
+div[aria-label="Ouvre une note au hasard"] { order: 23; }
+.ribbon-divider + .ribbon-divider { order: 29 !important; }
+
+/* 3eme groupe d'icons */
+div[aria-label="Créer une nouvelle toile"] { order: 31; }
+div[aria-label="Create new drawing"] { order: 32; }
+.ribbon-divider + .ribbon-divider + .ribbon-divider { order: 39 !important; }
+
+/* 4eme groupe d'icons */
+div[aria-label="Saisir un intrant"] { order: 41; }
+div[aria-label="Saisir un concept"] { order: 42; }
+div[aria-label="Saisir une habitude"] { order: 43; }
+.ribbon-divider + .ribbon-divider + .ribbon-divider + .ribbon-divider { order: 49 !important; }
+
+/* 5eme groupe d'icons */
+div[aria-label="mode Focus"] { order: 52; }
+div[aria-label="Gérer les espaces de travail"] { order: 53; }
+div[aria-label="Afficher les signets"] { order: 54; }
+div[aria-label="Templater"] { order: 55; }
+div[aria-label="Omnisearch"] { order: 56; }
+div[aria-label="surfing-bookmark-manager"] { order: 57; }
+div[aria-label="Open trash explorer"] { order: 58; }

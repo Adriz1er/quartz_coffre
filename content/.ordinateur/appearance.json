@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Ruban lateral gauche v.google agenda"
+  ]
+}

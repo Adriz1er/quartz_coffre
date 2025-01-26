@@ -1,0 +1,160 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "échéance": {}
+      },
+      "defaultName": "",
+      "templates": [
+        "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Modèles (inclus)/modèle templater pour boîte de réception.md"
+      ],
+      "excludedNotes": [
+        "écrivez le nom de votre coffre ici (version sans google agenda)/Modèles (inclus)/modèle templater pour boîte de réception.md",
+        "écrivez le nom de votre coffre ici (version sans google agenda)/Modèles (inclus)/modèle pour module principal/modèle templater pour boîte de réception 1.md",
+        "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Modèles (inclus)/modèle templater pour boîte de réception.md",
+        "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/Modèles (inclus)/modèle pour module principal/modèle templater pour boîte de réception 1.md",
+        "les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/projets/Un projet.md",
+        "Modèles (inclus)/modèle templater pour boîte de réception.md",
+        "Modèles (inclus)/modèle pour module principal/modèle templater pour boîte de réception 1.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projets",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 325
+              },
+              "path": {
+                "hide": true
+              },
+              "quickshare-date": {
+                "hide": true
+              },
+              "quickshare-url": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "tags",
+              "name",
+              "échéance",
+              "priorité",
+              "énergie",
+              "path",
+              "quickshare-date",
+              "quickshare-url"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "échéance",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "priorité",
+                "order": "desc",
+                "enabled": true
+              },
+              {
+                "field": "énergie",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "name": "Table",
+          "id": "0e8bed24-cf1e-4cce-97fd-93373f7a87cb",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "orderSyncField": "weight"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "2a9e8b57-9e1e-41fb-97d6-4ab9177851d6",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "61f99572-b118-4d1e-8501-42462f154df7",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "96cccd2c-0b01-4a12-b17d-44a388c061ea",
+          "type": "gallery"
+        }
+      ],
+      "name": "Mes Projets",
+      "id": "98cbd2ec-34c7-42cc-a262-533f817d283e",
+      "path": "Projects - Demo Project"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

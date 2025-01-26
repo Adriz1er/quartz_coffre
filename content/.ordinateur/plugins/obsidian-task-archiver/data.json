@@ -1,0 +1,70 @@
+{
+  "addNewlinesAroundHeadings": false,
+  "additionalMetadataBeforeArchiving": {
+    "addMetadata": true,
+    "dateFormat": "YYYY-MM-DD",
+    "metadata": "🔒 {{date}} 🕸️ [[{{sourceFileName}}#{{heading}}]]"
+  },
+  "additionalTaskPattern": "",
+  "archiveAllCheckedTaskTypes": false,
+  "archiveHeadingDepth": 1,
+  "archiveToSeparateFile": true,
+  "separateFileType": "Custom note",
+  "obsidianTasksCompletedDateFormat": "YYYY-MM-DD",
+  "archiveUnderHeading": true,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultArchiveFileName": "{{sourceFileName}} (archive)",
+  "headings": [
+    {
+      "text": "{{headingChain}}"
+    }
+  ],
+  "listItems": [],
+  "indentationSettings": {
+    "useTab": true,
+    "tabSize": 4
+  },
+  "rules": [
+    {
+      "archiveToSeparateFile": true,
+      "defaultArchiveFileName": "archives/{{date}}/{{sourceFileName}} archive",
+      "dateFormat": "YYYY-MM-DD",
+      "separateFileType": "Custom note",
+      "obsidianTasksCompletedDateFormat": "YYYY-MM-DD",
+      "ruleAction": "Move it to file",
+      "statuses": "X",
+      "pathPatterns": ""
+    },
+    {
+      "archiveToSeparateFile": true,
+      "defaultArchiveFileName": "archives/{{date}}/{{sourceFileName}} archive",
+      "dateFormat": "YYYY-MM-DD",
+      "separateFileType": "Custom note",
+      "obsidianTasksCompletedDateFormat": "YYYY-MM-DD",
+      "ruleAction": "Move it to file",
+      "statuses": "x",
+      "pathPatterns": ""
+    },
+    {
+      "archiveToSeparateFile": true,
+      "defaultArchiveFileName": "archives/{{date}}/{{sourceFileName}} archive",
+      "dateFormat": "YYYY-MM-DD",
+      "separateFileType": "Custom note",
+      "obsidianTasksCompletedDateFormat": "YYYY-MM-DD",
+      "ruleAction": "Move it to file",
+      "statuses": "-",
+      "pathPatterns": ""
+    }
+  ],
+  "sortAlphabetically": false,
+  "taskSortOrder": "Newest first",
+  "textReplacement": {
+    "applyReplacement": false,
+    "regex": "#([A-Za-z-]+)",
+    "replacement": "@$1",
+    "replacementTest": "[[{{sourceFileName}} (archive)]]"
+  },
+  "useAdditionalTaskPattern": false,
+  "archiveUnderListItems": false,
+  "archiveOnlyIfSubtasksAreDone": true
+}

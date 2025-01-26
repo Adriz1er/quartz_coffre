@@ -1,0 +1,46 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": false,
+  "folder_tag_pattern": [
+    {
+      "folder": "horizon",
+      "tag": "#horizon",
+      "pattern": ""
+    },
+    {
+      "folder": "projets",
+      "tag": "#projet",
+      "pattern": ""
+    },
+    {
+      "folder": "notes récurrentes reportées",
+      "tag": "#récurrent_reporté",
+      "pattern": ""
+    },
+    {
+      "folder": "reportés",
+      "tag": "#reporté",
+      "pattern": ""
+    },
+    {
+      "folder": "archives",
+      "tag": "#archive",
+      "pattern": ""
+    },
+    {
+      "folder": "notes de contenu",
+      "tag": "#contenu",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Notes Quotidiennes"
+    },
+    {
+      "folder": "inclus"
+    }
+  ]
+}

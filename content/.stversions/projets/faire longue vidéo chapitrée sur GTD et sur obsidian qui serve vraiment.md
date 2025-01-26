@@ -1,0 +1,178 @@
+---
+{}
+---
+- [!] Faire vidéo géante en faisant des shorts courts (lien de short en short)
+
+- [!]  dire que gtd est ce qui permet de tout clarifier
+- [!]  dire que si on ne note pas ça épuise
+- [!] Dire que gtd est un véritable tour de force car il permet de transformer les problèmes qu'on a dans la tête en solution  
+- [!] Dire que il faut pratiquer l'auto-gouvernement quelque soit nos envies 
+- [!] placer que la volonté n'est pas une ressource et qu'elle est infinie contrairement à l'énergie notamment   
+- [!]  mettre le téléphone sur d'autres livres et en rajouter pour que ce soit assez haut
+- [!] faire en sorte que l'on voit où je clique  
+- [!]  faire en sorte que ce soit simple à comprendre mais que ça va être très long
+	- [!]  Faire une partie téléphone avec second espace (faisable dans réglage du téléphone)
+		- [!]  montrer comment configurer homepage car démarre pas bien
+- [!]  utiliser transitions que présente ce mec [Pack 50 TRANSITIONS GRATUITES - YouTube](https://www.youtube.com/watch?v=5znuysUgyCE)
+- [!]  Présenter la règle des deux minutes et dire que ça marche car après deux minutes si ça prend plus de deux minutes on peut s'arrêter et noter et faire autre chose ; en profiter pour dire qu'il faut arrêter les vidéos de motivation car elles sont inutiles à long terme
+- [!]  Parler d'avoir un carnet que si on peut pas noter sur numerique en mentionnant que j'en ai parfois beaucoup besoin quand les cours paraissent long
+- [!]  dire que ça n'empêche absolument pas d'écrire des concepts sur du papier, et que ça permet d'avoir un lieu avec nos pensées
+- [!]  mettre le lien du modèle en commentaire épinglé
+- [!]  dire qu'il faut désactiver économiseur de batterie ou activer arrière plan pour obsidian
+- [!]  faire une vidéo super longue sur obsidian et GTD et de super qualité
+	- [!] montrer comment installer le modèle sur ios, mac, android, windows 
+	- [!] Demander aux utilisateurs de renommer tant que le panneau de gauche est fait par Make.md sur mobile 
+	- [!]  montrer les bases du logiciel
+	- [!]  montrer plugin surfing et dire qu'il est que sur ordi, dire qu'il est pas très stable pour le moment et qu'il n'y a pas de mode sombre ni de bloqueur de pub ni de sauvegarde des mots de passe
+		- [!]  dire comment ajouter mail sur bookmark surfing sur obsidian
+		- [!]  montrer comment importer ses favoris, et faire un favoris et un dossier de favoris (paramètre du plugin), montrer comment supprimer un favoris en le faisant revenir dans root
+	- [!]  dire que gtd sert à intérioriser les taches
+		- [!]  dire que le fait de choisir la meilleure décision est au pire remis à la fin du week-end
+		- [!]  Dire qu'il faut avoir fait le point à un moment pour agir, citation Epictète : "Dis-toi d'abord qui tu veux être, puis fais en conséquence ce que tu dois faire"
+		- [!]  Dire que le fait de mettre les choses en dehors de notre tête permet de réfléchir
+	- [!]  montrer comment utiliser les favoris
+	- [!]  parler du fait qu'il faut ouvrir son échéancier au matin
+	- [!]  dire comment exporter les données sur obsidian
+	- [!]  parler des commandes de base du modèle et des raccourcis clavier sur obsidian avant ça, les raccourcis du modèle sont :
+		- CTRL+Maj+i : saisir un intrant
+			- [!] Dire que j'utilise beeper aussi pour les intrants
+			- [!]  dire qu'on peut mettre les émojis pour mettre des éléments échéants dans la boite de réception [created:: 2024-01-10]
+			- [!]  dire qu'il faut bien tout mettre à la suite du bloc car sinon ça n'apparaitra pas en entier dans la boite de réception
+			- [!]  montrer bouton sur ordi et sur téléphone pour boîte de réception,
+				- [!]  dire que lors de requete il faut mettre son curseur sur case à cocher pour changer statut
+			- [!]  dire que si on a un élément à ajouter en attente par exemple on peut maintenir / faire clique droit en passant par boite de réception (on doit cliquer avant sur la query pour focus)
+			- [!]  dire que pour dépendance il faut utiliser foot note
+			- [!]  dire que plus on met d'info mieux c'est généralement pour un intrant
+			- [!]  dire qu'il faut utiliser fichiers tâches avec start pour pas laisser des trucs qu'on avait mis pour plus tard dans des notes
+			- [!]  dire qu'on peut aussi mettre des intrants en cliquant sur partager depuis un téléphone et mettre dans le fichier 📥 avec statut idée
+			- [!] Dire qu'il ne faut pas remettre des intrants dans la boîte de réception 
+			- [!] dire que si ça met un message d'erreur il faut juste sauter une ligne dans le fichier [[📥]] 
+		- CTRL+Maj+h : saisir une habitude
+			- [!]  c'est juste pour avoir un endroit pour les stocker
+		- CTRL+n / créer un nouveau fichier : crée un projet
+			- [!]  Dire que s'il manque quelque chose pour faire quelque chose pour un projet alors faut le mettre dans le projet  
+			- [!]  dire pour projets partagé qu'il faut avoir une note partagé et un projet avec aperçu du contenu (avec !! si on veut éditer) 
+			- [!]  dire que dans le meilleur des cas on écrit la prochaine action
+			- [!]  montrer qu'on peut mettre énergie et priorité sur modèle
+			- [!]  Dire que pour créer un sous projet on utilise headings
+			- [!]  dire que il y a un projet si il est actif et non reporté
+			- [!] dire que les éléments en attente ne sont pas listés dans les éléments reportés 
+			- [!] dire que pour un élément reporté il faut mettre dans le nom de la tâche si il y a un moment particulier pour le faire  
+			- [!] Dire que s'il faut penser à un truc une fois on peut mettre une note récurrente reportée 
+			- [!] dire que la note pour voir les notes récurrentes n'affichent dans la liste que les notes au-delà de demain car le reste est visible grâce au bouton en haut 
+			- [!] pour pas que la vue de repeat affiche les anciennes notes pour revoir il faut mettre manuellement les notes  au prochain vendredi  
+			- [!] utiliser vue des notes récurrentes reportées avant vue repeat de manière à d'abord reporter les éléments qu'il faut reporter à une date en partiulière  
+			- [!]  pour le reporter il faut enlever le tag projet et il faut que le jour auquel vous voulez le reporter ait déjà une note quotidienne de crée
+			- [!]  dire que les notes quotidiennes se mettent dans un dossier d'archive automatiquement après 30 jours
+			- [!]  dire qu'on peut ouvrir une fenetre hover editor pour projets dans note quotidienne 
+			- [!] il faut skip une fois pour mettre à jour la recurrence	donc à chaque fois qu'on ouvre des éléments multiples récurrents  	
+			- [!] dire qu'il faut enlever le contenu de due_at ou l'enlever complètement si on veut enlever une note des notes récurrentes 
+			- [!] dire qu'on peut reporter à aujourd'hui en maintenant l'émoji des flèches dans la requête 
+			- [!]  dire que si on veut mettre un truc dans note quotidienne le passer en projet il faut aire clique droit et extraire cette en-tête
+			- [!]  prévenir que les taches récurrentes ne marchent pas dans la liste
+			- [!]  dire que le bleu indique que c'est un projet
+			- [!]  parler de la priorité et de l'énergie
+			- [!]   parler que j'ai mis dans dataview query due et priority dans tri pour qu'elle les prenne en compte notamment dans heading
+			- [!]  dire qu'il faut cliquer sur le premier modèle pour ajouter un projet dans liste de projet de dbfolder
+			- [!]  présenter copilot, et pour ça switftkey sur android [Microsoft SwiftKey AI Keyboard – Applications sur Google Play](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=fr&gl=US&pli=1)
+			- [!]  présenter goblin tools et montrer comment mettre raccourci sur téléphone
+				- [!]  montrer qu'en mettant un nom d'utilisateur et un mot de passe ça synchronise goblin tool
+				- [!]  utiliser exemple de réussir controle de maths en faisant des sous-taches
+			- [!]  montrer à quoi sert task edit et Montrer comment mettre des dates de démarrages sans ouvrir menu en autocompletion
+			- [!] expliquer que TC marche que si le curseur est sur la même ligne que la case à cocher 
+		- CTRL+Maj+c : saisir un concept
+			- [!]  expliquer c'est quoi les rétroliens et donc occurences liées et non liées (titre de note est dans une autre, mais pas de lien dans ce dernier)
+			- [!]  dire que pour écrire une source c'est source::, mais si on veut on peut faire clique droit pour insérer un callout
+			- [!]  montrer plugin link exploder
+		- [!]  donner raccourci pour supprimer note actuelle
+		- [!]  Si vous êtes sur mobile il suffit de glisser vers le bas pour faire apparaître en haut la palette de commande, et taper votre commande 
+		- [!]  dire qu'il faut télécharger Mozilla pour ouvrir les uri et dire que Mozilla est vraiment bon mais montrer problème affichage de mot de passe en mode clair
+	- [!] éléments récurrents passés non finis sont en bas des éléments reportés  
+	- [!] dire qu'on ne peut avoir de récurrent que des vérifications et des actions  
+	- [!] dire qu'il faut sélectionner puis ajouter à note quotidienne pour mettre éléments reportés 
+	- [!] dire que quand on utilise l'entête de page pour faire en sorte qu'une note soit récurrente reportée il faut mettre en titre de niveau 1 le nom du fichier (optionnelement car avec make.md et repeat ça affiche plus le nom des fichiers) 
+	- [!] expliquer qu'il faut faire un fichier dans projet partagé qu'on partage et un projet perso dans lequel on met notre perspective d'action par rapport à ce dernier et qui est un projet actif si besoin  
+	- [!] montrer comment utiliser vue repeat  
+		- [!] dire que si quelque chose est en retard il faut le mettre au prochain vendredi  
+	- [!] Dire qu'il faut revoir la note quotidienne en se levant et en se couchant 
+	- [!] montrer comment faire un agenda partagé avec syncthing 
+		- [!] il faut utiliser un autre nom pour évènement agenda quand c'est pas notre dossier 
+	- [!] montrer comment exporter évènements google ou icloud et les importer sur full calendar 
+	- [!] dire qu'on peut aussi une page web pour afficher agenda 
+	- [!] dire que pour afficher / masquer les évènements il faut aller dans les paramètres de full calendar et ajouter / retirer un dossier  
+	- [!]  parler de comment marche les canvas globalement sur youtube et comment mettre objectif
+		- [!]  Dire qu'il faut utiliser hover editor pour éditer note dans canva
+		- [!]  dire à quoi serve les panneaux pour backlinks avec canvas
+		- [!] dire que sur mobile il faut maintenir là où il y a pas de notes pour ajouter une note du coffre 
+	- [!]  montrer trash explorer
+	- [!]  montrer comment utiliser les multi colonnes
+	- [!]  dire comment faire en sorte de mettre des taches et projet hors de fonctionnement mais qu'ils soient toujours noté (notamment avec le tag projet ou non et noté ou non)
+	- [!]  dire que dans la liste des projets s'il y en a aucun qui a une date d'échéance et bien elles ne seront plus affichées et pour ça il faut insérer une date d'échéance avec clique droit dans un projet
+	- [!]  montrer comment utiliser ical pour afficher dates d'échéances sur outlook Google agenda et icloud 
+	- [!]  Dire que si quelque chose est uniquement en attente on peut faire une note sans le tag projet
+	- [!]  parler de l'éditeur de photo sur obsidian et du fait que si on clique sur une image en ouvrant som menu alors on peut copier (bouton en bas à droite
+	- [!]  montrer comment utiliser image2latex et avoir l'api
+	- [!]  parler de chacun des statuts que j'utilise
+		- [!]  lier ceux qui sont liés à certaines de mes notes en particulier
+		- [ ] dire qu'il faut 
+	- [!]  dire que start date sert à reporter quelque chose
+	- [!] ça ⏪ vers la droit sert à reporter au lendemain et c'est affiché lors des requetes  
+	- [!]  dire qu'il faut faire un clique droit sur le lien pour ouvrir dans un nouvel onglet et délier pour re-reporter un projet dans note quotidienne
+	- [!]  parler de liste en attente (et en attente sur soi) et de les configurer avec son prénom en editant le code ^[[[choisir ses actions avec GTD grâce à obsidian#^8c070b|choisir ses actions avec GTD grâce à obsidian]]] en parlant du type de tag pour une personne
+	- [!]  dire que la barre latérale s'ouvre avec le bouton en bas à droite sur téléphone
+	- [!]  Parler de la barre d'outil sur téléphone et les effets et des flèches vers le haut et vers le bas pour faire monter une descendre un élément dans une liste
+	- [!]  parler du fait qu'on peut mettre des rappels avec google task ou rappel sur iphone et que ça permet de les avoir en notifications si ils sont urgents
+	- [!]  Dire c'est quoi la différence entre mettre une recurrence sans when done et avec
+		- [!]  dire qu'il faut mettre aussi contextes si besoin en faisant un exemple
+	- [!]  dire qu'*URI advanced* avec ctrl+R permet de faire le lien de mobile à pc d'une note sans avoir à ouvrir obsidian montrer qu'il faut avoir mozilla pour ouvrir une note sur mobile (parce que le moteur chromium qui est utilisé sur la plupart ne le permet pas), et préciser qu'il ne faut pas changer le titre sous peine de devoir rechanger le lien URI
+	- [!]  montrer comment utiliser récurrence [https://publish.obsidian.md/tasks/Getting+Started/Recurring+Tasks#Recurring+Tasks+(Repetition)](https://publish.obsidian.md/tasks/Getting+Started/Recurring+Tasks#Recurring+Tasks+(Repetition)) et dire que ça marche qu'avec l'étoile et les actions
+	- [!]  montrer comment utiliser file tree avec spaced repetition plugin
+	- [!]  parler de la synchronisation Syncthing et de comment synchroniser certains paramètres ^[[[améliorer modèle et coffre obsidian pour pratiquer gtd et propager ça pratique.canvas|améliorer modèle et coffre obsidian pour pratiquer gtd et propager ça pratique]]]
+		- [!]  dire que ça fonctionne en peer to peer et expliquer que c'est d'un appareil à un autre, et que c'est open source et que c'est donc sécurisé
+		- [!]  dire que si il y a conflit on peut toujours modifier le coffre avec le résolveur de conflit sur le modèle directement avec bouton
+		- [!]  parler du raccourci avec app android shortcut maker pour synchro auto dans utilisateur et comptes
+		- [!]  dire comment faire des partages sur syncthing avec plusieurs utilisateurs en créant un dossier
+		- [!]  montrer comment faire partage signets 
+	- [!]  Montrer comment synchroniser avec icloud et dire que c'est pour ceux qui ont un iphone 
+	- [!]  parler des habitudes, qu'on peut les grouper, et de leurs impacts non-négligeable sur les projets (prendre l'exemple des habitudes de révisions)  [priority:: low]
+		- [x] voir vidéo de feraste à ce sujet  [completion:: 2023-11-09]
+		- [!]  mentionner vidéo de Feraste sur le sujet
+		- [!]  expliquer le [[modèle pour habitude]] avec habitudes
+		- [!]  expliquer le [[modèle pour habitude]] avec habitudes
+	- [!]  montrer comment faire la revue hebdomadaire
+		- [!]  dire qu'il faut la mettre dans l'agenda au niveau du jour
+		- [!]  Dire que lors de la revue hebdomadaire il faut réduire le nombre de trucs dans les notes quotidiennes
+		- [!] dire qu'il faut garder les panneaux qui s'affichent ouverts tout au long de la revue 
+		- [!] dire que les notes quotidiennes faut voir en bas s'il y a pas d'élément qui a une date de start sans que ce soit terminé avant de les supprimer  
+		- [!]  dire que si on doit reprendre la revue hebdomadaire on peut mettre un intrant pour dire d'après où on peut reprendre
+	- [!] dire qu'il faut double cliquer quand on fait un begin en latex sur obsidian dans le vide là où on doit écrire ; on utilise notamment begin pour écrire de matrices et des systèmes  
+	- [!] parler de full calendar et des différentes manière d'avoir un agenda sur obsidian avec 
+
+- [!]  monter la vidéo de manière à ce qu'elle soit divertissante
+	- [!]  flouter si il y a des infos personnelles avec effet clipchamp 
+## partager une fois fini
+- [!] partager avec les gens d'atypic
+- [!] voir pour faire faire les manips de la dernière version sur la config de thomas sinon lui demander de copier ses projets et notes quotidiennes et notes d'évènements ; faire en sorte que 16 et les parents essayent 
+- [!] donner mon modèle à Gianni à Justine à Nathan et à bonclay et Robin et Mathias et à Shaheen et relancer Bastien et lola l'ancienne meuf de Thomas et jordan et Mathieu et voir avec ce dernier pour theodore et Nassim (.minfini sur discord) et whix et Marc Anthony et Chloé et Luna sur discord et LK Musen et l'intello autiste d'Apollinaire et Laurent et Luis et à Aenea et Tian (discord) et Tom et urlebop et Michel Mugot et Jeremy guibert (que je peux mettre en bêta ) et Marius de St Geniez et Maëlle Snap et Matthieu Combaz, Bénédicte et Gael de St Geniez et Gauthier et Shanatomique et Parler à Jérômy Sagnier du obsidian voir pour en même temps que Féraste le mec sur Skool dans mes mails et Hélène de St Geniez  #inclus
+- [!] Envoyer modèle à theo une fois que la vidéo est faite Envoyer par message la vidéo youtube de gtd avec obsidian quand elle sera sortie à Bernard de ppp1 et Chloé ferra ; un certain nombre de gens sur discord 
+	- [ ] envoyer un mail prof maths expert goyet.christopher@gmail.com
+	- [-] envoyer mail à M.Dulat philippedulat@gmail.com
+	- [ ] chercher mail dans notes de prof d'anglais dans note [[faire longue vidéo chapitrée sur GTD et sur obsidian qui serve vraiment]]
+
+- [ ] chercher mail du prof d'histoire #gmail
+	- [-] trouver mail de M.Benoit ce qui serait facile serait par l'intermédiaire d'un autre prof #inclus
+	- [ ] Sophie
+	- [ ] dhioulak (insta)
+	- [ ] Envoyer un message à Ismail mec du marketing d'Antoine
+	- [ ] Kim qui joue du basson
+	- [ ] cxnfav
+	- [ ] à Robin Paillette (en lui rappelant que je lui en ai parlé à St Geniez (2024))
+
+- [?] vérifier que liste des projets actifs est bien en flow #inclus 
+	- [ ] ouvrir projets actifs 
+	- [?] aperçu des projets
+		- [ ] passer curseur pour faire apparaitre
+	- [ ] appuyer sur les petits carrés et flow view dans petit menu
+- [!] mettre un message sur [channel discord de Archi-lourd](https://discord.com/channels/1050136893242753085/1105869492195692594) #inclus  
+
+- [*] voir pour commencer [[trucs à faire pour gagner le plus d'argent grâce à la propagation de gtd avec mon modèle]]

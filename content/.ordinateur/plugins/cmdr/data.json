@@ -1,0 +1,1146 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "pencil",
+      "name": "Editer la tâche",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "aperture",
+      "name": "Inclure une habitude",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-1",
+      "icon": "check-circle",
+      "name": "Changer statut de tache ou en ajouter un",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-task-archiver:archive-heading-under-cursor",
+      "icon": "align-left",
+      "name": "Archive les tâches terminées en dessous de ce sous-titre",
+      "mode": "any"
+    },
+    {
+      "id": "date-inserter:open-calendar",
+      "icon": "calendar",
+      "name": "Insérer une date",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-footnotes:insert-autonumbered-footnote",
+      "icon": "plus-square",
+      "name": "Insérer une note de bas de page",
+      "mode": "any"
+    },
+    {
+      "id": "note-composer:split-file",
+      "icon": "lucide-scissors",
+      "name": "Extraire la sélection actuelle...",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "cmdr:macro-20",
+      "icon": "lucide-archive",
+      "name": "Archiver cette note",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-22",
+      "icon": "lucide-axe",
+      "name": "Reporter cette note",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-21",
+      "icon": "lucide-timer-reset",
+      "name": "Reporter récursivement cette note",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-19",
+      "icon": "lucide-bookmark-check",
+      "name": "Utiliser cette note pour une horizon",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-18",
+      "icon": "lucide-sprout",
+      "name": "Utiliser cette note en tant que projet",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-task-archiver:archive-tasks",
+      "icon": "lucide-align-left",
+      "name": "Archiver les tâches terminées de cette note",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-27",
+      "icon": "lucide-paperclip",
+      "name": "Utiliser cette note en tant que note de contenu",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "zen:toggle",
+      "icon": "eye-off",
+      "name": "mode Focus",
+      "mode": "any"
+    },
+    {
+      "id": "bookmarks:open",
+      "icon": "lucide-bookmark",
+      "name": "Afficher les signets",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-14",
+      "icon": "person-standing",
+      "name": "Ouvrir éléments en attente",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-13",
+      "icon": "timer",
+      "name": "Ouvrir éléments reportés",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-15",
+      "icon": "align-center",
+      "name": "Ouvrir projets actifs",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-12",
+      "icon": "inbox",
+      "name": "Ouvrir nouveaux intrants",
+      "mode": "any"
+    },
+    {
+      "id": "file-diff:find-sync-conflicts-and-merge",
+      "icon": "heart",
+      "name": "Résoudre les conflits de synchronisation",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-10",
+      "icon": "lucide-bike",
+      "name": "Revue hebdomadaire",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-24",
+      "icon": "lucide-newspaper",
+      "name": "Créer une note récurrente reportée",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-25",
+      "icon": "lucide-plane",
+      "name": "Créer une note reportée",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-26",
+      "icon": "lucide-sailboat",
+      "name": "Créer une note pour une horizon",
+      "mode": "any"
+    },
+    {
+      "id": "create-note-in-folder:archive",
+      "icon": "lucide-archive",
+      "name": "Créer une archive",
+      "mode": "any"
+    },
+    {
+      "id": "open-files-with-commands:3b5f1d86-bfc4-4040-b8e5-21fc606fcce7",
+      "icon": "lucide-folder-clock",
+      "name": "Ouvrir notes reportées",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:e0f537e6-3a40-4b3e-a9ee-41c8d88af49e",
+      "icon": "lucide-git-branch-plus",
+      "name": "Saisir un élément en attente",
+      "mode": "any"
+    },
+    {
+      "id": "create-note-in-folder:contenu",
+      "icon": "lucide-notebook-pen",
+      "name": "Créer une note de contenu",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-fullscreen-plugin:fullscreen-focus",
+      "icon": "maximize-2",
+      "name": "plein écran",
+      "mode": "any"
+    }
+  ],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:Modèles (inclus)/modèle pour !.md"
+        },
+        {
+          "action": 0,
+          "commandId": "quickadd:choice:7a470c1f-2895-4390-aee0-3c48d1a4d183"
+        }
+      ],
+      "name": "habitude",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "editor:toggle-checklist-status"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-task-collector:task-collector-mark"
+        }
+      ],
+      "name": "changer statut",
+      "icon": "check-circle",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "advanced-random-note:query:740dd7f7-a3be-46fe-8e77-3408b516404d"
+        },
+        {
+          "action": 1,
+          "delay": "1400"
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:replace-in-file-templater"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hotkeys-for-templates:test commander 2.md"
+        }
+      ],
+      "name": "boîte de réception",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "switcher:open"
+        }
+      ],
+      "name": "Ouvrir le sélecteur rapide",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "advanced-random-note:query:82d91d70-fbbc-4263-aaec-dc186414d7a0"
+        },
+        {
+          "action": 1,
+          "delay": "1200"
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:replace-in-file-templater"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hotkeys-for-templates:test commander 2.md"
+        }
+      ],
+      "name": "éléments reportés",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 1,
+          "delay": "350"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:b5f3e933-d7e6-426b-9611-8f1d2992d308"
+        },
+        {
+          "action": 1,
+          "delay": "350"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "google-calendar:open-google-calendar-week-view"
+        },
+        {
+          "action": 1,
+          "delay": "350"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:d3ef8165-ae96-4ca5-b834-db6de9aeb4e3"
+        },
+        {
+          "action": 1,
+          "delay": "950"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:048821fc-95b9-4d23-a680-8bc8c0548a42"
+        },
+        {
+          "action": 1,
+          "delay": "950"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:7d24f441-c596-4d56-b194-35b3bfba0ddb"
+        },
+        {
+          "action": 1,
+          "delay": 1750
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:fc12da1c-be45-469b-ac44-3dcccf7fd0f1"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        }
+      ],
+      "name": "Revue Hebdomadaire différents panneaux",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:Modèles (inclus)/modèle pour !.md"
+        },
+        {
+          "action": 0,
+          "commandId": "quickadd:choice:24e678c1-3c73-44a5-bdad-45705056638f"
+        }
+      ],
+      "name": "tableau de variation",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:Modèles (inclus)/Modèle pour tache dans note quotidienne.md"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:replace-in-file-templater"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-task-collector:task-collector-mark"
+        }
+      ],
+      "name": "ajouter tache dans note quotidienne",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "editor:open-link-in-new-leaf"
+        },
+        {
+          "action": 0,
+          "commandId": "links:editor-unlink-link"
+        }
+      ],
+      "name": "ouvrir le lien dans un nouvel onglet et le dissocier",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 1,
+          "delay": "0"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:7d24f441-c596-4d56-b194-35b3bfba0ddb"
+        },
+        {
+          "action": 1,
+          "delay": "950"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-projects:show:98cbd2ec-34c7-42cc-a262-533f817d283e"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:next-tab"
+        },
+        {
+          "action": 1,
+          "delay": 1300
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:b5f3e933-d7e6-426b-9611-8f1d2992d308"
+        },
+        {
+          "action": 1,
+          "delay": 950
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:3c093cb3-b0b7-420b-b273-17f5d0d297fe"
+        },
+        {
+          "action": 1,
+          "delay": 550
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-custom-frames:open-custom-frames-google-calendar"
+        },
+        {
+          "action": 1,
+          "delay": 950
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:048821fc-95b9-4d23-a680-8bc8c0548a42"
+        },
+        {
+          "action": 1,
+          "delay": 550
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:507b74f3-c2dc-42b9-9ea7-79e840232a61"
+        },
+        {
+          "action": 1,
+          "delay": 700
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 1,
+          "delay": "1300"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:bdca8a15-ddb7-435d-8916-d6c59cf96eac"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        }
+      ],
+      "name": "nouvelle revue hebdomadaire",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 1,
+          "delay": "0"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:7d24f441-c596-4d56-b194-35b3bfba0ddb"
+        },
+        {
+          "action": 1,
+          "delay": 950
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-projects:show-projects"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:next-tab"
+        },
+        {
+          "action": 1,
+          "delay": "1300"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:b5f3e933-d7e6-426b-9611-8f1d2992d308"
+        },
+        {
+          "action": 1,
+          "delay": "950"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:3b5f1d86-bfc4-4040-b8e5-21fc606fcce7"
+        },
+        {
+          "action": 1,
+          "delay": "550"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:3c093cb3-b0b7-420b-b273-17f5d0d297fe"
+        },
+        {
+          "action": 1,
+          "delay": "550"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-full-calendar:full-calendar-open"
+        },
+        {
+          "action": 1,
+          "delay": "950"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:e4230c73-3861-4518-8a28-66cf26946779"
+        },
+        {
+          "action": 1,
+          "delay": "550"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:507b74f3-c2dc-42b9-9ea7-79e840232a61"
+        },
+        {
+          "action": 1,
+          "delay": 550
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "daily-notes"
+        },
+        {
+          "action": 1,
+          "delay": "700"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 1,
+          "delay": 1300
+        },
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:bdca8a15-ddb7-435d-8916-d6c59cf96eac"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        }
+      ],
+      "name": "nouvelles revue hebdomadaire v.agenda",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "note-refactor-obsidian:app:extract-selection-first-line"
+        },
+        {
+          "action": 1,
+          "delay": 1100
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:next-tab"
+        },
+        {
+          "action": 1,
+          "delay": 1100
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:Modèles (inclus)/déplacer refactor pour éléments reportés récurrents.md"
+        },
+        {
+          "action": 1,
+          "delay": 1500
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:previous-tab"
+        },
+        {
+          "action": 1,
+          "delay": 1200
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:replace-in-file-templater"
+        },
+        {
+          "action": 1,
+          "delay": "1250"
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:Modèles (inclus)/indiquer à revoir récursivement.md"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:next-tab"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "repeat-plugin:setup-repeat-note"
+        }
+      ],
+      "name": "revoir la sélection (peut-être) récursivement",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:ca135011-00cc-4193-8c79-4a792042d47c"
+        }
+      ],
+      "name": "ouvrir boite de réception",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:b5f3e933-d7e6-426b-9611-8f1d2992d308"
+        }
+      ],
+      "name": "ouvrir éléments reportés",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:048821fc-95b9-4d23-a680-8bc8c0548a42"
+        }
+      ],
+      "name": "ouvrir éléments en attente",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "open-files-with-commands:bdca8a15-ddb7-435d-8916-d6c59cf96eac"
+        }
+      ],
+      "name": "ouvrir projets actifs",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:Modèles (inclus)/déplacer refactor pour éléments reportés récurrents.md"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "repeat-plugin:setup-repeat-note"
+        }
+      ],
+      "name": "notes récurrentes reportées",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:Modèles (inclus)/déplacer pour notes reportées une fois.md"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "review-obsidian:future-review"
+        }
+      ],
+      "name": "notes reportées",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-linter:lint-file"
+        },
+        {
+          "action": 1,
+          "delay": 3550
+        },
+        {
+          "action": 0,
+          "commandId": "quick-tagger:quick-add-tag:projet"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "auto-note-mover:Move-the-note"
+        }
+      ],
+      "name": "utiliser cette note en tant que projet",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-linter:lint-file"
+        },
+        {
+          "action": 1,
+          "delay": 3550
+        },
+        {
+          "action": 0,
+          "commandId": "quick-tagger:quick-add-tag:horizon"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "auto-note-mover:Move-the-note"
+        }
+      ],
+      "name": "utiliser cette note pour une horizon",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-linter:lint-file"
+        },
+        {
+          "action": 1,
+          "delay": 3550
+        },
+        {
+          "action": 0,
+          "commandId": "quick-tagger:quick-add-tag:archive"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "auto-note-mover:Move-the-note"
+        }
+      ],
+      "name": "Archiver cette note",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-linter:lint-file"
+        },
+        {
+          "action": 1,
+          "delay": 3550
+        },
+        {
+          "action": 0,
+          "commandId": "quick-tagger:quick-add-tag:récurrent_reporté"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "auto-note-mover:Move-the-note"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "repeat-plugin:setup-repeat-note"
+        }
+      ],
+      "name": "Reporter récursivement cette note",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-linter:lint-file"
+        },
+        {
+          "action": 1,
+          "delay": 3550
+        },
+        {
+          "action": 0,
+          "commandId": "quick-tagger:quick-add-tag:reporté"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "auto-note-mover:Move-the-note"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "quick-tagger:quick-add-tag:insérer_une_date_ici"
+        }
+      ],
+      "name": "Reporter cette note",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "create-note-in-folder:archive"
+        }
+      ],
+      "name": "créer une archive",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "create-note-in-folder:note_récurrente_reportée"
+        },
+        {
+          "action": 1,
+          "delay": "550"
+        },
+        {
+          "action": 0,
+          "commandId": "repeat-plugin:setup-repeat-note"
+        }
+      ],
+      "name": "créer une note récurrente reportée",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "create-note-in-folder:reporté"
+        },
+        {
+          "action": 1,
+          "delay": "1250"
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:jump-to-next-cursor-location"
+        },
+        {
+          "action": 1,
+          "delay": "750"
+        },
+        {
+          "action": 0,
+          "commandId": "date-inserter:open-calendar"
+        }
+      ],
+      "name": "créer une note reportée",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "create-note-in-folder:horizon"
+        }
+      ],
+      "name": "créer une note pour une horizon",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-linter:lint-file"
+        },
+        {
+          "action": 1,
+          "delay": 3550
+        },
+        {
+          "action": 0,
+          "commandId": "quick-tagger:quick-add-tag:contenu"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "auto-note-mover:Move-the-note"
+        }
+      ],
+      "name": "utiliser cette note en tant que note de contenu",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Insérer le modèle",
+      "Create new drawing",
+      "surfing-bookmark-manager",
+      "Templater",
+      "Ouvrir la palette de commandes",
+      "Open trash explorer",
+      "ribbon-divider-82e25550-90b2-4672-8081-ceed340dafc8",
+      "Ouvrir le sélecteur rapide",
+      "Remove tag from current note",
+      "Add tag to current note"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [
+      {
+        "commandID": "cmdr:macro-1",
+        "iconID": "check-circle"
+      }
+    ],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: rmskg-chevt
+created: 2025-01-05T17:48:06+01:00

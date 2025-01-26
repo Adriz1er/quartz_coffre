@@ -1,0 +1,130 @@
+{
+  "openNewTab": false,
+  "openFileIn": "newTab",
+  "deleteCommandWhenFileIsDeleted": true,
+  "updateCommandsOnRename": true,
+  "commands": [
+    {
+      "id": "cf8d0d8a-6464-46d3-a56f-9974ad912694",
+      "name": "vérifications",
+      "filePath": "inclus/liste des éléments à vérifier.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:cf8d0d8a-6464-46d3-a56f-9974ad912694",
+        "name": "Open files with commands: vérifications"
+      }
+    },
+    {
+      "id": "b5f3e933-d7e6-426b-9611-8f1d2992d308",
+      "name": "éléments reportés",
+      "filePath": "inclus/éléments reportés.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:b5f3e933-d7e6-426b-9611-8f1d2992d308",
+        "name": "Open files with commands: éléments reportés"
+      }
+    },
+    {
+      "id": "d3ef8165-ae96-4ca5-b834-db6de9aeb4e3",
+      "name": "éléments récurrents",
+      "filePath": "inclus/éléments récurrents.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:d3ef8165-ae96-4ca5-b834-db6de9aeb4e3",
+        "name": "Open files with commands: éléments récurrents"
+      }
+    },
+    {
+      "id": "7d24f441-c596-4d56-b194-35b3bfba0ddb",
+      "name": "boite de réception",
+      "filePath": "inclus/boîte de réception.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:7d24f441-c596-4d56-b194-35b3bfba0ddb",
+        "name": "Open files with commands: boite de réception"
+      }
+    },
+    {
+      "id": "e854458d-21ab-4372-9532-7630b3c0b9be",
+      "name": "projets actifs",
+      "filePath": "inclus/projets actifs.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:e854458d-21ab-4372-9532-7630b3c0b9be",
+        "name": "Open files with commands: projets actifs"
+      }
+    },
+    {
+      "id": "3c093cb3-b0b7-420b-b273-17f5d0d297fe",
+      "name": "notes récurrentes reportées",
+      "filePath": "inclus/notes récurrentes reportées.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:3c093cb3-b0b7-420b-b273-17f5d0d297fe",
+        "name": "Open files with commands: notes récurrentes reportées"
+      }
+    },
+    {
+      "id": "ca135011-00cc-4193-8c79-4a792042d47c",
+      "name": "nouveaux intrants",
+      "filePath": "inclus/nouveaux intrants.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:ca135011-00cc-4193-8c79-4a792042d47c",
+        "name": "Open files with commands: nouveaux intrants"
+      }
+    },
+    {
+      "id": "507b74f3-c2dc-42b9-9ea7-79e840232a61",
+      "name": "feuilles volantes",
+      "filePath": "inclus/feuilles volantes.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:507b74f3-c2dc-42b9-9ea7-79e840232a61",
+        "name": "Open files with commands: feuilles volantes"
+      }
+    },
+    {
+      "id": "bdca8a15-ddb7-435d-8916-d6c59cf96eac",
+      "name": "Projets actifs",
+      "filePath": "inclus/Projets actifs 1.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:bdca8a15-ddb7-435d-8916-d6c59cf96eac",
+        "name": "Open files with commands: Projets actifs"
+      }
+    },
+    {
+      "id": "3b5f1d86-bfc4-4040-b8e5-21fc606fcce7",
+      "name": "notes reportées",
+      "filePath": "inclus/notes reportées.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:3b5f1d86-bfc4-4040-b8e5-21fc606fcce7",
+        "name": "Open files with commands: notes reportées"
+      }
+    },
+    {
+      "id": "e4230c73-3861-4518-8a28-66cf26946779",
+      "name": "attente",
+      "filePath": "inclus/éléments en attente.md",
+      "openFileIn": "newTab",
+      "command": {
+        "id": "open-files-with-commands:e4230c73-3861-4518-8a28-66cf26946779",
+        "name": "Open files with commands: attente"
+      }
+    }
+  ],
+  "customVariables": [
+    {
+      "name": "date",
+      "value": "{{d:YYYY-MM-DD}}",
+      "type": "string"
+    },
+    {
+      "name": "time",
+      "value": "{{d:HH:mm:ss}}",
+      "type": "string"
+    }
+  ]
+}
